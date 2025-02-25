@@ -1,0 +1,19 @@
+# These are configuration files the DLS and vscode-daedalus extension use
+# /scripts/content/.vscode/
+/[sS][cC][rR][iI][pP][tT][sS]/[cC][oO][nN][tT][eE][nN][tT]/.[vV][sS][cC][oO][dD][eE]/
+# /scripts/content/.dls/
+/[sS][cC][rR][iI][pP][tT][sS]/[cC][oO][nN][tT][eE][nN][tT]/.[dD][lL][sS]/
+# /scripts/system/.vscode/
+/[sS][cC][rR][iI][pP][tT][sS]/[sS][yY][sS][tT][eE][mM]/.[vV][sS][cC][oO][dD][eE]/
+# /scripts/system/.dls/
+/[sS][cC][rR][iI][pP][tT][sS]/[sS][yY][sS][tT][eE][mM]/.[dD][lL][sS]/
+
+# Compiled Output Units - dialogues
+# /Scripts/content/CUTSCENE
+/[sS][cC][rR][iI][pP][tT][sS]/[cC][oO][nN][tT][eE][nN][tT]/[cC][uU][tT][sS][cC][eE][nN][eE]/
+
+# Compiled scripts
+# /Scripts/_compiled/*.dat
+/[sS][cC][rR][iI][pP][tT][sS]/_[cC][oO][mM][pP][iI][lL][eE][dD]/
+
+/*.sh

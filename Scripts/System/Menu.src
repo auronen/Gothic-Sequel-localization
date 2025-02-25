@@ -1,0 +1,13 @@
+menu\menu_defines.d
+_intern\menu.d
+menu\menu_main.d
+menu\menu_opt.d
+menu\menu_opt_game.d
+menu\menu_opt_graphics.d
+menu\menu_opt_video.d
+menu\menu_opt_audio.d
+menu\menu_opt_controls.d
+menu\menu_misc.d
+menu\menu_savegame.d
+menu\menu_log.d
+menu\menu_status.d

@@ -1,0 +1,14 @@
+//////////////////////////////////////////////////////////////////////////
+//	B_Arena_Wait
+//	============
+//	Wartet eine Weile.
+//////////////////////////////////////////////////////////////////////////
+func void B_Arena_Wait(var int npcInstance)
+{
+	PrintDebugNpc(PD_TA_FRAME, "B_Arena_Wait");
+
+	var C_Npc npc;
+	npc = Hlp_GetNpc(npcInstance);
+
+	AI_Wait(npc, 20);
+};
