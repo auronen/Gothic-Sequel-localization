@@ -144,4 +144,4 @@
 "Scripts/System/Menu/Menu_Status.d:356","Waffentalente / Treffer-Chance:","Bojové dovednosti / Kritický úder","","","MENU_ITEM_TALENTS_WEAPON_HEADING.text[0]","",""
 "Scripts/System/Menu/Menu_Status.d:363","Diebestalente / Erfolgs-Chance:","Zlodějské dovednosti","","","MENU_ITEM_TALENTS_THIEF_HEADING.text[0]","",""
 "Scripts/System/Menu/Menu_Status.d:370","Magie-Talente:","Magické dovednosti","","","MENU_ITEM_TALENTS_MAGIC_HEADING.text[0]","",""
-"Scripts/System/Menu/Menu_Status.d:377","Handwerks-Talente:","Ostatní dovednosti","","True","MENU_ITEM_TALENTS_WORK_HEADING.text[0]","",""
+"Scripts/System/Menu/Menu_Status.d:377","Handwerks-Talente:","Ostatní dovednosti","","False","MENU_ITEM_TALENTS_WORK_HEADING.text[0]","",""
