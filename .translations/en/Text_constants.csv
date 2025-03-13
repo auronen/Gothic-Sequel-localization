@@ -4,7 +4,7 @@
 "Scripts/Content/Story/Text.d:7","Bett","Bed","","True","MOBNAME_BED","",""
 "Scripts/Content/Story/Text.d:8","Tür","Door","","True","MOBNAME_DOOR","",""
 "Scripts/Content/Story/Text.d:15","Amboss","Anvil","","True","MOBNAME_ANVIL","",""
-"Scripts/Content/Story/Text.d:16","Wassereimer","","","False","MOBNAME_BUCKET","",""
+"Scripts/Content/Story/Text.d:16","Wassereimer","Vědro s vodou","","False","MOBNAME_BUCKET","",""
 "Scripts/Content/Story/Text.d:17","Schmiedefeuer","","","False","MOBNAME_FORGE","",""
 "Scripts/Content/Story/Text.d:18","Schleifstein","Whetstone","","True","MOBNAME_GRINDSTONE","",""
 "Scripts/Content/Story/Text.d:19","Schmelzofen","","","False","MOBNAME_MELTER","",""
