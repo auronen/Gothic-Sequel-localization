@@ -1213,3 +1213,12 @@ const string TXT_INV_CAT[INV_CAT_MAX] = {
 // Missionen-Konstanten
 // ***************************************************************************************
 	const int NAME_IgarazSilver							= 20;
+
+	const string KapWechsel_1					= "Kapitel 1";
+	const string KapWechsel_1_Text				= "Die Rückkehr";
+	const string KapWechsel_2					= "Kapitel 2";
+	const string KapWechsel_2_Text				= "Der Aufbruch";
+	const string KapWechsel_3					= "Kapitel 3";
+	const string KapWechsel_3_Text				= "Die Reise";
+	const string KapWechsel_4					= "Kapitel 4";
+	const string KapWechsel_4_Text				= "Die Entscheidung";
