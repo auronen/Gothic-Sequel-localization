@@ -142,6 +142,7 @@ func void B_Arena_PrintRankingList()
 	B_Arena_PrintGladiator(PC_Hero, B_Arena_GetGladiatorRanking(PC_Hero));
 };
 
+/*
 func C_NPC B_Arena_GetRankingGladiator(var int rank)
 {
 	if (B_Arena_GetGladiatorRanking(AMZ_900_Thora) == rank) { return AMZ_900_Thora; };
@@ -152,3 +153,4 @@ func C_NPC B_Arena_GetRankingGladiator(var int rank)
 	if (B_Arena_GetGladiatorRanking(PC_Hero) == rank) { return PC_Hero; };
 	// return - 1;
 };
+*/
