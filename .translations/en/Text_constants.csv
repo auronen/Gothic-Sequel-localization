@@ -760,3 +760,7 @@
 "Scripts/Content/_intern/Constants.d:418","Annehmen","Accept","","True","STR_INFO_TRADE_ACCEPT","",""
 "Scripts/Content/_intern/Constants.d:419","Ablehnen","Decline","","True","STR_INFO_TRADE_RESET","",""
 "Scripts/Content/_intern/Constants.d:420","Zurück","Back","","True","STR_INFO_TRADE_EXIT","",""
+"Scripts/Content/Story/Text.d:1222","Kapitel 1","Chapter 1","","False","KapWechsel_1","",""
+"Scripts/Content/Story/Text.d:1224","Kapitel 2","Chapter 2","","False","KapWechsel_2","",""
+"Scripts/Content/Story/Text.d:1225","Kapitel 3","Chapter 3","","False","KapWechsel_3","",""
+"Scripts/Content/Story/Text.d:1225","Kapitel 4","Chapter 4","","False","KapWechsel_4","",""
