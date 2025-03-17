@@ -85,7 +85,7 @@
 "Scripts/Content/Items/Artifacts.d:1150","Schaden","Damage","","True","ItAr_ScrollIceWave.text[2]","",""
 "Scripts/Content/Items/Food.d:384","Darf in keiner Speise fehlen!","","","False","ItMi_Salt.text[0]","",""
 "Scripts/Content/Items/Melee_Weapons.d:821","Rostiges Schwert","Rusty sword","","True","ItMw_RustySword.name","",""
-"Scripts/Content/Items/Melee_Weapons.d:852","Nagelkeule","-","","True","ItMw_Nailmace.name","",""
+"Scripts/Content/Items/Melee_Weapons.d:852","Nagelkeule","Nail Club","","False","ItMw_Nailmace.name","",""
 "Scripts/Content/Items/Melee_Weapons.d:883","Verwitterte Axt","Withered Axe","","True","ItMw_WitheredAxe.name","",""
 "Scripts/Content/Items/Melee_Weapons.d:914","schartiger Streitkolben","","","False","ItMw_NotchedMace.name","",""
 "Scripts/Content/Items/Melee_Weapons.d:1014","Nur Milizsoldaten tragen diese Art","","","False","ItMw_MilitiaSword.text[0]","",""
