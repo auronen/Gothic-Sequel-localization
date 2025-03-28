@@ -1,5 +1,5 @@
 "location","source","target","id","fuzzy","context","translator_comments","developer_comments"
-"Scripts/Content/Story/SVM.d:215","Hör auf mit dieser Magie-Scheiße!","Stop that sorcery!","","True","SVM_1_StopMagic","",""
+"Scripts/Content/Story/SVM.d:215","Hör auf mit dieser Magie-Scheiße!","Stop that sorcery!","","False","SVM_1_StopMagic","",""
 "Scripts/Content/Story/SVM.d:216","Willst du Schläge? Hör sofort damit auf!!!","Do you want a beating? Stop it at once!!!","","True","SVM_1_ISaidStopMagic","",""
 "Scripts/Content/Story/SVM.d:217","Steck die Waffe weg!","Put the weapon down!","","True","SVM_1_WeaponDown","",""
 "Scripts/Content/Story/SVM.d:218","Steck endlich die Scheißwaffe weg!!","Put that bloody weapon away now!!","","True","SVM_1_ISaidWeaponDown","",""
