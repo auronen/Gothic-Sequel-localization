@@ -642,7 +642,7 @@
 "Scripts/Content/Story/Text.d:986","zu weit weg!","Příliš daleko!","","","_STR_MESSAGE_STEAL_NOT_IN_RANGE","",""
 "Scripts/Content/Story/Text.d:988","der hat nichts dabei!","Nemá nic u sebe!","","","_STR_MESSAGE_STEAL_NPC_IS_EMPTY","",""
 "Scripts/Content/Story/Text.d:992","da ist nichts mehr zu holen!","Nic víc k sebrání!","","","_STR_MESSAGE_PLUNDER_IS_EMPTY","",""
-"Scripts/Content/Story/Text.d:993","keine Munition!","Žádná munice!","","","_STR_MESSAGE_RANGED_NO_AMMO","",""
+"Scripts/Content/Story/Text.d:993","keine Munition!","Žádné střelivo!","","False","_STR_MESSAGE_RANGED_NO_AMMO","",""
 "Scripts/Content/Story/Text.d:994","Wissen über neue Waffe erlernt!","Naučil jsem se kovat nové zbraně!","","","_STR_MESSAGE_LEARNSMITH","",""
 "Scripts/Content/Story/Text.d:995","Wissen über neues Kochrezept erlernt!","Naučil jsem se nové recepty!","","","_STR_MESSAGE_LEARNCOOK","",""
 "Scripts/Content/Story/Text.d:996","Wissen über neues Alchemierezept erlernt!","Naučil jsem se nové alchymistické receptury!","","","_STR_MESSAGE_LEARNALCHEMIE","",""
