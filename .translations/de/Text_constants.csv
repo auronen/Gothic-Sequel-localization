@@ -594,7 +594,7 @@
 "Scripts/Content/Story/Text.d:915"," Gegenstand genommen"," Gegenstand genommen","","","_STR_MESSAGE_ITEM_PLUNDERED","",""
 "Scripts/Content/Story/Text.d:916"," Gegenstände genommen"," Gegenstände genommen","","","_STR_MESSAGE_ITEMS_PLUNDERED","",""
 "Scripts/Content/Story/Text.d:919"," Silber genommen"," Silber genommen","","","_STR_MESSAGE_SILVER_PLUNDERED","",""
-"Scripts/Content/Story/Text.d:920"," Gold gegeben"," Gold gegeben","","","_STR_MESSAGE_GOLD_PLUNDERED","",""
+"Scripts/Content/Story/Text.d:920"," Gold gegeben"," Gold genommen","","False","_STR_MESSAGE_GOLD_PLUNDERED","",""
 "Scripts/Content/Story/Text.d:923"," nimmt sich "," nimmt sich ","","","_STR_MESSAGE_ATT_PAY_MIDFIX","",""
 "Scripts/Content/Story/Text.d:924"," Silber!"," Silber!","","","_STR_MESSAGE_ATT_PAY_POSTFIX","",""
 "Scripts/Content/Story/Text.d:926","der Wert deiner Tauschware ist nicht hoch genug","der Wert deiner Tauschware ist nicht hoch genug","","","_STR_MESSAGE_TRADE_FAILURE","",""
