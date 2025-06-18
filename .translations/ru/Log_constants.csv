@@ -86,7 +86,7 @@
 "Scripts/Content/Story/Log_Constants.d:115","Gerion hat mir das Talent des Taschendiebstahls gezeigt. Jetzt kann ich Osbert den Schlüssel unbemerkt abnehmen","","","False","CH1_TrainSneak_5","",""
 "Scripts/Content/Story/Log_Constants.d:116","Ich habe Osbert den Schlüssel unbemerkt abgenommen. Gerion ist nun auch bereit mir Grundkenntnisse über SCHLÖSSER KNACKEN beizubringen","","","False","CH1_TrainSneak_6","",""
 "Scripts/Content/Story/Log_Constants.d:118","Ich habe Osbert niedergeschlagen und Gerion den Schlüssel gebracht. Das war zwar nicht ganz im Sinn der Aufgabe, aber er wird mich weiterhin unterrichten","","","False","CH1_TrainSneak_7","",""
-"Scripts/Content/Story/Log_Constants.d:120","Akrobatik","","","False","CH1_TrainAcrobatic","",""
+"Scripts/Content/Story/Log_Constants.d:120","Akrobatik","Акробатика","","False","CH1_TrainAcrobatic","",""
 "Scripts/Content/Story/Log_Constants.d:121","Eine Kiste voller Kraut","","","False","CH1_TrainLockpick_1","",""
 "Scripts/Content/Story/Log_Constants.d:122","Lakarus der Bettler verwahrt seinen Sumpfkrautvorrat in seiner Hütte. Gerion braucht 20 Stengel.","","","False","CH1_TrainLockpick_1_1","",""
 "Scripts/Content/Story/Log_Constants.d:123","Die Hütte von Lakarus steht oberhalb der Arena.","","","False","CH1_TrainLockpick_1_2","",""
