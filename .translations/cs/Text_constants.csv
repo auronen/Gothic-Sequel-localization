@@ -767,3 +767,7 @@
 "Scripts/Content/Story/Text.d:1222","Kapitel 1","Kapitola 1","","False","KapWechsel_1","",""
 "Scripts/Content/Story/Text.d:1225","Kapitel 4","Kapitola 4","","False","KapWechsel_4","",""
 "Scripts/Content/Story/Text.d:913"," hat "," vzal ","","False","_STR_MESSAGE_PLUNDERED_MIDFIX","",""
+"","In 2001 Piranha Bytes attempted to create an Addon for Gothic. This project went far but was never finished and intended for release. However its playable so we wanted to make it available as a bonus item. Anything related to the content in this Addon has to be considered non canon.","V roce 2001 začalo studio Piranha Bytes vyvíjet rozšíření ke Gothicu, které sice bylo již v pokročilé fázi, ale nikdy nebylo dokončeno ani určeno k vydání. Na počest původních tvůrců a oddané Gothic komunity jej nyní zpřístupňujeme jako bonusový obsah. Upozorňujeme, že jeho obsah není kanonický a není součástí oficiální série. Děkujeme a bavte se!","","False","Disclaimer_Text","",""
+"Scripts/Content/Story/Text.d:1225","Die Reise","Cesta","","False","KapWechsel_3_Text","",""
+"Scripts/Content/Story/Text.d:1225","Die Entscheidung","Rozhodnutí","","False","KapWechsel_4_Text","",""
+"","DISCLAIMER","VAROVÁNÍ","","False","Disclaimer","",""
