@@ -1,6 +1,6 @@
 "location","source","target","id","fuzzy","context","translator_comments","developer_comments"
 "Scripts/Content/Story/SVM.d:655","Pack mal lieber die Magie weg!","You better stop that magic!","","True","SVM_5_StopMagic","",""
-"Scripts/Content/Story/SVM.d:656","Wenn ich Magie weg sage, dann mein' ich das auch so!","","","False","SVM_5_ISaidStopMagic","",""
+"Scripts/Content/Story/SVM.d:656","Wenn ich Magie weg sage, dann mein' ich das auch so!","When I say 'stop the magic', I mean it!","","False","SVM_5_ISaidStopMagic","",""
 "Scripts/Content/Story/SVM.d:658","Was hast du mit der Waffe vor, Mann!","What do you intend to do with the weapon, man!","","True","SVM_5_WeaponDown","",""
 "Scripts/Content/Story/SVM.d:658","Komm schon, steck weg, das Ding!","Come on, put that thing away!","","True","SVM_5_ISaidWeaponDown","",""
 "Scripts/Content/Story/SVM.d:659","Du zielst auf mich, du Komiker!","You're aiming at me, you clown!","","True","SVM_5_WatchYourAim","",""
