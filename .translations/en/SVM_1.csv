@@ -9,7 +9,7 @@
 "Scripts/Content/Story/SVM.d:222","Lass uns den kleinen Streit vergessen, okay?","Let's forget about that little argument, okay?","","True","SVM_1_LetsForgetOurLittleFight","",""
 "Scripts/Content/Story/SVM.d:223","Verdammtes Drecksvieh!","Damned son of a bitch!","","True","SVM_1_DieMonster","",""
 "Scripts/Content/Story/SVM.d:224","Jetzt musst du dran glauben!","Now you're done for!","","True","SVM_1_DieMortalEnemy","",""
-"Scripts/Content/Story/SVM.d:225","Jetzt gibt's was aufs Maul...","","","False","SVM_1_NowWait","",""
+"Scripts/Content/Story/SVM.d:225","Jetzt gibt's was aufs Maul...","Now you'll get one in your mug ...","","False","SVM_1_NowWait","",""
 "Scripts/Content/Story/SVM.d:226","Du willst wohl noch eine aufs Maul!","Looks like you want some in your mug!","","True","SVM_1_YouStillNotHaveEnough","",""
 "Scripts/Content/Story/SVM.d:227","Du wolltest so es so haben!","You were asking for it!","","True","SVM_1_YouAskedForIt","",""
 "Scripts/Content/Story/SVM.d:227","Jetzt sorg ich dafür, dass du in Einzelteilen hier weggeschafft wirst!","Now I'll make sure they'll have to carry you away in pieces.","","True","SVM_1_NowWaitIntruder","",""
