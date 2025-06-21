@@ -114,7 +114,7 @@
 "Scripts/Content/Story/B/B_AssignAmbientInfos_MIL_7.d:80","(unschuldig) Ich habe nichts gesagt! Aber bei Snaf, kann dir sowas nicht passieren!","","","False","Info_Mil_7_FOODGOOD_15_07","",""
 "Scripts/Content/Story/B/B_AssignAmbientInfos_MIL_7.d:81","Was für eine Sauerei! Hätte ich Halvor nicht zugetraut. Bei ihm esse ich jedenfalls nicht mehr!","","","False","Info_Mil_7_FOODGOOD_07_08","",""
 "Scripts/Content/Story/B/B_AssignAmbientInfos_MIL_7.d:101","Könnt ihr noch einen Mann gebrauchen?","Вам нужны ещё люди?","","False","Infos_Mil_7_JOIN.description","",""
-"Scripts/Content/Story/B/B_AssignAmbientInfos_MIL_7.d:112","Du willst zur Miliz? Das kannst du direkt vergessen! Wir nehmen nur fähige Kämpfer auf.","","","False","Infos_Mil_4_JOIN_Info_07_02","",""
+"Scripts/Content/Story/B/B_AssignAmbientInfos_MIL_7.d:112","Du willst zur Miliz? Das kannst du direkt vergessen! Wir nehmen nur fähige Kämpfer auf.","Собрался вступить в ополчение? Забудь об этом! Нам нужны опытные бойцы!","","False","Infos_Mil_4_JOIN_Info_07_02","",""
 "Scripts/Content/Story/B/B_AssignAmbientInfos_MIL_7.d:124","Erzähl mir was über die Orks","Что ты знаешь об орках?","","False","Infos_Mil_7_STORY.description","",""
 "Scripts/Content/Story/B/B_AssignAmbientInfos_MIL_7.d:134","Erzähl mir was über die Orks.","Расскажи мне об орках.","","False","Infos_Mil_7_STORY_ORK_Info_15_01","",""
 "Scripts/Content/Story/B/B_AssignAmbientInfos_MIL_7.d:135","Die Orks haben alle Armeen des Königs aufgrieben. Sie haben alles niedergewalzt was ihnen im Weg stand.","","","False","Infos_Mil_7_STORY_ORK_Info_07_02","",""
