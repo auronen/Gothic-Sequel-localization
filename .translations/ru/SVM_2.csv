@@ -1,106 +1,106 @@
-"location","source","target","id","fuzzy","context","translator_comments","developer_comments"
-"Scripts/Content/Story/SVM.d:326","Keine Magie!","","","False","SVM_2_StopMagic","",""
-"Scripts/Content/Story/SVM.d:327","HEY! Keine Magie, hab' ich gesagt!","","","False","SVM_2_ISaidStopMagic","",""
-"Scripts/Content/Story/SVM.d:328","Komm, steck das Ding weg!","","","False","SVM_2_WeaponDown","",""
-"Scripts/Content/Story/SVM.d:329","Weg mit der Waffe!","Weg mit der Waffe!","","False","SVM_2_ISaidWeaponDown","",""
-"Scripts/Content/Story/SVM.d:330","Pass auf, wo du hinzielst!","","","False","SVM_2_WatchYourAim","",""
-"Scripts/Content/Story/SVM.d:331","Wenn du weiter auf mich anlegst, muss ich das wohl persönlich nehmen!","","","False","SVM_2_WatchYourAimAngry","",""
-"Scripts/Content/Story/SVM.d:332","Hey, was soll denn das??","","","False","SVM_2_WhatAreYouDoing","",""
-"Scripts/Content/Story/SVM.d:333","Lass uns die Sache vergessen, ok?","","","False","SVM_2_LetsForgetOurLittleFight","",""
-"Scripts/Content/Story/SVM.d:334","Schon wieder eins!","","","False","SVM_2_DieMonster","",""
-"Scripts/Content/Story/SVM.d:335","Ich befürchte, ich muss dich beseitigen!","","","False","SVM_2_DieMortalEnemy","",""
-"Scripts/Content/Story/SVM.d:336","Du bist selbst Schuld!","","","False","SVM_2_NowWait","",""
-"Scripts/Content/Story/SVM.d:337","Hast du noch nicht genug?","","","False","SVM_2_YouStillNotHaveEnough","",""
-"Scripts/Content/Story/SVM.d:338","Wenn du es unbedingt willst!","","","False","SVM_2_YouAskedForIt","",""
-"Scripts/Content/Story/SVM.d:339","Du weißt doch, dass du hier nichts zu Suchen hast!","","","False","SVM_2_NowWaitIntruder","",""
-"Scripts/Content/Story/SVM.d:340","Du hast mich beklaut! Das nehme ich dir echt übel!","","","False","SVM_2_DirtyThief","",""
-"Scripts/Content/Story/SVM.d:341","Niemand vergreift sich an meinen Jungs!","","","False","SVM_2_YouAttackedMyCharge","",""
-"Scripts/Content/Story/SVM.d:342","Du hast einen von uns umgebracht! Dafür musst du büßen!","","","False","SVM_2_YouKilledOneOfUs","",""
-"Scripts/Content/Story/SVM.d:345","Aaargl","Aaargl","","False","SVM_2_Dead","",""
-"Scripts/Content/Story/SVM.d:345","Aargh","Aargh","","False","SVM_2_Aargh_1","",""
-"Scripts/Content/Story/SVM.d:346","Aargh","Aargh","","False","SVM_2_Aargh_2","",""
-"Scripts/Content/Story/SVM.d:347","Aargh","Aargh","","False","SVM_2_Aargh_3","",""
-"Scripts/Content/Story/SVM.d:347","UUAAARRGGGHHH!!!","","","False","SVM_2_Berzerk","",""
-"Scripts/Content/Story/SVM.d:348","Das wird dir noch Leid tun!","","","False","SVM_2_YoullBeSorryForThis","",""
-"Scripts/Content/Story/SVM.d:349","Langsam, langsam, du hast gewonnen!","","","False","SVM_2_YesYes","",""
-"Scripts/Content/Story/SVM.d:350","Ich - ähm - geh' Hilfe holen!","","","False","SVM_2_ShitWhatAMonster","",""
-"Scripts/Content/Story/SVM.d:351","Keine Zeit, ich muss noch was erledigen!","","","False","SVM_2_Help","",""
-"Scripts/Content/Story/SVM.d:352","Versuch das nicht noch mal!","","","False","SVM_2_NeverTryThatAgain","",""
-"Scripts/Content/Story/SVM.d:353","Etwas Silber kannst du doch entbehren!","","","False","SVM_2_ITookYourOre","",""
-"Scripts/Content/Story/SVM.d:354","Du hast kein Erz? Scheint heute nicht dein Tag zu sein!","","","False","SVM_2_ShitNoOre","",""
-"Scripts/Content/Story/SVM.d:356","Finger weg!","Finger weg!","","False","SVM_2_HandsOff","",""
-"Scripts/Content/Story/SVM.d:357","Raus hier!","Raus hier!","","False","SVM_2_GetOutOfHere","",""
-"Scripts/Content/Story/SVM.d:357","Was schleichst du da rum?","","","False","SVM_2_WhyAreYouSneaking","",""
-"Scripts/Content/Story/SVM.d:358","Raus aus meiner Hütte oder ich ruf die Wachen!","","","False","SVM_2_GetOutOrICallGuards","",""
-"Scripts/Content/Story/SVM.d:359","Bleib aus den Hütten draußen!","","","False","SVM_2_WhatDidYouInThere","",""
-"Scripts/Content/Story/SVM.d:361","Die richtige Entscheidung.","","","False","SVM_2_WiseMove","",""
-"Scripts/Content/Story/SVM.d:362","Wachen, hierher!","","","False","SVM_2_CallGuards","",""
-"Scripts/Content/Story/SVM.d:363","ALARM!!!","","","False","SVM_2_IntruderAlert","",""
-"Scripts/Content/Story/SVM.d:364","Hinter dir!","","","False","SVM_2_BehindYou","",""
-"Scripts/Content/Story/SVM.d:365","Ah, ein Kampf!","","","False","SVM_2_TheresAFight","",""
-"Scripts/Content/Story/SVM.d:366","Ist das alles!","","","False","SVM_2_HeyHeyHey","",""
-"Scripts/Content/Story/SVM.d:367","Nicht so müde!","","","False","SVM_2_CheerFight","",""
-"Scripts/Content/Story/SVM.d:368","Guter Schlag!","","","False","SVM_2_CheerFriend","",""
-"Scripts/Content/Story/SVM.d:369","Das tat weh!","","","False","SVM_2_Ooh","",""
-"Scripts/Content/Story/SVM.d:370","Bleib hier, du Feigling!","","","False","SVM_2_RunCoward","",""
-"Scripts/Content/Story/SVM.d:371","Der hat genug!","","","False","SVM_2_HeDefeatedHim","",""
-"Scripts/Content/Story/SVM.d:372","Du hast ihn umgebracht! War das nötig?","","","False","SVM_2_HeKilledHim","",""
-"Scripts/Content/Story/SVM.d:373","Gäääähn","","","False","SVM_2_Awake","",""
-"Scripts/Content/Story/SVM.d:374","Hallo.","","","False","SVM_2_FriendlyGreetings","",""
-"Scripts/Content/Story/SVM.d:375","Für Gomez!","","","False","SVM_2_ALGreetings","",""
-"Scripts/Content/Story/SVM.d:376","Magie zu Ehren!","","","False","SVM_2_MageGreetings","",""
-"Scripts/Content/Story/SVM.d:376","Erwache!","","","False","SVM_2_SectGreetings","",""
-"Scripts/Content/Story/SVM.d:377","Ich kann dir nichts beibringen. Du hast nicht genug Erfahrung.","","","False","SVM_2_NoLearnNoPoints","",""
-"Scripts/Content/Story/SVM.d:378","Du bist am Ende deiner Möglichkeiten. Du solltest etwas anderes lernen.","","","False","SVM_2_NoLearnOverMax","",""
-"Scripts/Content/Story/SVM.d:379","Du musst erst fortgeschritten sein, bevor du Meister werden kannst!","","","False","SVM_2_NoLearnYouAlreadyKnow","",""
-"Scripts/Content/Story/SVM.d:381","Du bist jetzt schon besser!","","","False","SVM_2_NoLearnYoureBetter","",""
-"Scripts/Content/Story/SVM.d:382","Hey, du!","Эй, ты!","","False","SVM_2_HeyYou","",""
-"Scripts/Content/Story/SVM.d:383","Jetzt nicht.","Jetzt nicht.","","False","SVM_2_NotNow","",""
-"Scripts/Content/Story/SVM.d:384","Was willst du?","Что ты хочешь?","","False","SVM_2_WhatDoYouWant","",""
-"Scripts/Content/Story/SVM.d:385","Kann ich was für dich tun?","","","False","SVM_2_ISaidWhatDoYouWant","",""
-"Scripts/Content/Story/SVM.d:386","Lass mich mal vorbei!","","","False","SVM_2_MakeWay","",""
-"Scripts/Content/Story/SVM.d:387","Mach Platz!","","","False","SVM_2_OutOfMyWay","",""
-"Scripts/Content/Story/SVM.d:387","Verschwinde, sonst lauf ich über dich drüber!","","","False","SVM_2_YouDeafOrWhat","",""
-"Scripts/Content/Story/SVM.d:389","Willst du dich noch mal mit mir anlegen?","","","False","SVM_2_LookingForTroubleAgain","",""
-"Scripts/Content/Story/SVM.d:390","Was? Wie?","","","False","SVM_2_WhatsThat","",""
-"Scripts/Content/Story/SVM.d:390","Sieht aus wie meine Waffe, was du da hast!","","","False","SVM_2_ThatsMyWeapon","",""
-"Scripts/Content/Story/SVM.d:391","Warum weckst du mich?","","","False","SVM_2_YouDisturbedMySlumber","",""
-"Scripts/Content/Story/SVM.d:392","Wieso hast du mich beklaut?","","","False","SVM_2_YouStoleFromMe","",""
-"Scripts/Content/Story/SVM.d:393","Warum hast du mich angegriffen??","","","False","SVM_2_YouAttackedMe","",""
-"Scripts/Content/Story/SVM.d:394","Du hast einen von unseren Jungs auf dem Gewissen. Noch ein kleiner Fehler und du bist dran!","","","False","SVM_2_YouKilledMyFriend","",""
-"Scripts/Content/Story/SVM.d:395","Ja, du hast mich besiegt. War ein guter Kampf! Aber jetzt ist genug!","","","False","SVM_2_YouDefeatedMeWell","",""
-"Scripts/Content/Story/SVM.d:397","...wenn du meinst...","","","False","SVM_2_Smalltalk01","",""
-"Scripts/Content/Story/SVM.d:398","...kann schon sein...","","","False","SVM_2_Smalltalk02","",""
-"Scripts/Content/Story/SVM.d:398","...war nicht besonders schlau...","","","False","SVM_2_Smalltalk03","",""
-"Scripts/Content/Story/SVM.d:399","...ich halt mich da lieber raus...","","","False","SVM_2_Smalltalk04","",""
-"Scripts/Content/Story/SVM.d:400","...das ist wirklich nicht mein Problem...","","","False","SVM_2_Smalltalk05","",""
-"Scripts/Content/Story/SVM.d:401","...war doch klar, dass das Ärger gibt...","","","False","SVM_2_Smalltalk06","",""
-"Scripts/Content/Story/SVM.d:402","...aber behalt's für dich, muss nicht gleich jeder wissen...","","","False","SVM_2_Smalltalk07","",""
-"Scripts/Content/Story/SVM.d:403","...das passiert mir nicht noch mal...","","","False","SVM_2_Smalltalk08","",""
-"Scripts/Content/Story/SVM.d:404","...an der Geschichte muss wohl doch was dran sein...","","","False","SVM_2_Smalltalk09","",""
-"Scripts/Content/Story/SVM.d:405","...man muss eben aufpassen, was man rumerzählt...","","","False","SVM_2_Smalltalk10","",""
-"Scripts/Content/Story/SVM.d:406","...solange ich damit nichts zu tun habe...","","","False","SVM_2_Smalltalk11","",""
-"Scripts/Content/Story/SVM.d:407","...man darf auch nicht alles glauben, was man hört...","","","False","SVM_2_Smalltalk12","",""
-"Scripts/Content/Story/SVM.d:408","...in seiner Haut will ich trotzdem nicht stecken...","","","False","SVM_2_Smalltalk13","",""
-"Scripts/Content/Story/SVM.d:409","...immer wieder dieselbe Leier...","","","False","SVM_2_Smalltalk14","",""
-"Scripts/Content/Story/SVM.d:410","...manche lernen eben gar nichts dazu...","","","False","SVM_2_Smalltalk15","",""
-"Scripts/Content/Story/SVM.d:411","...früher wäre das ganz anders gelaufen...","","","False","SVM_2_Smalltalk16","",""
-"Scripts/Content/Story/SVM.d:412","...gequatscht wird viel...","","","False","SVM_2_Smalltalk17","",""
-"Scripts/Content/Story/SVM.d:413","...ich hör' nicht mehr auf das Gefasel...","","","False","SVM_2_Smalltalk18","",""
-"Scripts/Content/Story/SVM.d:414","...verlass dich auf jemanden und du bist verlassen, das ist eben so...","","","False","SVM_2_Smalltalk19","",""
-"Scripts/Content/Story/SVM.d:415","...ich glaube kaum, dass sich daran was ändern wird...","","","False","SVM_2_Smalltalk20","",""
-"Scripts/Content/Story/SVM.d:416","...wahrscheinlich hast du Recht...","","","False","SVM_2_Smalltalk21","",""
-"Scripts/Content/Story/SVM.d:417","...erst mal abwarten. Es wird nichts so heiß gegessen, wie es gekocht wird...","","","False","SVM_2_Smalltalk22","",""
-"Scripts/Content/Story/SVM.d:418","...ich dachte, das wäre schon lange geklärt...","","","False","SVM_2_Smalltalk23","",""
-"Scripts/Content/Story/SVM.d:420","...lass uns lieber über was anderes reden...","","","False","SVM_2_Smalltalk24","",""
-"Scripts/Content/Story/SVM.d:420","Ommm","","","False","SVM_2_Om","",""
-"Scripts/Content/Story/SVM.d:421","Du spinnst wohl. Kannst doch nicht einfach einen Arenakampf unterbrechen.","","","False","SVM_2_YouDisturbedArenaFight","",""
-"Scripts/Content/Story/SVM.d:422","Bist du wahnsinnig. In der Arena wird nicht getötet!","","","False","SVM_2_YouMurderedInArena","",""
-"Scripts/Content/Story/SVM.d:423","Keine Magie in der Arena. Das ist Gesetz!","","","False","SVM_2_NoMagicInArena","",""
-"Scripts/Content/Story/SVM.d:425","Keine Fernkampfwaffen in der Arena! Weg damit!","","","False","SVM_2_NoBowInArena","",""
-"Scripts/Content/Story/SVM.d:426","Punkt für dich!","","","False","SVM_2_PointForYou","",""
-"Scripts/Content/Story/SVM.d:426","Punkt für mich!","","","False","SVM_2_PointForMe","",""
-"Scripts/Content/Story/SVM.d:429","Kann es sein, dass du garnicht genug Silber hast?","","","False","SVM_2_NotEnoughSilver","",""
-"Scripts/Content/Story/SVM.d:430","BUUHHH!!!!","","","False","SVM_2_Buh","",""
-"Scripts/Content/Story/SVM.d:433","Arbeit, Leben, Tod","","","False","SVM_2_Possessed1","",""
-"Scripts/Content/Story/SVM.d:433","Tod wird gemrntg","","","False","SVM_2_Possessed2","",""
+location,source,target,id,fuzzy,context,translator_comments,developer_comments
+Scripts/Content/Story/SVM.d:326,Keine Magie!,Никакого волшебства!,,True,SVM_2_StopMagic,,
+Scripts/Content/Story/SVM.d:327,"HEY! Keine Magie, hab' ich gesagt!","ЭЙ! Я сказал, никакой магии!",,True,SVM_2_ISaidStopMagic,,
+Scripts/Content/Story/SVM.d:328,"Komm, steck das Ding weg!","Давай, убирай это!",,True,SVM_2_WeaponDown,,
+Scripts/Content/Story/SVM.d:329,Weg mit der Waffe!,Убери оружие!,,True,SVM_2_ISaidWeaponDown,,
+Scripts/Content/Story/SVM.d:330,"Pass auf, wo du hinzielst!","Смотри, куда целишься!",,True,SVM_2_WatchYourAim,,
+Scripts/Content/Story/SVM.d:331,"Wenn du weiter auf mich anlegst, muss ich das wohl persönlich nehmen!","Если ты и дальше собираешься целиться в меня, я могу это неправильно понять!",,True,SVM_2_WatchYourAimAngry,,
+Scripts/Content/Story/SVM.d:332,"Hey, was soll denn das??","Эй, для чего это?",,True,SVM_2_WhatAreYouDoing,,
+Scripts/Content/Story/SVM.d:333,"Lass uns die Sache vergessen, ok?","Забудем об этом, ладно?",,True,SVM_2_LetsForgetOurLittleFight,,
+Scripts/Content/Story/SVM.d:334,Schon wieder eins!,Еще один!,,True,SVM_2_DieMonster,,
+Scripts/Content/Story/SVM.d:335,"Ich befürchte, ich muss dich beseitigen!","Боюсь, мне придется убить тебя!",,True,SVM_2_DieMortalEnemy,,
+Scripts/Content/Story/SVM.d:336,Du bist selbst Schuld!,Это твоя вина!,,True,SVM_2_NowWait,,
+Scripts/Content/Story/SVM.d:337,Hast du noch nicht genug?,Тебе что - мало?,,True,SVM_2_YouStillNotHaveEnough,,
+Scripts/Content/Story/SVM.d:338,Wenn du es unbedingt willst!,"Ну, если ты этого хочешь...",,True,SVM_2_YouAskedForIt,,
+Scripts/Content/Story/SVM.d:339,"Du weißt doch, dass du hier nichts zu Suchen hast!","Ты знаешь, что тебе нечего здесь делать!",,True,SVM_2_NowWaitIntruder,,
+Scripts/Content/Story/SVM.d:340,Du hast mich beklaut! Das nehme ich dir echt übel!,Ты обокрал меня! Я это запомню!,,True,SVM_2_DirtyThief,,
+Scripts/Content/Story/SVM.d:341,Niemand vergreift sich an meinen Jungs!,Никто не смеет обижать моих друзей!,,True,SVM_2_YouAttackedMyCharge,,
+Scripts/Content/Story/SVM.d:342,Du hast einen von uns umgebracht! Dafür musst du büßen!,Ты убил одного из наших! Ты за это заплатишь!,,True,SVM_2_YouKilledOneOfUs,,
+Scripts/Content/Story/SVM.d:345,Aaargl,Аааргл!,,True,SVM_2_Dead,,
+Scripts/Content/Story/SVM.d:345,Aargh,Ааарг!,,True,SVM_2_Aargh_1,,
+Scripts/Content/Story/SVM.d:346,Aargh,Ааарг!,,True,SVM_2_Aargh_2,,
+Scripts/Content/Story/SVM.d:347,Aargh,Ааарг!,,True,SVM_2_Aargh_3,,
+Scripts/Content/Story/SVM.d:347,UUAAARRGGGHHH!!!,УУАААРРГГГХХХ!!!,,True,SVM_2_Berzerk,,
+Scripts/Content/Story/SVM.d:348,Das wird dir noch Leid tun!,Ты об этом пожалеешь!,,True,SVM_2_YoullBeSorryForThis,,
+Scripts/Content/Story/SVM.d:349,"Langsam, langsam, du hast gewonnen!","Тихо, тихо, ты победил!",,True,SVM_2_YesYes,,
+Scripts/Content/Story/SVM.d:350,Ich - ähm - geh' Hilfe holen!,Я - гхм - мне просто нужна была помощь!,,True,SVM_2_ShitWhatAMonster,,
+Scripts/Content/Story/SVM.d:351,"Keine Zeit, ich muss noch was erledigen!",У меня нет времени - дела!,,True,SVM_2_Help,,
+Scripts/Content/Story/SVM.d:352,Versuch das nicht noch mal!,Больше не делай этого!,,True,SVM_2_NeverTryThatAgain,,
+Scripts/Content/Story/SVM.d:353,Etwas Silber kannst du doch entbehren!,"В любом случае, эта руда тебе уже не пригодится!",,True,SVM_2_ITookYourOre,,
+Scripts/Content/Story/SVM.d:354,Du hast kein Erz? Scheint heute nicht dein Tag zu sein!,"У тебя совсем нет руды? Неудачный день, приятель!",,True,SVM_2_ShitNoOre,,
+Scripts/Content/Story/SVM.d:356,Finger weg!,Убери руки!,,True,SVM_2_HandsOff,,
+Scripts/Content/Story/SVM.d:357,Raus hier!,Убирайся отсюда!,,True,SVM_2_GetOutOfHere,,
+Scripts/Content/Story/SVM.d:357,Was schleichst du da rum?,,,False,SVM_2_WhyAreYouSneaking,,
+Scripts/Content/Story/SVM.d:358,Raus aus meiner Hütte oder ich ruf die Wachen!,,,False,SVM_2_GetOutOrICallGuards,,
+Scripts/Content/Story/SVM.d:359,Bleib aus den Hütten draußen!,Держись подальше от домов!,,True,SVM_2_WhatDidYouInThere,,
+Scripts/Content/Story/SVM.d:361,Die richtige Entscheidung.,Правильное решение!,,True,SVM_2_WiseMove,,
+Scripts/Content/Story/SVM.d:362,"Wachen, hierher!",,,False,SVM_2_CallGuards,,
+Scripts/Content/Story/SVM.d:363,ALARM!!!,ТРЕВОГА!!!,,True,SVM_2_IntruderAlert,,
+Scripts/Content/Story/SVM.d:364,Hinter dir!,Сзади!,,True,SVM_2_BehindYou,,
+Scripts/Content/Story/SVM.d:365,"Ah, ein Kampf!","А, драка!",,True,SVM_2_TheresAFight,,
+Scripts/Content/Story/SVM.d:366,Ist das alles!,И это все?!,,True,SVM_2_HeyHeyHey,,
+Scripts/Content/Story/SVM.d:367,Nicht so müde!,"Просыпайся, копуша!",,True,SVM_2_CheerFight,,
+Scripts/Content/Story/SVM.d:368,Guter Schlag!,Хороший удар!,,True,SVM_2_CheerFriend,,
+Scripts/Content/Story/SVM.d:369,Das tat weh!,Больно!,,True,SVM_2_Ooh,,
+Scripts/Content/Story/SVM.d:370,"Bleib hier, du Feigling!","Оставайся здесь, слабак!",,True,SVM_2_RunCoward,,
+Scripts/Content/Story/SVM.d:371,Der hat genug!,Хватит с него!,,True,SVM_2_HeDefeatedHim,,
+Scripts/Content/Story/SVM.d:372,Du hast ihn umgebracht! War das nötig?,"Ты убил его! Это что, было так необходимо?",,True,SVM_2_HeKilledHim,,
+Scripts/Content/Story/SVM.d:373,Gäääähn,[зевок],,True,SVM_2_Awake,,
+Scripts/Content/Story/SVM.d:374,Hallo.,Привет.,,True,SVM_2_FriendlyGreetings,,
+Scripts/Content/Story/SVM.d:375,Für Gomez!,За Гомеза!,,True,SVM_2_ALGreetings,,
+Scripts/Content/Story/SVM.d:376,Magie zu Ehren!,Во имя магии!,,True,SVM_2_MageGreetings,,
+Scripts/Content/Story/SVM.d:376,Erwache!,Проснись!,,True,SVM_2_SectGreetings,,
+Scripts/Content/Story/SVM.d:377,Ich kann dir nichts beibringen. Du hast nicht genug Erfahrung.,Я не могу учить тебя. Тебе нехватает опыта.,,True,SVM_2_NoLearnNoPoints,,
+Scripts/Content/Story/SVM.d:378,Du bist am Ende deiner Möglichkeiten. Du solltest etwas anderes lernen.,Ты на пределе своих возможностей. Тебе нужно научиться чему-нибудь еще.,,True,SVM_2_NoLearnOverMax,,
+Scripts/Content/Story/SVM.d:379,"Du musst erst fortgeschritten sein, bevor du Meister werden kannst!","Тебе нужно набраться опыта, прежде чем ты сможешь стать мастером.",,True,SVM_2_NoLearnYouAlreadyKnow,,
+Scripts/Content/Story/SVM.d:381,Du bist jetzt schon besser!,Уже лучше!,,True,SVM_2_NoLearnYoureBetter,,
+Scripts/Content/Story/SVM.d:382,"Hey, du!","Эй, ты!",,False,SVM_2_HeyYou,,
+Scripts/Content/Story/SVM.d:383,Jetzt nicht.,Не сейчас.,,True,SVM_2_NotNow,,
+Scripts/Content/Story/SVM.d:384,Was willst du?,Что тебе нужно?,,True,SVM_2_WhatDoYouWant,,
+Scripts/Content/Story/SVM.d:385,Kann ich was für dich tun?,Что я могу для тебя сделать?,,True,SVM_2_ISaidWhatDoYouWant,,
+Scripts/Content/Story/SVM.d:386,Lass mich mal vorbei!,Дай мне пройти!,,True,SVM_2_MakeWay,,
+Scripts/Content/Story/SVM.d:387,Mach Platz!,С дороги!,,True,SVM_2_OutOfMyWay,,
+Scripts/Content/Story/SVM.d:387,"Verschwinde, sonst lauf ich über dich drüber!","Исчезни, или я займусь тобой!",,True,SVM_2_YouDeafOrWhat,,
+Scripts/Content/Story/SVM.d:389,Willst du dich noch mal mit mir anlegen?,Снова ищешь неприятностей?,,True,SVM_2_LookingForTroubleAgain,,
+Scripts/Content/Story/SVM.d:390,Was? Wie?,Эй? Что?,,True,SVM_2_WhatsThat,,
+Scripts/Content/Story/SVM.d:390,"Sieht aus wie meine Waffe, was du da hast!","Похоже, ты разгуливаешь с моим оружием!",,True,SVM_2_ThatsMyWeapon,,
+Scripts/Content/Story/SVM.d:391,Warum weckst du mich?,Зачем ты меня поднял?,,True,SVM_2_YouDisturbedMySlumber,,
+Scripts/Content/Story/SVM.d:392,Wieso hast du mich beklaut?,Зачем ты обокрал меня?,,True,SVM_2_YouStoleFromMe,,
+Scripts/Content/Story/SVM.d:393,Warum hast du mich angegriffen??,,,False,SVM_2_YouAttackedMe,,
+Scripts/Content/Story/SVM.d:394,Du hast einen von unseren Jungs auf dem Gewissen. Noch ein kleiner Fehler und du bist dran!,"Жизнь одного из наших людей на твоей совести. Еще один неверный шаг, и ты будешь следующим!",,True,SVM_2_YouKilledMyFriend,,
+Scripts/Content/Story/SVM.d:395,"Ja, du hast mich besiegt. War ein guter Kampf! Aber jetzt ist genug!","Да, ты победил. Это был хороший бой - но сейчас он окончен!",,True,SVM_2_YouDefeatedMeWell,,
+Scripts/Content/Story/SVM.d:397,...wenn du meinst..., ...если ты думаешь...,,True,SVM_2_Smalltalk01,,
+Scripts/Content/Story/SVM.d:398,...kann schon sein..., ...может быть...,,True,SVM_2_Smalltalk02,,
+Scripts/Content/Story/SVM.d:398,...war nicht besonders schlau..., ...это было не слишком умно...,,True,SVM_2_Smalltalk03,,
+Scripts/Content/Story/SVM.d:399,...ich halt mich da lieber raus..., ...я не хочу в это ввязываться...,,True,SVM_2_Smalltalk04,,
+Scripts/Content/Story/SVM.d:400,...das ist wirklich nicht mein Problem..., ...это точно не моя проблема...,,True,SVM_2_Smalltalk05,,
+Scripts/Content/Story/SVM.d:401,"...war doch klar, dass das Ärger gibt..."," ...похоже, назревает проблема...",,True,SVM_2_Smalltalk06,,
+Scripts/Content/Story/SVM.d:402,"...aber behalt's für dich, muss nicht gleich jeder wissen..."," ...держи это при себе, людям необязательно знать об этом.",,True,SVM_2_Smalltalk07,,
+Scripts/Content/Story/SVM.d:403,...das passiert mir nicht noch mal..., ...больше этого не случится...,,True,SVM_2_Smalltalk08,,
+Scripts/Content/Story/SVM.d:404,...an der Geschichte muss wohl doch was dran sein..., ...что-то не так в этой истории...,,True,SVM_2_Smalltalk09,,
+Scripts/Content/Story/SVM.d:405,"...man muss eben aufpassen, was man rumerzählt..."," ...ты должен следить за тем, что говоришь людям...",,True,SVM_2_Smalltalk10,,
+Scripts/Content/Story/SVM.d:406,...solange ich damit nichts zu tun habe..., ...пока меня не впутали...,,True,SVM_2_Smalltalk11,,
+Scripts/Content/Story/SVM.d:407,"...man darf auch nicht alles glauben, was man hört...", ...ты не должен верить всему...,,True,SVM_2_Smalltalk12,,
+Scripts/Content/Story/SVM.d:408,...in seiner Haut will ich trotzdem nicht stecken..., ...не хотел бы я оказаться на его месте...,,True,SVM_2_Smalltalk13,,
+Scripts/Content/Story/SVM.d:409,...immer wieder dieselbe Leier..., ...каждый раз одна и та же история...,,True,SVM_2_Smalltalk14,,
+Scripts/Content/Story/SVM.d:410,...manche lernen eben gar nichts dazu..., ...некоторых людей ничего не учит...,,True,SVM_2_Smalltalk15,,
+Scripts/Content/Story/SVM.d:411,...früher wäre das ganz anders gelaufen...," ...были времена, когда все было совсем по-другому...",,True,SVM_2_Smalltalk16,,
+Scripts/Content/Story/SVM.d:412,...gequatscht wird viel..., ...люди всегда болтают...,,True,SVM_2_Smalltalk17,,
+Scripts/Content/Story/SVM.d:413,...ich hör' nicht mehr auf das Gefasel..., ...я больше не слушаю всякую трепотню...,,True,SVM_2_Smalltalk18,,
+Scripts/Content/Story/SVM.d:414,"...verlass dich auf jemanden und du bist verlassen, das ist eben so..."," ...веришь кому-то - и в результате попадаешь в неприятности, так всегда и бывает...",,True,SVM_2_Smalltalk19,,
+Scripts/Content/Story/SVM.d:415,"...ich glaube kaum, dass sich daran was ändern wird..."," ...я сомневаюсь, что это когда-нибудь изменится...",,True,SVM_2_Smalltalk20,,
+Scripts/Content/Story/SVM.d:416,...wahrscheinlich hast du Recht...," ...скорее всего, ты прав...",,True,SVM_2_Smalltalk21,,
+Scripts/Content/Story/SVM.d:417,"...erst mal abwarten. Es wird nichts so heiß gegessen, wie es gekocht wird...", ...держись. Лучше ни во что не встревать с горяча...,,True,SVM_2_Smalltalk22,,
+Scripts/Content/Story/SVM.d:418,"...ich dachte, das wäre schon lange geklärt..."," ...я думал, это выяснили еще очень давно...",,True,SVM_2_Smalltalk23,,
+Scripts/Content/Story/SVM.d:420,...lass uns lieber über was anderes reden..., ...давай поговорим о чем-нибудь еще...,,True,SVM_2_Smalltalk24,,
+Scripts/Content/Story/SVM.d:420,Ommm,Оммм...,,True,SVM_2_Om,,
+Scripts/Content/Story/SVM.d:421,Du spinnst wohl. Kannst doch nicht einfach einen Arenakampf unterbrechen.,,,False,SVM_2_YouDisturbedArenaFight,,
+Scripts/Content/Story/SVM.d:422,Bist du wahnsinnig. In der Arena wird nicht getötet!,,,False,SVM_2_YouMurderedInArena,,
+Scripts/Content/Story/SVM.d:423,Keine Magie in der Arena. Das ist Gesetz!,,,False,SVM_2_NoMagicInArena,,
+Scripts/Content/Story/SVM.d:425,Keine Fernkampfwaffen in der Arena! Weg damit!,,,False,SVM_2_NoBowInArena,,
+Scripts/Content/Story/SVM.d:426,Punkt für dich!,,,False,SVM_2_PointForYou,,
+Scripts/Content/Story/SVM.d:426,Punkt für mich!,,,False,SVM_2_PointForMe,,
+Scripts/Content/Story/SVM.d:429,"Kann es sein, dass du garnicht genug Silber hast?",,,False,SVM_2_NotEnoughSilver,,
+Scripts/Content/Story/SVM.d:430,BUUHHH!!!!,,,False,SVM_2_Buh,,
+Scripts/Content/Story/SVM.d:433,"Arbeit, Leben, Tod",,,False,SVM_2_Possessed1,,
+Scripts/Content/Story/SVM.d:433,Tod wird gemrntg,,,False,SVM_2_Possessed2,,

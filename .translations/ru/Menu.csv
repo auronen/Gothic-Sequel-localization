@@ -1,147 +1,147 @@
-"location","source","target","id","fuzzy","context","translator_comments","developer_comments"
-"Scripts/System/Menu/Menu_Defines.d:69","Einige Einstellungen werden erst nach einem Neustart aktiv","Einige Einstellungen werden erst nach einem Neustart aktiv","","False","MENU_TEXT_NEEDS_RESTART","",""
-"Scripts/System/Menu/Menu_Defines.d:72","Taste ENTF zum Löschen und RETURN zum definieren","Taste ENTF zum Löschen und RETURN zum definieren","","False","CTRL_KEYDEF","",""
-"Scripts/System/Menu/Menu_Defines.d:73","Gewünschte Taste betätigen.","Gewünschte Taste betätigen.","","False","CTRL_KEYDEF_INFO","",""
-"Scripts/System/Menu/Menu_Defines.d:74","nein|ja","nein|ja","","False","MENU_NO_YES","",""
-"Scripts/System/Menu/Menu_Defines.d:75","aus|an","aus|an","","False","MENU_OFF_ON","",""
-"Scripts/System/Menu/Menu_Defines.d:76","Zurück","Назад","","False","MENU_BACK","",""
-"Scripts/System/Menu/Menu_Main.d:38","Neues Spiel","Новая игра","","False","MENUITEM_MAIN_NEWGAME.text[0]","",""
-"Scripts/System/Menu/Menu_Main.d:39","Ein neues Abenteuer beginnen.","Ein neues Abenteuer beginnen.","","False","MENUITEM_MAIN_NEWGAME.text[1]","",""
-"Scripts/System/Menu/Menu_Main.d:60","Spiel laden","Загрузить игру","","False","MENUITEM_MAIN_SAVEGAME_LOAD.text[0]","",""
-"Scripts/System/Menu/Menu_Main.d:61","Einen gespeicherten Spielstand laden.","Einen gespeicherten Spielstand laden.","","False","MENUITEM_MAIN_SAVEGAME_LOAD.text[1]","",""
-"Scripts/System/Menu/Menu_Main.d:76","Spiel speichern","Сохранить игру","","False","MENUITEM_MAIN_SAVEGAME_SAVE.text[0]","",""
-"Scripts/System/Menu/Menu_Main.d:77","Den aktuellen Spielstand speichern.","Den aktuellen Spielstand speichern.","","False","MENUITEM_MAIN_SAVEGAME_SAVE.text[1]","",""
-"Scripts/System/Menu/Menu_Main.d:98","Weiterspielen","Weiterspielen","","False","MENUITEM_MAIN_RESUME.text[0]","",""
-"Scripts/System/Menu/Menu_Main.d:99","Aktuelles Spiel fortführen.","Aktuelles Spiel fortführen.","","False","MENUITEM_MAIN_RESUME.text[1]","",""
-"Scripts/System/Menu/Menu_Main.d:118","Einstellungen","Настройки","","False","MENUITEM_MAIN_OPTIONS.text[0]","",""
-"Scripts/System/Menu/Menu_Main.d:119","Spiel, Video, Audio und Tastatur einstellen","Spiel, Video, Audio und Tastatur einstellen","","False","MENUITEM_MAIN_OPTIONS.text[1]","",""
-"Scripts/System/Menu/Menu_Main.d:135","Intro spielen","Intro spielen","","False","MENUITEM_MAIN_INTRO.text[0]","",""
-"Scripts/System/Menu/Menu_Main.d:136","Introsequenz noch einmal abspielen.","Introsequenz noch einmal abspielen.","","False","MENUITEM_MAIN_INTRO.text[1]","",""
-"Scripts/System/Menu/Menu_Main.d:150","Credits","Credits","","False","MENUITEM_MAIN_CREDITS.text[0]","",""
-"Scripts/System/Menu/Menu_Main.d:151","Credits","Credits","","False","MENUITEM_MAIN_CREDITS.text[1]","",""
-"Scripts/System/Menu/Menu_Main.d:171","Sequel beenden","Завершить Sequel","","True","MENUITEM_MAIN_EXIT.text[0]","",""
-"Scripts/System/Menu/Menu_Main.d:172","Spiel verlassen.","Выйти из игры.","","True","MENUITEM_MAIN_EXIT.text[1]","",""
-"Scripts/System/Menu/Menu_Opt.d:31","EINSTELLUNGEN","EINSTELLUNGEN","","False","MENUITEM_OPT_HEADING.text[0]","",""
-"Scripts/System/Menu/Menu_Opt.d:44","Spiel","Spiel","","False","MENUITEM_OPT_GAME.text[0]","",""
-"Scripts/System/Menu/Menu_Opt.d:45","Diverse Spieleinstellungen vornehmen.","Diverse Spieleinstellungen vornehmen.","","False","MENUITEM_OPT_GAME.text[1]","",""
-"Scripts/System/Menu/Menu_Opt.d:61","Grafik","Grafik","","False","MENUITEM_OPT_GRAPHICS.text[0]","",""
-"Scripts/System/Menu/Menu_Opt.d:62","Sichtweite, Details und Effekte.","Sichtweite, Details und Effekte.","","False","MENUITEM_OPT_GRAPHICS.text[1]","",""
-"Scripts/System/Menu/Menu_Opt.d:78","Video","Видео","","False","MENUITEM_OPT_VIDEO.text[0]","",""
-"Scripts/System/Menu/Menu_Opt.d:79","Grafikkarte, Auflösung und Helligkeit.","Grafikkarte, Auflösung und Helligkeit.","","False","MENUITEM_OPT_VIDEO.text[1]","",""
-"Scripts/System/Menu/Menu_Opt.d:95","Audio","Аудио","","False","MENUITEM_OPT_AUDIO.text[0]","",""
-"Scripts/System/Menu/Menu_Opt.d:96","Musik, Sprache und Soundeffekte.","Musik, Sprache und Soundeffekte.","","False","MENUITEM_OPT_AUDIO.text[1]","",""
-"Scripts/System/Menu/Menu_Opt.d:113","Steuerung","Управление","","False","MENUITEM_OPT_CONTROLS.text[0]","",""
-"Scripts/System/Menu/Menu_Opt.d:114","Konfiguration der Tastatur- und Mausbelegung.","Конфигурация клавиатуры и мыши.","","True","MENUITEM_OPT_CONTROLS.text[1]","",""
-"Scripts/System/Menu/Menu_Opt.d:132","Performance/Qualität","Performance/Qualität","","False","MENUITEM_PERF.text[0]","",""
-"Scripts/System/Menu/Menu_Opt.d:133","Optimierung von Performance und Qualität.","Optimierung von Performance und Qualität.","","False","MENUITEM_PERF.text[1]","",""
-"Scripts/System/Menu/Menu_Opt.d:149","benutzerdefiniert#hohe Performance|mittlere Qualität|hohe Qualität","benutzerdefiniert#hohe Performance|mittlere Qualität|hohe Qualität","","False","MENUITEM_PERF_CHOICE.text[0]","",""
-"Scripts/System/Menu/Menu_Opt_Game.d:37","SPIEL EINSTELLUNGEN","SPIEL EINSTELLUNGEN","","False","MENUITEM_GAME_HEADLINE.text[0]","",""
-"Scripts/System/Menu/Menu_Opt_Game.d:55","Untertitel","Субтитры","","False","MENUITEM_GAME_SUB_TITLES.text[0]","",""
-"Scripts/System/Menu/Menu_Opt_Game.d:56","Visuelle Einblendung von Dialogen.","Visuelle Einblendung von Dialogen.","","False","MENUITEM_GAME_SUB_TITLES.text[1]","",""
-"Scripts/System/Menu/Menu_Opt_Game.d:91","Animierte Fenster","Анимированные окна","","True","MENUITEM_GAME_ANIMATE_WINDOWS.text[0]","",""
-"Scripts/System/Menu/Menu_Opt_Game.d:92","Animierte Dialogfenster.","Анимированное диалоговое окно.","","True","MENUITEM_GAME_ANIMATE_WINDOWS.text[1]","",""
-"Scripts/System/Menu/Menu_Opt_Game.d:128","Umschau umkehren","Umschau umkehren","","False","MENUITEM_GAME_LOOKAROUND_INVERSE.text[0]","",""
-"Scripts/System/Menu/Menu_Opt_Game.d:129","Inverse Kamerasteuerung.","Inverse Kamerasteuerung.","","False","MENUITEM_GAME_LOOKAROUND_INVERSE.text[1]","",""
-"Scripts/System/Menu/Menu_Opt_Game.d:164","Maus","Maus","","False","MENUITEM_M.text[0]","",""
-"Scripts/System/Menu/Menu_Opt_Game.d:165","Aktiviert eine Maussteuerung","Aktiviert eine Maussteuerung","","False","MENUITEM_M.text[1]","",""
-"Scripts/System/Menu/Menu_Opt_Game.d:200","Maus Empfindlichkeit","Чувствительность","","False","MENUITEM_MSENSITIVITY.text[0]","",""
-"Scripts/System/Menu/Menu_Opt_Game.d:239","Blut Details","Детали крови","","True","MENUITEM_GAME_BLOOD.text[0]","",""
-"Scripts/System/Menu/Menu_Opt_Game.d:240","Grad der Darstellung von Bluteffekten.","Степень представления эффектов крови.","","True","MENUITEM_GAME_BLOOD.text[1]","",""
-"Scripts/System/Menu/Menu_Opt_Game.d:254","keine|wenige|mehrere|viele","Никаких мелких мелких мелких","","True","MENUITEM_GAME_BLOOD_CHOICE.text[0]","",""
-"Scripts/System/Menu/Menu_Opt_Graphics.d:31","GRAFIK EINSTELLUNGEN","GRAFIK EINSTELLUNGEN","","False","MENUITEM_GRA_HEADLINE.text[0]","",""
-"Scripts/System/Menu/Menu_Opt_Graphics.d:49","Textur Details","Textur Details","","False","MENUITEM_GRA_TEXQUAL.text[0]","",""
-"Scripts/System/Menu/Menu_Opt_Graphics.d:50","Detailstufe der Texturen.","Detailstufe der Texturen.","","False","MENUITEM_GRA_TEXQUAL.text[1]","",""
-"Scripts/System/Menu/Menu_Opt_Graphics.d:84","Modell Details","Modell Details","","False","MENUITEM_GRA_MODEL_DETAIL.text[0]","",""
-"Scripts/System/Menu/Menu_Opt_Graphics.d:85","Detailstufe von Objekten.","Detailstufe von Objekten.","","False","MENUITEM_GRA_MODEL_DETAIL.text[1]","",""
-"Scripts/System/Menu/Menu_Opt_Graphics.d:121","Sichtweite","Sichtweite","","False","MENUITEM_GRA_SIGHT.text[0]","",""
-"Scripts/System/Menu/Menu_Opt_Graphics.d:122","Regelung der Sichtweite in Prozent.","Regelung der Sichtweite in Prozent.","","False","MENUITEM_GRA_SIGHT.text[1]","",""
-"Scripts/System/Menu/Menu_Opt_Graphics.d:159","Himmelseffekte","Небесные эффекты","","True","MENUITEM_GRA_SKY_EFFECTS.text[0]","",""
-"Scripts/System/Menu/Menu_Opt_Graphics.d:160","Himmelseffekte an- bzw. abschalten.","Включение или отключение небесных эффектов.","","True","MENUITEM_GRA_SKY_EFFECTS.text[1]","",""
-"Scripts/System/Menu/Menu_Opt_Video.d:35","VIDEO EINSTELLUNGEN","VIDEO EINSTELLUNGEN","","False","MENUITEM_VID_HEADLINE.text[0]","",""
-"Scripts/System/Menu/Menu_Opt_Video.d:53","Grafikkarte","Grafikkarte","","False","MENUITEM_VID_DEVICE.text[0]","",""
-"Scripts/System/Menu/Menu_Opt_Video.d:54","Gothic muss für diese Option neu gestartet werden!","Gothic muss für diese Option neu gestartet werden!","","False","MENUITEM_VID_DEVICE.text[1]","",""
-"Scripts/System/Menu/Menu_Opt_Video.d:90","Auflösung","Разрешение","","False","MENUITEM_VID_RESOLUTION.text[0]","",""
-"Scripts/System/Menu/Menu_Opt_Video.d:91","Gewählte Auflösung durch RETURN bestätigen.","Gewählte Auflösung durch RETURN bestätigen.","","False","MENUITEM_VID_RESOLUTION.text[1]","",""
-"Scripts/System/Menu/Menu_Opt_Video.d:127","Helligkeit","Яркость","","False","MENUITEM_VID_BRIGHTNESS.text[0]","",""
-"Scripts/System/Menu/Menu_Opt_Video.d:128","Helligkeit","Яркость","","False","MENUITEM_VID_BRIGHTNESS.text[1]","",""
-"Scripts/System/Menu/Menu_Opt_Video.d:162","Kontrast","Контраст","","False","MENUITEM_VID_CONTRAST.text[0]","",""
-"Scripts/System/Menu/Menu_Opt_Video.d:163","Kontrast","Контраст","","False","MENUITEM_VID_CONTRAST.text[1]","",""
-"Scripts/System/Menu/Menu_Opt_Video.d:197","Gamma","Gamma","","False","MENUITEM_VID_GAMMA.text[0]","",""
-"Scripts/System/Menu/Menu_Opt_Video.d:198","Gamma","Gamma","","False","MENUITEM_VID_GAMMA.text[1]","",""
-"Scripts/System/Menu/Menu_Opt_Audio.d:41","AUDIO EINSTELLUNGEN","AUDIO EINSTELLUNGEN","","False","MENUITEM_AUDIO_HEADLINE.text[0]","",""
-"Scripts/System/Menu/Menu_Opt_Audio.d:59","Effekte&Sprache","Эффекты и язык","","True","MENUITEM_AUDIO_SFXVOL.text[0]","",""
-"Scripts/System/Menu/Menu_Opt_Audio.d:60","Lautstärke von Soundeffekten und Sprachausgabe.","Lautstärke von Soundeffekten und Sprachausgabe.","","False","MENUITEM_AUDIO_SFXVOL.text[1]","",""
-"Scripts/System/Menu/Menu_Opt_Audio.d:95","Musik-Lautstärke","Громкость музыки","","False","MENUITEM_AUDIO_MUSICVOL.text[0]","",""
-"Scripts/System/Menu/Menu_Opt_Audio.d:96","Läutstärke der Hintergrundmusik.","Läutstärke der Hintergrundmusik.","","False","MENUITEM_AUDIO_MUSICVOL.text[1]","",""
-"Scripts/System/Menu/Menu_Opt_Audio.d:131","Musik","Musik","","False","MENUITEM_AUDIO_MUSIC.text[0]","",""
-"Scripts/System/Menu/Menu_Opt_Audio.d:132","Hintergrundmusik an- bzw. ausschalten.","Hintergrundmusik an- bzw. ausschalten.","","False","MENUITEM_AUDIO_MUSIC.text[1]","",""
-"Scripts/System/Menu/Menu_Opt_Audio.d:174","Soundprovider","Soundprovider","","False","MENUITEM_AUDIO_PROVIDER.text[0]","",""
-"Scripts/System/Menu/Menu_Opt_Audio.d:175","Eine Änderung wirkt sich erst beim Neustart aus!","Eine Änderung wirkt sich erst beim Neustart aus!","","False","MENUITEM_AUDIO_PROVIDER.text[1]","",""
-"Scripts/System/Menu/Menu_Opt_Audio.d:207","Lautsprecher","Динамики","","False","MENUITEM_AUDIO_SPEEKER.text[0]","",""
-"Scripts/System/Menu/Menu_Opt_Audio.d:223","2 Lautsprecher|Kopfhörer|Surround|4 Lautsprecher","2 громкоговорителя, 4 громкоговорителя, 4 громкоговорителя","","True","MENUITEM_AUDIO_SPEEKER_CHOICE.text[0]","",""
-"Scripts/System/Menu/Menu_Opt_Audio.d:239","Hall-Effekt","Hall-Effekt","","False","MENUITEM_AUDIO_REVERB.text[0]","",""
-"Scripts/System/Menu/Menu_Opt_Audio.d:240","Sollen Halleffekte in Höhlen aktiviert werden (Neustart erforderlich) ?","Следует ли активировать эффекты зала в пещерах (требуется перезагрузка)?","","True","MENUITEM_AUDIO_REVERB.text[1]","",""
-"Scripts/System/Menu/Menu_Opt_Audio.d:271","Sample-Rate","Sample-Rate","","False","MENUITEM_AUDIO_SAMPLERATE.text[0]","",""
-"Scripts/System/Menu/Menu_Opt_Audio.d:272","Eine Änderung wirkt sich erst beim Neustart aus!","Eine Änderung wirkt sich erst beim Neustart aus!","","False","MENUITEM_AUDIO_SAMPLERATE.text[1]","",""
-"Scripts/System/Menu/Menu_Opt_Audio.d:287","22 khz|44 khz","22 khz|44 khz","","False","MENUITEM_AUDIO_SAMPLERATE_CHOICE.text[0]","",""
-"Scripts/System/Menu/Menu_Opt_Controls.d:80","TASTATUR EINSTELLUNGEN","Настройки клавиатуры","","True","MENU_ITEM_CHG_KEYS_HEADLINE.text[0]","",""
-"Scripts/System/Menu/Menu_Opt_Controls.d:99","Vorwärts","Вперед","","False","MENU_ITEM_KEY_UP.text[0]","",""
-"Scripts/System/Menu/Menu_Opt_Controls.d:110","Rückwärts","Назад","","False","MENU_ITEM_KEY_DOWN.text[0]","",""
-"Scripts/System/Menu/Menu_Opt_Controls.d:121","Links drehen","Links drehen","","False","MENU_ITEM_KEY_LEFT.text[0]","",""
-"Scripts/System/Menu/Menu_Opt_Controls.d:132","Rechts drehen","Rechts drehen","","False","MENU_ITEM_KEY_RIGHT.text[0]","",""
-"Scripts/System/Menu/Menu_Opt_Controls.d:144","Seitwärts links","Seitwärts links","","False","MENU_ITEM_KEY_STRAFE_LEFT.text[0]","",""
-"Scripts/System/Menu/Menu_Opt_Controls.d:155","Seitwärts rechts","Seitwärts rechts","","False","MENU_ITEM_KEY_STRAFE_RIGHT.text[0]","",""
-"Scripts/System/Menu/Menu_Opt_Controls.d:172","Waffen","Оружие","","False","MENU_ITEM_KEY_WEAPON.text[0]","",""
-"Scripts/System/Menu/Menu_Opt_Controls.d:183","Aktion","Aktion","","False","MENU_ITEM_KEY_ACTION.text[0]","",""
-"Scripts/System/Menu/Menu_Opt_Controls.d:194","Springen/Klettern","Скачать / Скачать","","True","MENU_ITEM_KEY_JUMPCLIMBSTRAFE.text[0]","",""
-"Scripts/System/Menu/Menu_Opt_Controls.d:205","Langsam laufen","медленно ходить","","True","MENU_ITEM_KEY_RUNMODETOGGLE.text[0]","",""
-"Scripts/System/Menu/Menu_Opt_Controls.d:216","Schleichen","Подкрадывание","","False","MENU_ITEM_KEY_SNEAK.text[0]","",""
-"Scripts/System/Menu/Menu_Opt_Controls.d:227","Umsehen","Umsehen","","False","MENU_ITEM_KEY_LOOK.text[0]","",""
-"Scripts/System/Menu/Menu_Opt_Controls.d:238","Umsehen FirstPerson","Смотреть FirstPerson","","True","MENU_ITEM_KEY_LOOK_FP.text[0]","",""
-"Scripts/System/Menu/Menu_Opt_Controls.d:253","Inventar","Инвентарь","","False","MENU_ITEM_KEY_INVENTORY.text[0]","",""
-"Scripts/System/Menu/Menu_Opt_Controls.d:264","Spielerstatus","Spielerstatus","","False","MENU_ITEM_KEY_SCREEN_STATUS.text[0]","",""
-"Scripts/System/Menu/Menu_Opt_Controls.d:276","Missionen und Notizen","Миссии и заметки","","True","MENU_ITEM_KEY_SCREEN_LOG.text[0]","",""
-"Scripts/System/Menu/Menu_Opt_Controls.d:558","Standard-Einstellung","Standard-Einstellung","","False","MENU_ITEM_CHG_KEYS_SET_DEFAULT.text[0]","",""
-"Scripts/System/Menu/Menu_Opt_Controls.d:559","Aktiviert die Standardbelegung der Tastatur.","Активирует стандартную загрузку клавиатуры.","","True","MENU_ITEM_CHG_KEYS_SET_DEFAULT.text[1]","",""
-"Scripts/System/Menu/Menu_Opt_Controls.d:570","Alternativ-Einstellung","Alternativ-Einstellung","","False","MENU_ITEM_CHG_KEYS_SET_ALTERNATIVE.text[0]","",""
-"Scripts/System/Menu/Menu_Opt_Controls.d:571","Aktiviert eine alternative Belegung der Tastatur.","Активирует альтернативную загрузку клавиатуры.","","True","MENU_ITEM_CHG_KEYS_SET_ALTERNATIVE.text[1]","",""
-"Scripts/System/Menu/Menu_Misc.d:23","Sequel verlassen?","Уйти из серии?","","True","MENUITEM_LEAVE_GAME_HEADLINE.text[0]","",""
-"Scripts/System/Menu/Menu_Misc.d:36","Ja","Ja","","False","MENUITEM_LEAVE_GAME_YES.text[0]","",""
-"Scripts/System/Menu/Menu_Misc.d:37","Ja, ich möchte Gothic verlassen.","Я хочу уйти из готики.","","True","MENUITEM_LEAVE_GAME_YES.text[1]","",""
-"Scripts/System/Menu/Menu_Misc.d:52","Nein","Нет","","False","MENUITEM_LEAVE_GAME_NO.text[0]","",""
-"Scripts/System/Menu/Menu_Misc.d:53","Nein, ich möchte weiterspielen.","Nein, ich möchte weiterspielen.","","False","MENUITEM_LEAVE_GAME_NO.text[1]","",""
-"Scripts/System/Menu/Menu_Savegame.d:100","SPIEL LADEN","SPIEL LADEN","","False","MENUITEM_LOAD_HEADLINE.text[0]","",""
-"Scripts/System/Menu/Menu_Savegame.d:111","SPIEL SPEICHERN","SPIEL SPEICHERN","","False","MENUITEM_SAVE_HEADLINE.text[0]","",""
-"Scripts/System/Menu/Menu_Savegame.d:140","Welt:","Welt:","","False","MENUITEM_LOADSAVE_LEVELNAME.text[0]","",""
-"Scripts/System/Menu/Menu_Savegame.d:166","gespeichert:","gespeichert:","","False","MENUITEM_LOADSAVE_DATETIME.text[0]","",""
-"Scripts/System/Menu/Menu_Savegame.d:195","Spielzeit:","Spielzeit:","","False","MENUITEM_LOADSAVE_GAMETIME.text[0]","",""
-"Scripts/System/Menu/Menu_Savegame.d:266","Slot {} - RETURN zum Speichern in diesem Slot.","Slot {} - RETURN для хранения в этом слоте.","","True","save_slot","","format<save_slot>()"
-"Scripts/System/Menu/Menu_Savegame.d:270","Slot {} - RETURN zum Laden des gespeicherten Spielstandes.","Slot {} - RETURN для загрузки сохраненного игрового пространства.","","True","load_slot","","format<load_slot>()"
-"Scripts/System/Menu/Menu_Log.d:42","Aktuelle\nMissionen","Aktuelle\nMissionen","","False","MENU_ITEM_SEL_MISSIONS_ACT.text[0]","",""
-"Scripts/System/Menu/Menu_Log.d:56","Erfüllte\nMissionen","Erfüllte\nMissionen","","False","MENU_ITEM_SEL_MISSIONS_OLD.text[0]","",""
-"Scripts/System/Menu/Menu_Log.d:72","Gescheiterte\nMissionen","Gescheiterte\nMissionen","","False","MENU_ITEM_SEL_MISSIONS_FAILED.text[0]","",""
-"Scripts/System/Menu/Menu_Log.d:88","Allgemeine\nInfos","Allgemeine\nInfos","","False","MENU_ITEM_SEL_LOG.text[0]","",""
-"Scripts/System/Menu/Menu_Log.d:109","Act Missions","Act Missions","","False","MENU_ITEM_LIST_MISSIONS_ACT.text[0]","",""
-"Scripts/System/Menu/Menu_Log.d:129","Old Missions","Old Missions","","False","MENU_ITEM_LIST_MISSIONS_FAILED.text[0]","",""
-"Scripts/System/Menu/Menu_Log.d:149","Old Missions","Old Missions","","False","MENU_ITEM_LIST_MISSIONS_OLD.text[0]","",""
-"Scripts/System/Menu/Menu_Log.d:169","Log","Дневник","","False","MENU_ITEM_LIST_LOG.text[0]","",""
-"Scripts/System/Menu/Menu_Log.d:192","no content","пусто","","False","MENU_ITEM_CONTENT_VIEWER.text[0]","",""
-"Scripts/System/Menu/Menu_Status.d:147","Gilde:","Гильдия :","","True","MENU_ITEM_PLAYERGUILD_TITLE.text[0]","",""
-"Scripts/System/Menu/Menu_Status.d:170","Stufe","Уровень","","False","MENU_ITEM_LEVEL_TITLE.text[0]","",""
-"Scripts/System/Menu/Menu_Status.d:177","Erfahrung","Опыт","","False","MENU_ITEM_EXP_TITLE.text[0]","",""
-"Scripts/System/Menu/Menu_Status.d:184","Nächste Stufe","Следующий уровень","","False","MENU_ITEM_LEVEL_NEXT_TITLE.text[0]","",""
-"Scripts/System/Menu/Menu_Status.d:191","Lernpunkte","Очки обучения","","False","MENU_ITEM_LEARN_TITLE.text[0]","",""
-"Scripts/System/Menu/Menu_Status.d:230","Attribute:","Атрибуты :","","True","MENU_ITEM_ATTRIBUTE_HEADING.text[0]","",""
-"Scripts/System/Menu/Menu_Status.d:238","Stärke","Сила","","False","MENU_ITEM_ATTRIBUTE_1_TITLE.text[0]","",""
-"Scripts/System/Menu/Menu_Status.d:244","Geschick","Geschick","","False","MENU_ITEM_ATTRIBUTE_2_TITLE.text[0]","",""
-"Scripts/System/Menu/Menu_Status.d:250","Mana","Мана","","False","MENU_ITEM_ATTRIBUTE_3_TITLE.text[0]","",""
-"Scripts/System/Menu/Menu_Status.d:256","Gesundheit","Здоровье","","True","MENU_ITEM_ATTRIBUTE_4_TITLE.text[0]","",""
-"Scripts/System/Menu/Menu_Status.d:289","Rüstungs-Schutz:","Защита вооружения :","","True","MENU_ITEM_ARMOR_HEADING.text[0]","",""
-"Scripts/System/Menu/Menu_Status.d:296","Waffen","Оружие","","False","MENU_ITEM_ARMOR_1_TITLE.text[0]","",""
-"Scripts/System/Menu/Menu_Status.d:303","Geschosse","Стреляли","","True","MENU_ITEM_ARMOR_2_TITLE.text[0]","",""
-"Scripts/System/Menu/Menu_Status.d:310","Feuer","Огонь","","True","MENU_ITEM_ARMOR_3_TITLE.text[0]","",""
-"Scripts/System/Menu/Menu_Status.d:318","Magie","Magie","","False","MENU_ITEM_ARMOR_4_TITLE.text[0]","",""
-"Scripts/System/Menu/Menu_Status.d:356","Waffentalente / Treffer-Chance:","Шанс удара / Chance:","","True","MENU_ITEM_TALENTS_WEAPON_HEADING.text[0]","",""
-"Scripts/System/Menu/Menu_Status.d:363","Diebestalente / Erfolgs-Chance:","Шансы на успех / Chances of Success:","","True","MENU_ITEM_TALENTS_THIEF_HEADING.text[0]","",""
-"Scripts/System/Menu/Menu_Status.d:370","Magie-Talente:","Магические таланты :","","True","MENU_ITEM_TALENTS_MAGIC_HEADING.text[0]","",""
-"Scripts/System/Menu/Menu_Status.d:377","Handwerks-Talente:","Ремесленный талант :","","True","MENU_ITEM_TALENTS_WORK_HEADING.text[0]","",""
+location,source,target,id,fuzzy,context,translator_comments,developer_comments
+Scripts/System/Menu/Menu_Defines.d:69,Einige Einstellungen werden erst nach einem Neustart aktiv,Некоторые настройки вступят в силу только после перезагрузки.,,True,MENU_TEXT_NEEDS_RESTART,,
+Scripts/System/Menu/Menu_Defines.d:72,Taste ENTF zum Löschen und RETURN zum definieren,"Нажмите DEL, чтобы удалить или ENTER, чтобы настроить.",,True,CTRL_KEYDEF,,
+Scripts/System/Menu/Menu_Defines.d:73,Gewünschte Taste betätigen.,Нажмите клавишу.,,True,CTRL_KEYDEF_INFO,,
+Scripts/System/Menu/Menu_Defines.d:74,nein|ja,нет|да,,True,MENU_NO_YES,,
+Scripts/System/Menu/Menu_Defines.d:75,aus|an,выкл|вкл,,True,MENU_OFF_ON,,
+Scripts/System/Menu/Menu_Defines.d:76,Zurück,Назад,,False,MENU_BACK,,
+Scripts/System/Menu/Menu_Main.d:38,Neues Spiel,Новая игра,,False,MENUITEM_MAIN_NEWGAME.text[0],,
+Scripts/System/Menu/Menu_Main.d:39,Ein neues Abenteuer beginnen.,Начать новую игру.,,True,MENUITEM_MAIN_NEWGAME.text[1],,
+Scripts/System/Menu/Menu_Main.d:60,Spiel laden,Загрузить игру,,False,MENUITEM_MAIN_SAVEGAME_LOAD.text[0],,
+Scripts/System/Menu/Menu_Main.d:61,Einen gespeicherten Spielstand laden.,Загрузить сохраненную игру.,,True,MENUITEM_MAIN_SAVEGAME_LOAD.text[1],,
+Scripts/System/Menu/Menu_Main.d:76,Spiel speichern,Сохранить игру,,False,MENUITEM_MAIN_SAVEGAME_SAVE.text[0],,
+Scripts/System/Menu/Menu_Main.d:77,Den aktuellen Spielstand speichern.,Сохранить текущую игру.,,True,MENUITEM_MAIN_SAVEGAME_SAVE.text[1],,
+Scripts/System/Menu/Menu_Main.d:98,Weiterspielen,Продолжить,,True,MENUITEM_MAIN_RESUME.text[0],,
+Scripts/System/Menu/Menu_Main.d:99,Aktuelles Spiel fortführen.,Продолжить текущую игру,,True,MENUITEM_MAIN_RESUME.text[1],,
+Scripts/System/Menu/Menu_Main.d:118,Einstellungen,Настройки,,False,MENUITEM_MAIN_OPTIONS.text[0],,
+Scripts/System/Menu/Menu_Main.d:119,"Spiel, Video, Audio und Tastatur einstellen","Настройки игры, графики, звука и управления",,True,MENUITEM_MAIN_OPTIONS.text[1],,
+Scripts/System/Menu/Menu_Main.d:135,Intro spielen,Вступление,,True,MENUITEM_MAIN_INTRO.text[0],,
+Scripts/System/Menu/Menu_Main.d:136,Introsequenz noch einmal abspielen.,Посмотреть вступительный ролик.,,True,MENUITEM_MAIN_INTRO.text[1],,
+Scripts/System/Menu/Menu_Main.d:150,Credits,Авторы,,True,MENUITEM_MAIN_CREDITS.text[0],,
+Scripts/System/Menu/Menu_Main.d:151,Credits,Авторы,,True,MENUITEM_MAIN_CREDITS.text[1],,
+Scripts/System/Menu/Menu_Main.d:171,Sequel beenden,Выйти из игры,,True,MENUITEM_MAIN_EXIT.text[0],,
+Scripts/System/Menu/Menu_Main.d:172,Spiel verlassen.,Покинуть мир Готики.,,True,MENUITEM_MAIN_EXIT.text[1],,
+Scripts/System/Menu/Menu_Opt.d:31,EINSTELLUNGEN,Настройки,,True,MENUITEM_OPT_HEADING.text[0],,
+Scripts/System/Menu/Menu_Opt.d:44,Spiel,Игра,,True,MENUITEM_OPT_GAME.text[0],,
+Scripts/System/Menu/Menu_Opt.d:45,Diverse Spieleinstellungen vornehmen.,Настройки игры.,,True,MENUITEM_OPT_GAME.text[1],,
+Scripts/System/Menu/Menu_Opt.d:61,Grafik,Графика,,True,MENUITEM_OPT_GRAPHICS.text[0],,
+Scripts/System/Menu/Menu_Opt.d:62,"Sichtweite, Details und Effekte.","Видимость, детализация и эффекты.",,True,MENUITEM_OPT_GRAPHICS.text[1],,
+Scripts/System/Menu/Menu_Opt.d:78,Video,Видео,,False,MENUITEM_OPT_VIDEO.text[0],,
+Scripts/System/Menu/Menu_Opt.d:79,"Grafikkarte, Auflösung und Helligkeit.","Видеокарта, разрешение и яркость.",,True,MENUITEM_OPT_VIDEO.text[1],,
+Scripts/System/Menu/Menu_Opt.d:95,Audio,Звук,,True,MENUITEM_OPT_AUDIO.text[0],,
+Scripts/System/Menu/Menu_Opt.d:96,"Musik, Sprache und Soundeffekte.","Музыка, язык и звуковые эффекты.",,True,MENUITEM_OPT_AUDIO.text[1],,
+Scripts/System/Menu/Menu_Opt.d:113,Steuerung,Управление,,False,MENUITEM_OPT_CONTROLS.text[0],,
+Scripts/System/Menu/Menu_Opt.d:114,Konfiguration der Tastatur- und Mausbelegung.,Настройки управления.,,True,MENUITEM_OPT_CONTROLS.text[1],,
+Scripts/System/Menu/Menu_Opt.d:132,Performance/Qualität,Качество/быстродействие,,True,MENUITEM_PERF.text[0],,
+Scripts/System/Menu/Menu_Opt.d:133,Optimierung von Performance und Qualität.,Настройки качества и производительности.,,True,MENUITEM_PERF.text[1],,
+Scripts/System/Menu/Menu_Opt.d:149,benutzerdefiniert#hohe Performance|mittlere Qualität|hohe Qualität,по умолчанию#высокое быстродействие|среднее качество|высокое качество,,True,MENUITEM_PERF_CHOICE.text[0],,
+Scripts/System/Menu/Menu_Opt_Game.d:37,SPIEL EINSTELLUNGEN,НАСТРОЙКИ ИГРЫ,,True,MENUITEM_GAME_HEADLINE.text[0],,
+Scripts/System/Menu/Menu_Opt_Game.d:55,Untertitel,Субтитры,,False,MENUITEM_GAME_SUB_TITLES.text[0],,
+Scripts/System/Menu/Menu_Opt_Game.d:56,Visuelle Einblendung von Dialogen.,Визуализация диалогов.,,True,MENUITEM_GAME_SUB_TITLES.text[1],,
+Scripts/System/Menu/Menu_Opt_Game.d:91,Animierte Fenster,Анимация окон,,True,MENUITEM_GAME_ANIMATE_WINDOWS.text[0],,
+Scripts/System/Menu/Menu_Opt_Game.d:92,Animierte Dialogfenster.,Анимированные окна диалогов.,,True,MENUITEM_GAME_ANIMATE_WINDOWS.text[1],,
+Scripts/System/Menu/Menu_Opt_Game.d:128,Umschau umkehren,Обратное упр.,,True,MENUITEM_GAME_LOOKAROUND_INVERSE.text[0],,
+Scripts/System/Menu/Menu_Opt_Game.d:129,Inverse Kamerasteuerung.,Обратное управление камерой.,,True,MENUITEM_GAME_LOOKAROUND_INVERSE.text[1],,
+Scripts/System/Menu/Menu_Opt_Game.d:164,Maus,Мышь,,True,MENUITEM_M.text[0],,
+Scripts/System/Menu/Menu_Opt_Game.d:165,Aktiviert eine Maussteuerung,Управление при помощи мыши.,,True,MENUITEM_M.text[1],,
+Scripts/System/Menu/Menu_Opt_Game.d:200,Maus Empfindlichkeit,Чувствительность,,False,MENUITEM_MSENSITIVITY.text[0],,
+Scripts/System/Menu/Menu_Opt_Game.d:239,Blut Details,Жестокость,,True,MENUITEM_GAME_BLOOD.text[0],,
+Scripts/System/Menu/Menu_Opt_Game.d:240,Grad der Darstellung von Bluteffekten.,Визуализация эффектов крови.,,True,MENUITEM_GAME_BLOOD.text[1],,
+Scripts/System/Menu/Menu_Opt_Game.d:254,keine|wenige|mehrere|viele,нет|мало|средне|много,,True,MENUITEM_GAME_BLOOD_CHOICE.text[0],,
+Scripts/System/Menu/Menu_Opt_Graphics.d:31,GRAFIK EINSTELLUNGEN,НАСТРОЙКИ ГРАФИКИ,,True,MENUITEM_GRA_HEADLINE.text[0],,
+Scripts/System/Menu/Menu_Opt_Graphics.d:49,Textur Details,Текстуры,,True,MENUITEM_GRA_TEXQUAL.text[0],,
+Scripts/System/Menu/Menu_Opt_Graphics.d:50,Detailstufe der Texturen.,Уровень детализации текстур.,,True,MENUITEM_GRA_TEXQUAL.text[1],,
+Scripts/System/Menu/Menu_Opt_Graphics.d:84,Modell Details,Модели,,True,MENUITEM_GRA_MODEL_DETAIL.text[0],,
+Scripts/System/Menu/Menu_Opt_Graphics.d:85,Detailstufe von Objekten.,Уровень детализации объектов.,,True,MENUITEM_GRA_MODEL_DETAIL.text[1],,
+Scripts/System/Menu/Menu_Opt_Graphics.d:121,Sichtweite,Видимость,,True,MENUITEM_GRA_SIGHT.text[0],,
+Scripts/System/Menu/Menu_Opt_Graphics.d:122,Regelung der Sichtweite in Prozent.,Дальность видимости в процентах.,,True,MENUITEM_GRA_SIGHT.text[1],,
+Scripts/System/Menu/Menu_Opt_Graphics.d:159,Himmelseffekte,Небо,,True,MENUITEM_GRA_SKY_EFFECTS.text[0],,
+Scripts/System/Menu/Menu_Opt_Graphics.d:160,Himmelseffekte an- bzw. abschalten.,Включает или выключает визуализацию неба.,,True,MENUITEM_GRA_SKY_EFFECTS.text[1],,
+Scripts/System/Menu/Menu_Opt_Video.d:35,VIDEO EINSTELLUNGEN,НАСТРОЙКИ ВИДЕО,,True,MENUITEM_VID_HEADLINE.text[0],,
+Scripts/System/Menu/Menu_Opt_Video.d:53,Grafikkarte,Видеокарта,,True,MENUITEM_VID_DEVICE.text[0],,
+Scripts/System/Menu/Menu_Opt_Video.d:54,Gothic muss für diese Option neu gestartet werden!,"Перезапустите игру, чтобы использовать новые настройки.",,True,MENUITEM_VID_DEVICE.text[1],,
+Scripts/System/Menu/Menu_Opt_Video.d:90,Auflösung,Разрешение,,False,MENUITEM_VID_RESOLUTION.text[0],,
+Scripts/System/Menu/Menu_Opt_Video.d:91,Gewählte Auflösung durch RETURN bestätigen.,"Нажмите ENTER, чтобы подтвердить выбор.",,True,MENUITEM_VID_RESOLUTION.text[1],,
+Scripts/System/Menu/Menu_Opt_Video.d:127,Helligkeit,Яркость,,False,MENUITEM_VID_BRIGHTNESS.text[0],,
+Scripts/System/Menu/Menu_Opt_Video.d:128,Helligkeit,Яркость,,False,MENUITEM_VID_BRIGHTNESS.text[1],,
+Scripts/System/Menu/Menu_Opt_Video.d:162,Kontrast,Контраст,,False,MENUITEM_VID_CONTRAST.text[0],,
+Scripts/System/Menu/Menu_Opt_Video.d:163,Kontrast,Контраст,,False,MENUITEM_VID_CONTRAST.text[1],,
+Scripts/System/Menu/Menu_Opt_Video.d:197,Gamma,Гамма,,True,MENUITEM_VID_GAMMA.text[0],,
+Scripts/System/Menu/Menu_Opt_Video.d:198,Gamma,Гамма,,True,MENUITEM_VID_GAMMA.text[1],,
+Scripts/System/Menu/Menu_Opt_Audio.d:41,AUDIO EINSTELLUNGEN,НАСТРОЙКИ ЗВУКА,,True,MENUITEM_AUDIO_HEADLINE.text[0],,
+Scripts/System/Menu/Menu_Opt_Audio.d:59,Effekte&Sprache,Громк. речи,,True,MENUITEM_AUDIO_SFXVOL.text[0],,
+Scripts/System/Menu/Menu_Opt_Audio.d:60,Lautstärke von Soundeffekten und Sprachausgabe.,Уровень громкости эффектов и речи,,True,MENUITEM_AUDIO_SFXVOL.text[1],,
+Scripts/System/Menu/Menu_Opt_Audio.d:95,Musik-Lautstärke,Громк. музыки,,True,MENUITEM_AUDIO_MUSICVOL.text[0],,
+Scripts/System/Menu/Menu_Opt_Audio.d:96,Läutstärke der Hintergrundmusik.,Уровень громкости музыкального сопровождения.,,True,MENUITEM_AUDIO_MUSICVOL.text[1],,
+Scripts/System/Menu/Menu_Opt_Audio.d:131,Musik,Музыка,,True,MENUITEM_AUDIO_MUSIC.text[0],,
+Scripts/System/Menu/Menu_Opt_Audio.d:132,Hintergrundmusik an- bzw. ausschalten.,Включить или выключить музыку.,,True,MENUITEM_AUDIO_MUSIC.text[1],,
+Scripts/System/Menu/Menu_Opt_Audio.d:174,Soundprovider,Звук. драйвер,,True,MENUITEM_AUDIO_PROVIDER.text[0],,
+Scripts/System/Menu/Menu_Opt_Audio.d:175,Eine Änderung wirkt sich erst beim Neustart aus!,"Перезапустите игру, чтобы использовать новые настройки.",,True,MENUITEM_AUDIO_PROVIDER.text[1],,
+Scripts/System/Menu/Menu_Opt_Audio.d:207,Lautsprecher,Тип звучания,,True,MENUITEM_AUDIO_SPEEKER.text[0],,
+Scripts/System/Menu/Menu_Opt_Audio.d:223,2 Lautsprecher|Kopfhörer|Surround|4 Lautsprecher,2 колонки|Наушники|Объемное звучание|4 колонки,,True,MENUITEM_AUDIO_SPEEKER_CHOICE.text[0],,
+Scripts/System/Menu/Menu_Opt_Audio.d:239,Hall-Effekt,Искажение,,True,MENUITEM_AUDIO_REVERB.text[0],,
+Scripts/System/Menu/Menu_Opt_Audio.d:240,Sollen Halleffekte in Höhlen aktiviert werden (Neustart erforderlich) ?,Включает искажение звуков в пещерах (необходим перезапуск).,,True,MENUITEM_AUDIO_REVERB.text[1],,
+Scripts/System/Menu/Menu_Opt_Audio.d:271,Sample-Rate,Частота,,True,MENUITEM_AUDIO_SAMPLERATE.text[0],,
+Scripts/System/Menu/Menu_Opt_Audio.d:272,Eine Änderung wirkt sich erst beim Neustart aus!,"Перезапустите игру, чтобы использовать новые настройки.",,True,MENUITEM_AUDIO_SAMPLERATE.text[1],,
+Scripts/System/Menu/Menu_Opt_Audio.d:287,22 khz|44 khz,22 кгц|44 кгц,,True,MENUITEM_AUDIO_SAMPLERATE_CHOICE.text[0],,
+Scripts/System/Menu/Menu_Opt_Controls.d:80,TASTATUR EINSTELLUNGEN,НАСТРОЙКИ УПРАВЛЕНИЯ,,True,MENU_ITEM_CHG_KEYS_HEADLINE.text[0],,
+Scripts/System/Menu/Menu_Opt_Controls.d:99,Vorwärts,Вперед,,False,MENU_ITEM_KEY_UP.text[0],,
+Scripts/System/Menu/Menu_Opt_Controls.d:110,Rückwärts,Назад,,False,MENU_ITEM_KEY_DOWN.text[0],,
+Scripts/System/Menu/Menu_Opt_Controls.d:121,Links drehen,Поворот налево,,True,MENU_ITEM_KEY_LEFT.text[0],,
+Scripts/System/Menu/Menu_Opt_Controls.d:132,Rechts drehen,Поворот направо,,True,MENU_ITEM_KEY_RIGHT.text[0],,
+Scripts/System/Menu/Menu_Opt_Controls.d:144,Seitwärts links,Скольжение влево,,True,MENU_ITEM_KEY_STRAFE_LEFT.text[0],,
+Scripts/System/Menu/Menu_Opt_Controls.d:155,Seitwärts rechts,Скольжение вправо,,True,MENU_ITEM_KEY_STRAFE_RIGHT.text[0],,
+Scripts/System/Menu/Menu_Opt_Controls.d:172,Waffen,Оружие,,False,MENU_ITEM_KEY_WEAPON.text[0],,
+Scripts/System/Menu/Menu_Opt_Controls.d:183,Aktion,Действие,,True,MENU_ITEM_KEY_ACTION.text[0],,
+Scripts/System/Menu/Menu_Opt_Controls.d:194,Springen/Klettern,Прыжок/Шаг в сторону,,True,MENU_ITEM_KEY_JUMPCLIMBSTRAFE.text[0],,
+Scripts/System/Menu/Menu_Opt_Controls.d:205,Langsam laufen,Бег,,True,MENU_ITEM_KEY_RUNMODETOGGLE.text[0],,
+Scripts/System/Menu/Menu_Opt_Controls.d:216,Schleichen,Подкрадывание,,False,MENU_ITEM_KEY_SNEAK.text[0],,
+Scripts/System/Menu/Menu_Opt_Controls.d:227,Umsehen,Оглядывание,,True,MENU_ITEM_KEY_LOOK.text[0],,
+Scripts/System/Menu/Menu_Opt_Controls.d:238,Umsehen FirstPerson,Оглядывание (ПЛ),,True,MENU_ITEM_KEY_LOOK_FP.text[0],,
+Scripts/System/Menu/Menu_Opt_Controls.d:253,Inventar,Инвентарь,,False,MENU_ITEM_KEY_INVENTORY.text[0],,
+Scripts/System/Menu/Menu_Opt_Controls.d:264,Spielerstatus,Статус,,True,MENU_ITEM_KEY_SCREEN_STATUS.text[0],,
+Scripts/System/Menu/Menu_Opt_Controls.d:276,Missionen und Notizen,Миссии и записи,,True,MENU_ITEM_KEY_SCREEN_LOG.text[0],,
+Scripts/System/Menu/Menu_Opt_Controls.d:558,Standard-Einstellung,По умолчанию,,True,MENU_ITEM_CHG_KEYS_SET_DEFAULT.text[0],,
+Scripts/System/Menu/Menu_Opt_Controls.d:559,Aktiviert die Standardbelegung der Tastatur.,Восстановить настройки по умолчанию.,,True,MENU_ITEM_CHG_KEYS_SET_DEFAULT.text[1],,
+Scripts/System/Menu/Menu_Opt_Controls.d:570,Alternativ-Einstellung,Альтернативные настройки,,True,MENU_ITEM_CHG_KEYS_SET_ALTERNATIVE.text[0],,
+Scripts/System/Menu/Menu_Opt_Controls.d:571,Aktiviert eine alternative Belegung der Tastatur.,Включает альтернативные настройки.,,True,MENU_ITEM_CHG_KEYS_SET_ALTERNATIVE.text[1],,
+Scripts/System/Menu/Menu_Misc.d:23,Sequel verlassen?,Вы уверены?,,True,MENUITEM_LEAVE_GAME_HEADLINE.text[0],,
+Scripts/System/Menu/Menu_Misc.d:36,Ja,Да,,True,MENUITEM_LEAVE_GAME_YES.text[0],,
+Scripts/System/Menu/Menu_Misc.d:37,"Ja, ich möchte Gothic verlassen.","Да, я хочу выйти из Готики.",,True,MENUITEM_LEAVE_GAME_YES.text[1],,
+Scripts/System/Menu/Menu_Misc.d:52,Nein,Нет,,False,MENUITEM_LEAVE_GAME_NO.text[0],,
+Scripts/System/Menu/Menu_Misc.d:53,"Nein, ich möchte weiterspielen.","Нет, я хочу продолжить игру.",,True,MENUITEM_LEAVE_GAME_NO.text[1],,
+Scripts/System/Menu/Menu_Savegame.d:100,SPIEL LADEN,Загрузить игру,,True,MENUITEM_LOAD_HEADLINE.text[0],,
+Scripts/System/Menu/Menu_Savegame.d:111,SPIEL SPEICHERN,Сохранить игру,,True,MENUITEM_SAVE_HEADLINE.text[0],,
+Scripts/System/Menu/Menu_Savegame.d:140,Welt:,Мир:,,True,MENUITEM_LOADSAVE_LEVELNAME.text[0],,
+Scripts/System/Menu/Menu_Savegame.d:166,gespeichert:,Дата сохранения:,,True,MENUITEM_LOADSAVE_DATETIME.text[0],,
+Scripts/System/Menu/Menu_Savegame.d:195,Spielzeit:,Игровое время:,,True,MENUITEM_LOADSAVE_GAMETIME.text[0],,
+Scripts/System/Menu/Menu_Savegame.d:266,Slot {} - RETURN zum Speichern in diesem Slot.,Slot {} - RETURN для хранения в этом слоте.,,True,save_slot,,format<save_slot>()
+Scripts/System/Menu/Menu_Savegame.d:270,Slot {} - RETURN zum Laden des gespeicherten Spielstandes.,Slot {} - RETURN для загрузки сохраненного игрового пространства.,,True,load_slot,,format<load_slot>()
+Scripts/System/Menu/Menu_Log.d:42,Aktuelle\nMissionen,Текущие\nмиссии,,True,MENU_ITEM_SEL_MISSIONS_ACT.text[0],,
+Scripts/System/Menu/Menu_Log.d:56,Erfüllte\nMissionen,Завершенные\nмиссии,,True,MENU_ITEM_SEL_MISSIONS_OLD.text[0],,
+Scripts/System/Menu/Menu_Log.d:72,Gescheiterte\nMissionen,Проваленные\nмиссии,,True,MENU_ITEM_SEL_MISSIONS_FAILED.text[0],,
+Scripts/System/Menu/Menu_Log.d:88,Allgemeine\nInfos,Общая\nинформация,,True,MENU_ITEM_SEL_LOG.text[0],,
+Scripts/System/Menu/Menu_Log.d:109,Act Missions,Текущие миссии,,True,MENU_ITEM_LIST_MISSIONS_ACT.text[0],,
+Scripts/System/Menu/Menu_Log.d:129,Old Missions,Старые миссии,,True,MENU_ITEM_LIST_MISSIONS_FAILED.text[0],,
+Scripts/System/Menu/Menu_Log.d:149,Old Missions,Проваленные миссии,,True,MENU_ITEM_LIST_MISSIONS_OLD.text[0],,
+Scripts/System/Menu/Menu_Log.d:169,Log,Дневник,,False,MENU_ITEM_LIST_LOG.text[0],,
+Scripts/System/Menu/Menu_Log.d:192,no content,пусто,,False,MENU_ITEM_CONTENT_VIEWER.text[0],,
+Scripts/System/Menu/Menu_Status.d:147,Gilde:,Гильдия:,,True,MENU_ITEM_PLAYERGUILD_TITLE.text[0],,
+Scripts/System/Menu/Menu_Status.d:170,Stufe,Уровень,,False,MENU_ITEM_LEVEL_TITLE.text[0],,
+Scripts/System/Menu/Menu_Status.d:177,Erfahrung,Опыт,,False,MENU_ITEM_EXP_TITLE.text[0],,
+Scripts/System/Menu/Menu_Status.d:184,Nächste Stufe,След. уровень,,True,MENU_ITEM_LEVEL_NEXT_TITLE.text[0],,
+Scripts/System/Menu/Menu_Status.d:191,Lernpunkte,Очки обучения,,False,MENU_ITEM_LEARN_TITLE.text[0],,
+Scripts/System/Menu/Menu_Status.d:230,Attribute:,ХАРАКТЕРИСТИКИ,,True,MENU_ITEM_ATTRIBUTE_HEADING.text[0],,
+Scripts/System/Menu/Menu_Status.d:238,Stärke,Сила,,False,MENU_ITEM_ATTRIBUTE_1_TITLE.text[0],,
+Scripts/System/Menu/Menu_Status.d:244,Geschick,Ловкость,,True,MENU_ITEM_ATTRIBUTE_2_TITLE.text[0],,
+Scripts/System/Menu/Menu_Status.d:250,Mana,Мана,,False,MENU_ITEM_ATTRIBUTE_3_TITLE.text[0],,
+Scripts/System/Menu/Menu_Status.d:256,Gesundheit,Жизнь,,True,MENU_ITEM_ATTRIBUTE_4_TITLE.text[0],,
+Scripts/System/Menu/Menu_Status.d:289,Rüstungs-Schutz:,ЗАЩИТА,,True,MENU_ITEM_ARMOR_HEADING.text[0],,
+Scripts/System/Menu/Menu_Status.d:296,Waffen,от оружия,,True,MENU_ITEM_ARMOR_1_TITLE.text[0],,
+Scripts/System/Menu/Menu_Status.d:303,Geschosse,от стрел,,True,MENU_ITEM_ARMOR_2_TITLE.text[0],,
+Scripts/System/Menu/Menu_Status.d:310,Feuer,от огня,,True,MENU_ITEM_ARMOR_3_TITLE.text[0],,
+Scripts/System/Menu/Menu_Status.d:318,Magie,от магии,,True,MENU_ITEM_ARMOR_4_TITLE.text[0],,
+Scripts/System/Menu/Menu_Status.d:356,Waffentalente / Treffer-Chance:,БОЕВЫЕ УМЕНИЯ / КРИТ. ПОПАДАНИЕ,,True,MENU_ITEM_TALENTS_WEAPON_HEADING.text[0],,
+Scripts/System/Menu/Menu_Status.d:363,Diebestalente / Erfolgs-Chance:,ВОРОВСКИЕ УМЕНИЯ / ШАНС ПРОВАЛА,,True,MENU_ITEM_TALENTS_THIEF_HEADING.text[0],,
+Scripts/System/Menu/Menu_Status.d:370,Magie-Talente:,Магические таланты :,,True,MENU_ITEM_TALENTS_MAGIC_HEADING.text[0],,
+Scripts/System/Menu/Menu_Status.d:377,Handwerks-Talente:,Ремесленный талант :,,True,MENU_ITEM_TALENTS_WORK_HEADING.text[0],,
