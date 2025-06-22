@@ -26,7 +26,7 @@
 "Scripts/Content/Story/SVM.d:791","Verdammt, was für ein Vieh! Nichts wie weg!","Damn, what a beast! Clear out as fast as you can!","","True","SVM_6_ShitWhatAMonster","",""
 "Scripts/Content/Story/SVM.d:792","Verdammt!","Damn!","","True","SVM_6_Help","",""
 "Scripts/Content/Story/SVM.d:793","Noch einmal und du kannst was erleben.","Try that again and you'll regret it.","","True","SVM_6_NeverTryThatAgain","",""
-"Scripts/Content/Story/SVM.d:795","Danke für das Silber, ich trink einen auf dich mit!","","","False","SVM_6_ITookYourOre","",""
+"Scripts/Content/Story/SVM.d:795","Danke für das Silber, ich trink einen auf dich mit!","Thanks for the silver, I'll drink to you!","","False","SVM_6_ITookYourOre","",""
 "Scripts/Content/Story/SVM.d:796","Scheiße, nicht mal Erz dabei…","","","False","SVM_6_ShitNoOre","",""
 "Scripts/Content/Story/SVM.d:796","Finger weg!","Don't touch!","","True","SVM_6_HandsOff","",""
 "Scripts/Content/Story/SVM.d:797","Raus hier!","Get out of here!","","True","SVM_6_GetOutOfHere","",""
