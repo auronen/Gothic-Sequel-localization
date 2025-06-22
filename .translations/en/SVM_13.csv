@@ -26,7 +26,7 @@
 "Scripts/Content/Story/SVM.d:1561","Ich hab' nicht die richtige Waffe. Wir sehen uns …","I don't have the right weapon. We'll meet again …","","False","SVM_13_ShitWhatAMonster","",""
 "Scripts/Content/Story/SVM.d:1563","Woooooaaahhh! Weg hier!","Woooooaaahhh! Clear off!","","True","SVM_13_Help","",""
 "Scripts/Content/Story/SVM.d:1564","Beim nächsten Mal bring ich dich um!","Next time I'll kill you!","","True","SVM_13_NeverTryThatAgain","",""
-"Scripts/Content/Story/SVM.d:1564","Du hast bestimmt nichts dagegen, wenn ich etwas Silber behalte.","","","False","SVM_13_ITookYourOre","",""
+"Scripts/Content/Story/SVM.d:1564","Du hast bestimmt nichts dagegen, wenn ich etwas Silber behalte.","I suppose you don't have nothing against me keeping some silver.","","False","SVM_13_ITookYourOre","",""
 "Scripts/Content/Story/SVM.d:1566","Du hast je nicht mal etwas Erz in den Taschen!","You don't even have any ore in your pockets!","","True","SVM_13_ShitNoOre","",""
 "Scripts/Content/Story/SVM.d:1566","Du Ratte! Finger weg! Dir zeig' ich's!","You rat! Hands off! I'll give it to you!","","True","SVM_13_HandsOff","",""
 "Scripts/Content/Story/SVM.d:1568","Verzieh Dich! Raus hier!","Buzz off! Get out of here!","","True","SVM_13_GetOutOfHere","",""
