@@ -1,6 +1,6 @@
 "location","source","target","id","fuzzy","context","translator_comments","developer_comments"
 "Scripts/Content/Story/SVM.d:655","Pack mal lieber die Magie weg!","Żadnego czarowania!","","False","SVM_5_StopMagic","",""
-"Scripts/Content/Story/SVM.d:656","Wenn ich Magie weg sage, dann mein' ich das auch so!","","","False","SVM_5_ISaidStopMagic","",""
+"Scripts/Content/Story/SVM.d:656","Wenn ich Magie weg sage, dann mein' ich das auch so!","Dobrze ci radzę, żadnej magii!","","False","SVM_5_ISaidStopMagic","",""
 "Scripts/Content/Story/SVM.d:658","Was hast du mit der Waffe vor, Mann!","Co chcesz zrobić z tą bronią, człowieku?!","","False","SVM_5_WeaponDown","",""
 "Scripts/Content/Story/SVM.d:658","Komm schon, steck weg, das Ding!","No już, schowaj tę broń!","","False","SVM_5_ISaidWeaponDown","",""
 "Scripts/Content/Story/SVM.d:659","Du zielst auf mich, du Komiker!","Przestań we mnie celować, bałwanie!","","False","SVM_5_WatchYourAim","",""
