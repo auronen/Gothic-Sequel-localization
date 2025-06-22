@@ -26,7 +26,7 @@
 "Scripts/Content/Story/SVM.d:680","Das ist 'ne Nummer zu groß für mich!","This one's too big for me!","","True","SVM_5_ShitWhatAMonster","",""
 "Scripts/Content/Story/SVM.d:681","Verdammt!","Damn!","","True","SVM_5_Help","",""
 "Scripts/Content/Story/SVM.d:682","Versuch das nicht noch mal!","Don't try that again!","","True","SVM_5_NeverTryThatAgain","",""
-"Scripts/Content/Story/SVM.d:683","Ich sorg dafür, dass dein Silber gut angelegt wird!","","","False","SVM_5_ITookYourOre","",""
+"Scripts/Content/Story/SVM.d:683","Ich sorg dafür, dass dein Silber gut angelegt wird!","I'll make sure your silver is well spent!","","False","SVM_5_ITookYourOre","",""
 "Scripts/Content/Story/SVM.d:684","So ein Pech! Kein Erz!","Bad luck! No ore!","","True","SVM_5_ShitNoOre","",""
 "Scripts/Content/Story/SVM.d:685","Finger weg!","Don't touch!","","True","SVM_5_HandsOff","",""
 "Scripts/Content/Story/SVM.d:686","Raus hier!","Get out of here!","","True","SVM_5_GetOutOfHere","",""
