@@ -13,7 +13,7 @@
 "Scripts/Content/Story/SVM.d:1548","Du willst es doch wohl nicht noch mal versuchen?","You don't want to try it again, do you?","","True","SVM_13_YouStillNotHaveEnough","",""
 "Scripts/Content/Story/SVM.d:1550","Du wolltest es so!","You asked for that!","","True","SVM_13_YouAskedForIt","",""
 "Scripts/Content/Story/SVM.d:1552","Jetzt gehts dir an den Kragen, Eindringling!","Now you're done for, intruder!","","True","SVM_13_NowWaitIntruder","",""
-"Scripts/Content/Story/SVM.d:1553","Dreckiger Dieb! Ich werde dir die Hände brechen …","","","False","SVM_13_DirtyThief","",""
+"Scripts/Content/Story/SVM.d:1553","Dreckiger Dieb! Ich werde dir die Hände brechen …","Dirty thief! I'll break your hands …","","False","SVM_13_DirtyThief","",""
 "Scripts/Content/Story/SVM.d:1554","Wenn hier jemand Prügel austeilt, bin ich das!","Nobody beats up anybody else here except me!","","True","SVM_13_YouAttackedMyCharge","",""
 "Scripts/Content/Story/SVM.d:1556","Du hast einen von uns gekillt!","You've killed one of us!","","True","SVM_13_YouKilledOneOfUs","",""
 "Scripts/Content/Story/SVM.d:1557","Aaargl","Aargh, aargh","","True","SVM_13_Dead","",""
