@@ -10,7 +10,7 @@
 "Scripts/Content/Story/SVM.d:995","Lästige Viecher!","Damn creatures!","","True","SVM_8_DieMonster","",""
 "Scripts/Content/Story/SVM.d:996","Jetzt stirbst du. Nimm's nicht persönlich!","Now you'll die. Don't take it personally!","","True","SVM_8_DieMortalEnemy","",""
 "Scripts/Content/Story/SVM.d:997","Du Wurm greifst MICH an! Na warte …","You worm are attacking ME! Just you wait …","","False","SVM_8_NowWait","",""
-"Scripts/Content/Story/SVM.d:998","hab' ich dich nicht schon mal in den Staub getreten? Auf ein Neues …","","","False","SVM_8_YouStillNotHaveEnough","",""
+"Scripts/Content/Story/SVM.d:998","hab' ich dich nicht schon mal in den Staub getreten? Auf ein Neues …","Didn't I knock you into the dust once? Here we go again …","","False","SVM_8_YouStillNotHaveEnough","",""
 "Scripts/Content/Story/SVM.d:999","Wer nicht hören will, muss fühlen!","If you don't listen, you gonna come to grief!","","True","SVM_8_YouAskedForIt","",""
 "Scripts/Content/Story/SVM.d:1000","Du wagst es, HIER rumzulaufen? Na warte!","You dare to run around HERE? Wait a second!","","True","SVM_8_NowWaitIntruder","",""
 "Scripts/Content/Story/SVM.d:1002","Das hättest du nicht klauen sollen!","You shouldn't have stolen that!","","True","SVM_8_DirtyThief","",""
