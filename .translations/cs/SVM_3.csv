@@ -1,6 +1,6 @@
 "location","source","target","id","fuzzy","context","translator_comments","developer_comments"
-"Scripts/Content/Story/SVM.d:437","Weg mit der Magie!","Žádné čarování!","","True","SVM_3_StopMagic","",""
-"Scripts/Content/Story/SVM.d:438","Steck endlich die Magie weg.","Přestaň už s těmi kouzly!","","True","SVM_3_ISaidStopMagic","",""
+"Scripts/Content/Story/SVM.d:437","Weg mit der Magie!","Žádné čarování!","","False","SVM_3_StopMagic","",""
+"Scripts/Content/Story/SVM.d:438","Steck endlich die Magie weg.","Přestaň už s těmi kouzly.","","False","SVM_3_ISaidStopMagic","",""
 "Scripts/Content/Story/SVM.d:438","Nimm die Waffe runter!","Polož tu zbraň!","","True","SVM_3_WeaponDown","",""
 "Scripts/Content/Story/SVM.d:439","Ich krieg' schlechte Laune, wenn du weiter mit der Waffe rumfummelst!!","Jestli se tu s tou zbraní budeš motat, dostanu vztek!","","True","SVM_3_ISaidWeaponDown","",""
 "Scripts/Content/Story/SVM.d:441","Warum zielst du auf mich?!","Proč na mě míříš?","","True","SVM_3_WatchYourAim","",""
