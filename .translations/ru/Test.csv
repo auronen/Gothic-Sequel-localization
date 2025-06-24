@@ -118,7 +118,7 @@
 "Scripts/Content/AI/Test_Skripts/StoryHelper.d:94","ZURÜCK","ZURÜCK","","False","StoryHelper_INFO1_Info.StoryHelper_INFO1.StoryHelper_BACK1","AI_AddChoice",""
 "Scripts/Content/AI/Test_Skripts/StoryHelper.d:95","I: Bei Diego im Haus der Erzbarone","I. У Диего в доме архбаронов","","True","StoryHelper_INFO1_Info.StoryHelper_INFO1.StoryHelper_Chapter1_BeforeDiego","AI_AddChoice",""
 "Scripts/Content/AI/Test_Skripts/StoryHelper.d:96","I: Am Alten Lager angekommen","I. Прибытие в старый лагерь","","True","StoryHelper_INFO1_Info.StoryHelper_INFO1.StoryHelper_Chapter1_ArrivedAtOC","AI_AddChoice",""
-"Scripts/Content/AI/Test_Skripts/StoryHelper.d:155","Kapitel 2","Часть 2","","False","StoryHelper_INFO2.description","",""
+"Scripts/Content/AI/Test_Skripts/StoryHelper.d:155","Kapitel 2","Глава 2","","True","StoryHelper_INFO2.description","",""
 "Scripts/Content/AI/Test_Skripts/StoryHelper.d:168","ZURÜCK","ZURÜCK","","False","StoryHelper_INFO2_Info.StoryHelper_INFO2.StoryHelper_BACK2","AI_AddChoice",""
 "Scripts/Content/AI/Test_Skripts/StoryHelper.d:169","II: In der Bergfestung","II. В горной крепости","","True","StoryHelper_INFO2_Info.StoryHelper_INFO2.StoryHelper_Chapter2_EnteredBF","AI_AddChoice",""
 "Scripts/Content/AI/Test_Skripts/StoryHelper.d:170","II: Thora überzeugt","Тора убеждает","","True","StoryHelper_INFO2_Info.StoryHelper_INFO2.StoryHelper_Chapter2_ThoraConvinced","AI_AddChoice",""

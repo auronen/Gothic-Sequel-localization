@@ -48,7 +48,7 @@
 "Scripts/Content/Story/NPC/PC_Hero.d:4","Ich","Я","","True","PC_Hero.name","",""
 "Scripts/Content/Story/NPC/PC_Mage.d:4","Milten","Мильтен","","False","PC_Mage.name","",""
 "Scripts/Content/Story/NPC/PC_Psionic.d:5","Lester","Лестер","","False","PC_Psionic.name","",""
-"Scripts/Content/Story/NPC/PC_Rockefeller.d:5","Rockefeller","Rockefeller","","False","PC_Rockefeller.name","",""
+"Scripts/Content/Story/NPC/PC_Rockefeller.d:5","Rockefeller","Рокфеллер","","True","PC_Rockefeller.name","",""
 "Scripts/Content/Story/NPC/PC_Thief.d:4","Diego","Диего","","False","PC_Thief.name","",""
 "Scripts/Content/Story/NPC/POS_600_Jurgi.d:4","Jurgi","Юрий","","True","POS_600_Jurgi.name","",""
 "Scripts/Content/Story/NPC/POS_601_Paskara.d:4","Paskara","Паскара","","True","POS_601_Paskara.name","",""
