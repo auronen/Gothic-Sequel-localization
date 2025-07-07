@@ -216,7 +216,7 @@
 "Scripts/Content/Items/MissionItems_1.d:106","Dies ist die Borschaft, die mir Xardas","This is the message Xardas gave me.","","True","ItWr_Xardas_Letter.text[0]","",""
 "Scripts/Content/Items/MissionItems_1.d:107","für Diego mitgab.","for Diego.","","True","ItWr_Xardas_Letter.text[1]","",""
 "Scripts/Content/Items/MissionItems_1.d:109","Das Siegel ist gebrochen!","The seal has been broken.","","True","ItWr_Xardas_Letter.text[3]","",""
-"Scripts/Content/Items/MissionItems_1.d:129","Teleport zum Lager","Orc teleport spell","","True","ItArScrollTeleport4.description","",""
+"Scripts/Content/Items/MissionItems_1.d:129","Teleport zum Lager","Teleport to Camp","","False","ItArScrollTeleport4.description","",""
 "Scripts/Content/Items/MissionItems_1.d:137","Diebeskunst","Thieving","","True","ItWr_Book_Thief_01.name","",""
 "Scripts/Content/Items/MissionItems_1.d:150","Über Schlösser und Mechanismen","About Locks and Mechanisms","","True","ItWr_Book_Thief_01.description","",""
 "Scripts/Content/Items/MissionItems_1.d:162","Schlösser und Mechanismen ","Locks and mechanisms","","True","ItWr_Book_Thief_01_1","",""
