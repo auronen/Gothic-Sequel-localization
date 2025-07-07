@@ -853,6 +853,13 @@ const string TXT_INV_CAT[INV_CAT_MAX] = {
 	const string PRINT_ATTITUDE_Angry					= " ist verärgert.";
 	const string PRINT_ATTITUDE_Hostile					= " ist feindlich.";
 
+#if cs {
+	const string PRINT_ATTITUDE_Friendly_F				= "";
+	const string PRINT_ATTITUDE_Neutral_F				= "";
+	const string PRINT_ATTITUDE_Angry_F					= "";
+	const string PRINT_ATTITUDE_Hostile_F				= "";
+}
+
 //***************************************************************************************
 // Stringkonstanten aus den G_FUNCTIONS
 //***************************************************************************************

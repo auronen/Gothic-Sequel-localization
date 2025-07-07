@@ -923,7 +923,7 @@ func int B_CheckForImportantInfo(var C_Npc slf, var C_Npc oth)
 // 	JP: Hier wird jetzt auch noch eine Textausgabe gestartet, die angibt
 //	Wessen (Npc.Name) Attitüde sich wohin ändert
 //////////////////////////////////////////////////////////////////////////
-func void B_SetAttitude(var C_Npc slf, var int att)
+func void B_SetAttitude(var C_NPC slf, var int att)
 {
 	PrintDebugNpc(PD_ZS_DETAIL, "B_SetAttitude");
 
@@ -935,28 +935,62 @@ func void B_SetAttitude(var C_Npc slf, var int att)
 	if (att == ATT_FRIENDLY)
 	{
 		string_ScreenText = slf.name;
+#if cs {
+		if slf.aivar[AIV_FEMALE] {
+		    string_ScreenText = ConcatStrings(string_ScreenText, PRINT_ATTITUDE_Friendly_F);
+		} else {
+		    string_ScreenText = ConcatStrings(string_ScreenText, PRINT_ATTITUDE_Friendly);
+		};
+} else {
 		string_ScreenText = ConcatStrings(string_ScreenText, PRINT_ATTITUDE_Friendly);
+}
 		_ = PrintScreenColored(string_ScreenText, -1, _YPOS_MESSAGE_GIVEN + 2, FONT_OLD_SMALL, _TIME_MESSAGE_CHANGEATTITUDE, TEXT_COLOR_GREEN);
 	};
 
 	if (att == ATT_NEUTRAL)
 	{
 		string_ScreenText = slf.name;
+
+#if 0 { // for now turned off, when translators for other languages decide its needed, we modify this to include language codes it applies to
+		if slf.aivar[AIV_FEMALE] {
+		    string_ScreenText = ConcatStrings(string_ScreenText, PRINT_ATTITUDE_Neutral_F);
+		} else {
+		    string_ScreenText = ConcatStrings(string_ScreenText, PRINT_ATTITUDE_Neutral);
+		};
+} else {
 		string_ScreenText = ConcatStrings(string_ScreenText, PRINT_ATTITUDE_Neutral);
+}
 		_ = PrintScreenColored(string_ScreenText, -1, _YPOS_MESSAGE_GIVEN + 2, FONT_OLD_SMALL, _TIME_MESSAGE_CHANGEATTITUDE, TEXT_COLOR_WHITE);
 	};
 
 	if (att == ATT_ANGRY)
 	{
 		string_ScreenText = slf.name;
+		string_ScreenText = slf.name;
+#if cs {
+		if slf.aivar[AIV_FEMALE] {
+		    string_ScreenText = ConcatStrings(string_ScreenText, PRINT_ATTITUDE_Angry_F);
+		} else {
+		    string_ScreenText = ConcatStrings(string_ScreenText, PRINT_ATTITUDE_Angry);
+		};
+} else {
 		string_ScreenText = ConcatStrings(string_ScreenText, PRINT_ATTITUDE_Angry);
+}
 		_ = PrintScreenColored(string_ScreenText, -1, _YPOS_MESSAGE_GIVEN + 2, FONT_OLD_SMALL, _TIME_MESSAGE_CHANGEATTITUDE, TEXT_COLOR_YELLOW);
 	};
 
 	if (att == ATT_HOSTILE)
 	{
 		string_ScreenText = slf.name;
+#if cs {
+		if slf.aivar[AIV_FEMALE] {
+		    string_ScreenText = ConcatStrings(string_ScreenText, PRINT_ATTITUDE_Hostile_F);
+		} else {
+		    string_ScreenText = ConcatStrings(string_ScreenText, PRINT_ATTITUDE_Hostile);
+		};
+} else {
 		string_ScreenText = ConcatStrings(string_ScreenText, PRINT_ATTITUDE_Hostile);
+}
 		_ = PrintScreenColored(string_ScreenText, -1, _YPOS_MESSAGE_GIVEN + 2, FONT_OLD_SMALL, _TIME_MESSAGE_CHANGEATTITUDE, TEXT_COLOR_RED);
 	};
 };
