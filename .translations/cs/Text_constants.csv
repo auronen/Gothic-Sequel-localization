@@ -777,3 +777,7 @@
 "","DISCLAIMER","VAROVÁNÍ","","False","Disclaimer","",""
 "Scripts/Content/Story/Text.d:923"," nimmt sich "," sebral ","","False","_STR_MESSAGE_ATT_PAY_MIDFIX","",""
 "Scripts/Content/Story/Text.d:924"," Silber!"," Stříbra!","","False","_STR_MESSAGE_ATT_PAY_POSTFIX","",""
+"","","je neutrální.","","True","PRINT_ATTITUDE_Neutral_F","",""
+"","","je naštvaná.","","True","PRINT_ATTITUDE_Angry_F","",""
+"","","je přátelská.","","True","PRINT_ATTITUDE_Friendly_F","",""
+"","","je rozzuřená.","","True","PRINT_ATTITUDE_Hostile_F","",""
