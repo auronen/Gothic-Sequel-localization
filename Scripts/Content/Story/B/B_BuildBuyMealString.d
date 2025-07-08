@@ -7,8 +7,8 @@
 func string B_BuildBuyMealString!(var int amount, var string text, var int price)
 {
 	if amount == 1 {
-		return format!<BuyMealStringS>("{} Ration {} kaufen ({} Silber)", amount, text, price);
+		return format!<"BuyMealStringS">("{} Ration {} kaufen ({} Silber)", amount, text, price);
 	} else {
-		return format!<BuyMealStringP>("{} Rationen {} kaufen ({} Silber)", amount, text, price * amount);
+		return format!<"BuyMealStringP">("{} Rationen {} kaufen ({} Silber)", amount, text, price * amount);
 	};
 };

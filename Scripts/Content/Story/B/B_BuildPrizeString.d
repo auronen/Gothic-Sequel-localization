@@ -4,5 +4,5 @@
 //	- Rückgabestring: "20 Silber"
 func string B_BuildPrizeString!(var int prize)
 {
-	return format!<PrizeString>("{} Silber", prize);
+	return format!<"PrizeString">("{} Silber", prize);
 };
