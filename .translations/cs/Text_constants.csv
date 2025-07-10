@@ -783,3 +783,8 @@
 "","","je rozzuřená.","","True","PRINT_ATTITUDE_Hostile_F","",""
 "Scripts/Content/Story/B/B_BuildBuyString.d:8","{} kaufen ({} Silver)","Koupit {} ({} Stříbra)","","False","BuyString","","format!()"
 "Scripts/Content/Story/B/B_BuildPrizeString.d:7","{} Silber","{} Stříbra","","False","PrizeString","","format!()"
+"Scripts/Content/Story/B/B_BuildBuyMealString.d:10","{} Ration {} kaufen ({} Silber)","koupit {} porci {} ({} Stříbra)","","False","BuyMealStringS","","format!()"
+"Scripts/Content/Story/B/B_BuildBuyMealString.d:12","{} Rationen {} kaufen ({} Silber)","koupit {} porcí {} ({} Stříbra)","","False","BuyMealStringP","","format!()"
+"Scripts/Content/Story/B/B_BuildSmithString.d:11","{}{} schmieden","vykovat {} ({})","","False","BuildAnvilString","","format!()"
+"Scripts/Content/Story/B/B_BuildSmithString.d:18","{}{} abkühlen","zakalit {} ({})","","False","BuildCoolString","","format!()"
+"Scripts/Content/Story/B/B_BuildSmithString.d:25","{}{} schleifen","naostřit {} ({})","","False","BuildSharpString","","format!()"
