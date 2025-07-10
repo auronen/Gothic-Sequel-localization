@@ -6,5 +6,5 @@
 //	- Rückgabestring: "Kettenhemd (1500 Silber)"
 func string B_BuildBuyArmorString!(var instance armor)
 {
-	return format!("{} ({} Silber)", armor.name, armor.value);
+	return format!<"BuyArmorString">("{} ({} Silber)", armor.name, armor.value);
 };
