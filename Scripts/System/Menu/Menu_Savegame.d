@@ -263,11 +263,11 @@ INSTANCE MENUITEM_LOAD_BACK(C_MENU_ITEM_DEF)
 
 
 func string get_saveslot_string!(var int slot) {
-	return format!<save_slot>("Slot {} - RETURN zum Speichern in diesem Slot.", slot);
+	return format!<"save_slot">("Slot {} - RETURN zum Speichern in diesem Slot.", slot);
 };
 
 func string get_loadslot_string!(var int slot) {
-	return format!<load_slot>("Slot {} - RETURN zum Laden des gespeicherten Spielstandes.", slot);
+	return format!<"load_slot">("Slot {} - RETURN zum Laden des gespeicherten Spielstandes.", slot);
 };
 
 

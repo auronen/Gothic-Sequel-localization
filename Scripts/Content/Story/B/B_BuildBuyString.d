@@ -5,5 +5,5 @@
 //	- Rückgabestring: "Spitzhacke (20 Silber)"
 func string B_BuildBuyString!(var string text, var int price)
 {
-	return format!<BuyString>("{} kaufen ({} Silver)", text, price);
+	return format!<"BuyString">("{} kaufen ({} Silver)", text, price);
 };

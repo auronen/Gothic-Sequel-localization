@@ -781,3 +781,5 @@
 "","","je naštvaná.","","True","PRINT_ATTITUDE_Angry_F","",""
 "","","je přátelská.","","True","PRINT_ATTITUDE_Friendly_F","",""
 "","","je rozzuřená.","","True","PRINT_ATTITUDE_Hostile_F","",""
+"Scripts/Content/Story/B/B_BuildBuyString.d:8","{} kaufen ({} Silver)","Koupit {} ({} Stříbra)","","False","BuyString","","format!()"
+"Scripts/Content/Story/B/B_BuildPrizeString.d:7","{} Silber","{} Stříbra","","False","PrizeString","","format!()"

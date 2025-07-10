@@ -807,13 +807,13 @@ const string TXT_INV_CAT[INV_CAT_MAX] = {
 	const string GE_AlchemieRecipies_Mana		= B_BuildAlchemieRecipeString!(NAME_RecipePotionsMana, NAME_StoneRoot);
 	const string GE_AlchemieRecipies_HP			= B_BuildAlchemieRecipeString!(NAME_RecipePotionsHealing, NAME_MountainMoss);
 
-	const string GE_BowMaker_Bow				= format!<GE_BowMaker_Bow>("Kurzbögen jeder Bauart sind vom Bauplan her bekannt. Für den Kurzbogen werden {} Holz benötigt. Für den Reiterbogen werden {} Holz benötigt. Für den Feldbogen werden {} Holz benötigt. Für den Jagdbogen werden {} Holz benötigt.",
+	const string GE_BowMaker_Bow				= format!<"GE_BowMaker_Bow">("Kurzbögen jeder Bauart sind vom Bauplan her bekannt. Für den Kurzbogen werden {} Holz benötigt. Für den Reiterbogen werden {} Holz benötigt. Für den Feldbogen werden {} Holz benötigt. Für den Jagdbogen werden {} Holz benötigt.",
 																			Amnt_ShortBow,
 																			Amnt_RiderBow,
 																			Amnt_FieldBow,
 																			Amnt_HuntingBow,
 																		);
-	const string GE_BowMaker_LongBow			= format!<GE_BowMaker_LongBow>("Langbögen jeder Bauart sind vom Bauplan her bekannt. Für den Langbogen werden {} Holz benötigt. Für den Heckenbogen werden {} Holz benötigt. Für den Weidenbogen werden {} Holz benötigt. Für den Armeebogen werden {} Holz benötigt. Für den Kriegsbogen werden {} Holz benötigt. Für den Sturmbogen werden {} Holz benötigt.",
+	const string GE_BowMaker_LongBow			= format!<"GE_BowMaker_LongBow">("Langbögen jeder Bauart sind vom Bauplan her bekannt. Für den Langbogen werden {} Holz benötigt. Für den Heckenbogen werden {} Holz benötigt. Für den Weidenbogen werden {} Holz benötigt. Für den Armeebogen werden {} Holz benötigt. Für den Kriegsbogen werden {} Holz benötigt. Für den Sturmbogen werden {} Holz benötigt.",
 																			Amnt_LongBow,
 																			Amnt_HedgeBow,
 																			Amnt_WillowBow,
@@ -821,7 +821,7 @@ const string TXT_INV_CAT[INV_CAT_MAX] = {
 																			Amnt_WarBow,
 																			Amnt_StormBow
 																		);
-	const string GE_BowMaker_CrossBow			= format!<GE_BowMaker_CrossBow>("Armbrüste jeder Bauart sind vom Bauplan her bekannt. Für die leichte Armbrust werden {} Holz benötigt. Für die Armbrust werden {} Holz benötigt. Für die schwere Armbrust werden {} Holz benötigt. Für die Kriegsarmbrust werden {} Holz benötigt.",
+	const string GE_BowMaker_CrossBow			= format!<"GE_BowMaker_CrossBow">("Armbrüste jeder Bauart sind vom Bauplan her bekannt. Für die leichte Armbrust werden {} Holz benötigt. Für die Armbrust werden {} Holz benötigt. Für die schwere Armbrust werden {} Holz benötigt. Für die Kriegsarmbrust werden {} Holz benötigt.",
 																			Amnt_LightCrossBow,
 																			Amnt_CrossBow,
 																			Amnt_HeavyCrossBow,
