@@ -593,7 +593,7 @@
 "Scripts/Content/Story/Text.d:916"," Gegenstand genommen"," objeto","","False","_STR_MESSAGE_ITEM_PLUNDERED","",""
 "Scripts/Content/Story/Text.d:917"," Gegenstände genommen"," objetos","","False","_STR_MESSAGE_ITEMS_PLUNDERED","",""
 "Scripts/Content/Story/Text.d:920"," Silber genommen"," de plata","","False","_STR_MESSAGE_SILVER_PLUNDERED","",""
-"Scripts/Content/Story/Text.d:920"," Gold gegeben"," de oro","","False","_STR_MESSAGE_GOLD_PLUNDERED","",""
+"Scripts/Content/Story/Text.d:920"," Gold gegeben"," de oro","","True","_STR_MESSAGE_GOLD_PLUNDERED","",""
 "Scripts/Content/Story/Text.d:923","der Wert deiner Tauschware ist nicht hoch genug","Tus mercancías para comerciar no valen lo suficiente.","","False","_STR_MESSAGE_TRADE_FAILURE","",""
 "Scripts/Content/Story/Text.d:928","Voraussetzung für die Aufnahme: Stufe ","Condición para la admisión: nivel ","","False","_STR_MESSAGE_Joincamp","",""
 "Scripts/Content/Story/Text.d:930","kann nicht beklaut werden","No se puede robar.","","False","_STR_MESSAGE_CANNOTSTEAL","",""
