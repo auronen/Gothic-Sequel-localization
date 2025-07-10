@@ -688,7 +688,7 @@ instance MOB_CAULDRON_Spoil(C_Info)
 
 func void MOB_Cauldron_Spoil_Info()
 {
-	_ = PrintScreen("Müffelsalz eingerührt!", -1, _YPOS_MESSAGE_PRODUCE, FONT_OLD_SMALL, _TIME_MESSAGE_PRODUCE);
+	_ = PrintScreen(_STR_MESSAGE_MOBSI_CAULDRON_SPOIL, -1, _YPOS_MESSAGE_PRODUCE, FONT_OLD_SMALL, _TIME_MESSAGE_PRODUCE);
 
 	_ = Npc_RemoveInvItem(hero, ItMi_StinkingSalt);
 	Halvor_StewSalted = TRUE;

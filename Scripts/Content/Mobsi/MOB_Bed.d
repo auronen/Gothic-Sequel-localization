@@ -16,7 +16,7 @@ func void PC_Sleep(var int t)
 		Wld_SetTime(t, 00);
 	};
 
-	_ = PrintScreen("Du hast geschlafen und bist ausgeruht!", -1, -1, FONT_OLD_BIG, 3);
+	_ = PrintScreen(_STR_MESSAGE_MOBSI_BED_SLEEP, -1, -1, FONT_OLD_BIG, 3);
 	hero.attribute[ATR_HITPOINTS] = hero.attribute[ATR_HITPOINTS_MAX];
 	hero.attribute[ATR_MANA] = hero.attribute[ATR_MANA_MAX];
 

@@ -860,10 +860,13 @@ const string TXT_INV_CAT[INV_CAT_MAX] = {
 	const string PRINT_ATTITUDE_Hostile_F				= "";
 }
 
+	const string PRINT_Scroll_Copy						= "Der Zauber wirkt nicht!";
+
 //***************************************************************************************
 // Stringkonstanten aus den G_FUNCTIONS
 //***************************************************************************************
 	const string _STR_INVALID							= "(Unbekannt)-";
+
 
 	const string _STR_ATTRIBUTE_HITPOINTS				= "Lebens-";
 	const string _STR_ATTRIBUTE_HITPOINTS_MAX			= "maximale Lebens-";
@@ -956,6 +959,7 @@ const string TXT_INV_CAT[INV_CAT_MAX] = {
 	const string _STR_MESSAGE_MOBSI_CAULDRON_MAT		= "Keine Zutaten für eine Rezeptur vorhanden!";
 	const string _STR_MESSAGE_MOBSI_CAULDRON_TOOL		= "kein Kochlöffel vorhanden!";
 	const string _STR_MESSAGE_MOBSI_CAULDRON_HALVOR		= "Halvor kann dich sehen!";
+	const string _STR_MESSAGE_MOBSI_CAULDRON_SPOIL		= "Müffelsalz eingerührt!";
 
 	const string _STR_MESSAGE_MOBSI_LAB_MAT				= "Keine ausreichenden Zutaten für eine Rezeptur!";
 	const string _STR_MESSAGE_MOBSI_LAB_TAL				= "Talent ALCHEMIE ist nicht ausreichend!";
@@ -985,6 +989,9 @@ const string TXT_INV_CAT[INV_CAT_MAX] = {
 
 	const string _STR_MESSAGE_MOBSI_ARENABENCH_GLADIATOR= "nur für die Kampfvorbereitung!";
 	const string _STR_MESSAGE_MOBSI_ARENABENCH_CHAMBER	= "falsche Vorbereitungskammer!";
+	const string _STR_MESSAGE_MOBSI_ARENABENCH_FIGHT	= "Du bist hochkonzentriert und bereit für den Kampf!";
+
+	const string _STR_MESSAGE_MOBSI_BED_SLEEP			= "Du hast geschlafen und bist ausgeruht!";	
 
 // Textausgabe für Steal
 	const string _STR_MESSAGE_STEAL_NPC_IS_AWARE		= "mein Opfer beobachtet mich";

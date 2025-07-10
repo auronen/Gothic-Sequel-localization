@@ -186,5 +186,5 @@ func void MOB_ARENABENCH_GotoFight_Info()
 	hero.attribute[ATR_HITPOINTS] = hero.attribute[ATR_HITPOINTS_MAX];
 	hero.attribute[ATR_MANA] = hero.attribute[ATR_MANA_MAX];
 
-	_ = PrintScreen("Du bist hochkonzentriert und bereit für den Kampf!", -1, -1, FONT_OLD_BIG, 3);
+	_ = PrintScreen(_STR_MESSAGE_MOBSI_ARENABENCH_FIGHT, -1, -1, FONT_OLD_BIG, 3);
 };

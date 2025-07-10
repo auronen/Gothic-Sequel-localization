@@ -441,7 +441,7 @@ instance ItAr_ScrollHeal_Copy(C_Item)
 
 func void UseItAr_ScrollHeal_Copy()
 {
-	_ = PrintScreen("Der Zauber wirkt nicht!", -1, -1, FONT_OLD_BIG, 2);
+	_ = PrintScreen(PRINT_Scroll_Copy, -1, -1, FONT_OLD_BIG, 2);
 };
 
 instance ItAr_ScrollLight_Copy(C_Item)
@@ -477,7 +477,7 @@ instance ItAr_ScrollLight_Copy(C_Item)
 
 func void UseItAr_ScrollLight_Copy()
 {
-	_ = PrintScreen("Der Zauber wirkt nicht!", -1, -1, FONT_OLD_BIG, 2);
+	_ = PrintScreen(PRINT_Scroll_Copy, -1, -1, FONT_OLD_BIG, 2);
 };
 
 //---------------------------------------------------------------------
