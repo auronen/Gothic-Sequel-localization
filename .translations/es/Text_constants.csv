@@ -772,3 +772,4 @@
 "Scripts/Content/Story/B/B_BuildBuyString.d:8","{} kaufen ({} Silver)","{} kaufen ({} Silver)","","True","BuyString","","format!()"
 "Scripts/Content/Story/B/B_BuildPrizeString.d:7","{} Silber","{} Silber","","True","PrizeString","","format!()"
 "Scripts/Content/Story/B/B_BuildSmithString.d:25","{}{} schleifen","{}{} schleifen","","True","BuildSharpString","","format!()"
+"Scripts/Content/Story/Text.d:994","Du hast geschlafen und bist ausgeruht!","Has dormido bien; te sientes mejor.","","False","_STR_MESSAGE_MOBSI_BED_SLEEP","",""
