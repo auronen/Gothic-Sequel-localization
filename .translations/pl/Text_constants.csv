@@ -772,3 +772,4 @@
 "Scripts/Content/Story/B/B_BuildBuyMealString.d:12","{} Rationen {} kaufen ({} Silber)","{} Rationen {} kaufen ({} Silber)","","True","BuyMealStringP","","format!()"
 "Scripts/Content/Story/B/B_BuildBuyString.d:8","{} kaufen ({} Silver)","{} kaufen ({} Silver)","","True","BuyString","","format!()"
 "Scripts/Content/Story/B/B_BuildPrizeString.d:7","{} Silber","{} Silber","","True","PrizeString","","format!()"
+"Scripts/Content/Story/Text.d:994","Du hast geschlafen und bist ausgeruht!","Po porządnym śnie czujesz się wypoczęty!","","False","_STR_MESSAGE_MOBSI_BED_SLEEP","",""
