@@ -28,7 +28,7 @@
 "Scripts/Content/Story/Missions/DIA_KDF_1102_Morogh.d:200","Wenn du mir die benötigten Zutaten bringst, wäre ich dir überaus... dankbar.","Pokud bys mi ty potřebné přísady přinesl, byl bych ti nesmírně... vděčný.","","","KDF_1102_MISSION_SUGGEST_14_05","",""
 "Scripts/Content/Story/Missions/DIA_KDF_1102_Morogh.d:217","Welche Zutaten brauchst du?","Jaké přísady potřebuješ?","","","KDF_1102_Morogh_INGREDENCIA.description","",""
 "Scripts/Content/Story/Missions/DIA_KDF_1102_Morogh.d:229","Welche Zutaten brauchst du?","Jaké přísady potřebuješ?","","","KDF_1102_INGREDENCIA_15_01","",""
-"Scripts/Content/Story/Missions/DIA_KDF_1102_Morogh.d:232","Ich habe jetzt zu tun. Und komm nicht ohne die ausreichende Menge wieder!","Teď mám co na práci. A nevracej se bez potřebného množství!","","","KDF_1102_INGREDENCIA_14_02","",""
+"Scripts/Content/Story/Missions/DIA_KDF_1102_Morogh.d:232","Ich habe jetzt zu tun. Und komm nicht ohne die ausreichende Menge wieder!","Teď mám co na práci. A nevracej se bez potřebného množství!","","True","KDF_1102_INGREDENCIA_14_02","",""
 "Scripts/Content/Story/Missions/DIA_KDF_1102_Morogh.d:250","Wer ist dein Lieferant?","Kdo je tvůj dodavatel?","","","KDF_1102_Morogh_RYAN.description","",""
 "Scripts/Content/Story/Missions/DIA_KDF_1102_Morogh.d:262","Wer ist dein Lieferant?","Kdo je tvůj dodavatel?","","","KDF_1102_RYAN_15_01","",""
 "Scripts/Content/Story/Missions/DIA_KDF_1102_Morogh.d:263","Ein Kerl namens Ryan. Bisher war er zuverlässig aber er sollte längst wieder hier sein.","Chlápek jménem Ryan. Doposud byl spolehlivý, ale už tu dávno měl být.","","","KDF_1102_RYAN_14_02","",""
