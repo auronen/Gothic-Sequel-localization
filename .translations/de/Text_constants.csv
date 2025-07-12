@@ -779,6 +779,7 @@
 "Scripts/Content/Story/B/B_BuildSmithString.d:11","{}{} schmieden","{}{} schmieden","","","BuildAnvilString","","format<"BuildAnvilString">()"
 "Scripts/Content/Story/B/B_BuildSmithString.d:18","{}{} abkühlen","{}{} abkühlen","","","BuildCoolString","","format<"BuildCoolString">()"
 "Scripts/Content/Story/B/B_BuildSmithString.d:25","{}{} schleifen","{}{} schleifen","","","BuildSharpString","","format<"BuildSharpString">()"
+"Scripts/Content/Story/B/B_BuildBuyArmorString.d:9","{} ({} Silber)","{} ({} Silber)","","","BuyArmorString","","format!<"BuyArmorString">()"
 "Scripts/Content/_intern/Constants.d:418","Annehmen","Annehmen","","","STR_INFO_TRADE_ACCEPT","",""
 "Scripts/Content/_intern/Constants.d:419","Ablehnen","Ablehnen","","","STR_INFO_TRADE_RESET","",""
 "Scripts/Content/_intern/Constants.d:420","Zurück","Zurück","","","STR_INFO_TRADE_EXIT","",""

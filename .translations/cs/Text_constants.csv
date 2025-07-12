@@ -788,6 +788,7 @@
 "Scripts/Content/Story/B/B_BuildSmithString.d:11","{}{} schmieden","vykovat {} ({})","","False","BuildAnvilString","","format!()"
 "Scripts/Content/Story/B/B_BuildSmithString.d:18","{}{} abkühlen","zakalit {} ({})","","False","BuildCoolString","","format!()"
 "Scripts/Content/Story/B/B_BuildSmithString.d:25","{}{} schleifen","naostřit {} ({})","","False","BuildSharpString","","format!()"
+"Scripts/Content/Story/B/B_BuildBuyArmorString.d:9","{} ({} Silber)","{} ({} Stříbra)","","","BuyArmorString","","format!<"BuyArmorString">()"
 "Scripts/Content/Story/Text.d:962","Müffelsalz eingerührt!","Přimíchal jsi smradlavou sůl!","","False","_STR_MESSAGE_MOBSI_CAULDRON_SPOIL","",""
 "Scripts/Content/Story/Text.d:992","Du bist hochkonzentriert und bereit für den Kampf!","Jsi soustředěný a připravený na souboj!","","False","_STR_MESSAGE_MOBSI_ARENABENCH_FIGHT","",""
 "Scripts/Content/Story/Text.d:863","Der Zauber wirkt nicht!","Kouzlo nefunguje!","","False","PRINT_Scroll_Copy","",""
