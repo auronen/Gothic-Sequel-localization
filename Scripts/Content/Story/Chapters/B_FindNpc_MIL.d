@@ -155,7 +155,7 @@ func void Info_FindNPC_MIL_Halvor()
 
 func void Info_FindNPC_MIL_Cassian()
 {
-	AI_Output(other, self, "Info_FindNPC_Halvor_15_00"); //Wo finde ich Cassian?
+	AI_Output(other, self, "Info_FindNPC_Cassian_15_00"); //Wo finde ich Cassian?
 
 	var C_Npc Cassian; Cassian = Hlp_GetNpc(MIL_119_Cassian);
 
