@@ -229,7 +229,7 @@ func void KDF_1102_Morogh_INGREDENCIA_Info()
 	AI_Output(hero, self, "KDF_1102_INGREDENCIA_15_01"); //Welche Zutaten brauchst du?
 	AI_Output(self, hero, "KDF_1102_INGREDENCIA_14_02"); //Hier ist eine Liste mit den Sachen, die ich benötige.
 	B_GiveInvItems(self, hero, ItWr_Morogh_List, 1);
-	AI_Output(self, hero, "KDF_1102_INGREDENCIA_14_02"); //Ich habe jetzt zu tun. Und komm nicht ohne die ausreichende Menge wieder!
+	AI_Output(self, hero, "KDF_1102_INGREDENCIA_14_03"); //Ich habe jetzt zu tun. Und komm nicht ohne die ausreichende Menge wieder!
 
 	AI_StopProcessInfos(self);
 	Morogh_Trust = LOG_RUNNING;
