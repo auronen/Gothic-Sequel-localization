@@ -854,10 +854,10 @@ const string TXT_INV_CAT[INV_CAT_MAX] = {
 	const string PRINT_ATTITUDE_Hostile					= " ist feindlich.";
 
 #if cs {
-	const string PRINT_ATTITUDE_Friendly_F				= "";
-	const string PRINT_ATTITUDE_Neutral_F				= "";
-	const string PRINT_ATTITUDE_Angry_F					= "";
-	const string PRINT_ATTITUDE_Hostile_F				= "";
+	const string PRINT_ATTITUDE_Friendly_F				= "dummy";
+	const string PRINT_ATTITUDE_Neutral_F				= "dummy";
+	const string PRINT_ATTITUDE_Angry_F					= "dummy";
+	const string PRINT_ATTITUDE_Hostile_F				= "dummy";
 }
 
 	const string PRINT_Scroll_Copy						= "Der Zauber wirkt nicht!";
