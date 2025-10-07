@@ -69,7 +69,7 @@
 "Scripts/Content/Story/SVM.d:282","Warum hast du mich angegriffen??","","","False","SVM_1_YouAttackedMe","",""
 "Scripts/Content/Story/SVM.d:282","Einer unserer eigenen Leute hat ins Gras gebissen und du hast damit zu tun! Der kleinste Fehler noch und du bist Freiwild!","Один из наших людей погиб, и ты причастен к этому. Один неверный шаг, и ты - покойник!","","True","SVM_1_YouKilledMyFriend","",""
 "Scripts/Content/Story/SVM.d:284","War ein guter Kampf. Du hast mir ganz schön aufs Maul gehauen, Mann!","Это был честный бой! Ты набил мне морду, парень!","","True","SVM_1_YouDefeatedMeWell","",""
-"Scripts/Content/Story/SVM.d:285","...der letzte Scheiß..."," ...самое дерьмовое...","","True","SVM_1_Smalltalk01","",""
+"Scripts/Content/Story/SVM.d:285","...der letzte Scheiß...","...самое дерьмовое...","","False","SVM_1_Smalltalk01","",""
 "Scripts/Content/Story/SVM.d:286","...kann schon sein, aber wen interessiert das?..."," ...может быть, но кого это волнует?...","","True","SVM_1_Smalltalk02","",""
 "Scripts/Content/Story/SVM.d:287","...absolut idiotisch..."," ...полная чушь...","","True","SVM_1_Smalltalk03","",""
 "Scripts/Content/Story/SVM.d:288","...ich halt mich da lieber raus..."," ...я не хочу в это ввязываться...","","True","SVM_1_Smalltalk04","",""
