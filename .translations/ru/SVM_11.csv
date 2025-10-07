@@ -69,7 +69,7 @@
 "Scripts/Content/Story/SVM.d:1385","Warum hast du mich angegriffen??","","","False","SVM_11_YouAttackedMe","",""
 "Scripts/Content/Story/SVM.d:1386","Du hast die Regel Nr.1 gebrochen! Kein Töten!","Ты нарушил первое правило: не убивать!","","True","SVM_11_YouKilledMyFriend","",""
 "Scripts/Content/Story/SVM.d:1387","Das war ein guter Kampf. Die Schmerzen werde ich noch tagelang spüren. Aber jetzt ist gut!","Это был хороший бой, я его надолго запомню. Но сейчас он закончен!","","True","SVM_11_YouDefeatedMeWell","",""
-"Scripts/Content/Story/SVM.d:1388","… wenn du meinst …"," ...если ты думаешь...","","True","SVM_11_Smalltalk01","",""
+"Scripts/Content/Story/SVM.d:1388","… wenn du meinst …","...если ты думаешь…","","False","SVM_11_Smalltalk01","",""
 "Scripts/Content/Story/SVM.d:1389","… kann schon sein …"," ...может быть...","","True","SVM_11_Smalltalk02","",""
 "Scripts/Content/Story/SVM.d:1390","… war nicht besonders schlau …"," ...это было не слишком умно...","","True","SVM_11_Smalltalk03","",""
 "Scripts/Content/Story/SVM.d:1391","… ich halt mich da lieber raus …"," ...я не хочу в это ввязываться...","","True","SVM_11_Smalltalk04","",""
