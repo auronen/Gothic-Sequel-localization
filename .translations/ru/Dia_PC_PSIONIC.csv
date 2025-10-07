@@ -1,6 +1,6 @@
 "location","source","target","id","fuzzy","context","translator_comments","developer_comments"
 "Scripts/Content/Story/Missions/DIA_PC_Psionic.d:50","Hey, ich dachte du wärst tot!","Я думал, что ты умрешь!","","True","PC_Psionic_HALLOAGAIN_23_01","",""
-"Scripts/Content/Story/Missions/DIA_PC_Psionic.d:51","Das kommt mir bekannt vor.","Das kommt mir bekannt vor.","","False","PC_Psionic_HALLOAGAIN_15_02","",""
+"Scripts/Content/Story/Missions/DIA_PC_Psionic.d:51","Das kommt mir bekannt vor.","Кажется, я это уже видел.","","False","PC_Psionic_HALLOAGAIN_15_02","",""
 "Scripts/Content/Story/Missions/DIA_PC_Psionic.d:52","Was ist geschehen?","Что случилось?","","False","PC_Psionic_HALLOAGAIN_23_03","",""
 "Scripts/Content/Story/Missions/DIA_PC_Psionic.d:53","Der Kampf gegen den Schläfer hat mich geschwächt. Das bedeutet ich muss wieder 'ne Menge lernen.","Борьба со спящим ослабила меня, а это значит, что я снова должен многому научиться.","","True","PC_Psionic_HALLOAGAIN_15_04","",""
 "Scripts/Content/Story/Missions/DIA_PC_Psionic.d:54","Ich kann dir zeigen, wie du deine magische Kraft steigerst und dir die Kreise der Magie lehren.","Я могу показать вам, как увеличить свою магическую силу и научить вас кругам магии.","","True","PC_Psionic_HALLOAGAIN_23_05","",""
