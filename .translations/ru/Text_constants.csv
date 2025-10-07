@@ -749,7 +749,7 @@
 "Scripts/Content/Story/Text.d:1203","Stärke und Geschicklichkeit +","Сила и ловкость +","","True","NAME_RaiseStrDex","",""
 "Scripts/Content/Story/Text.d:1205","maximale Mana +","Максимальная мана +","","True","NAME_RaiseManaMax","",""
 "Scripts/Content/Story/Text.d:1205","maximale Lebensenergie +","Максимальная жизнь +","","True","NAME_RaiseHealthMax","",""
-"Scripts/Content/Story/Text.d:1216","Einige Einstellungen werden erst nach einem Neustart aktiv","Некоторые настройки вступят в силу только после перезагрузки.","","True","MENU_TEXT_NEEDS_RESTART","",""
+"Scripts/Content/Story/Text.d:1216","Einige Einstellungen werden erst nach einem Neustart aktiv","Некоторые настройки вступят в силу только после перезагрузки.","","False","MENU_TEXT_NEEDS_RESTART","",""
 "Scripts/Content/Items/Misc.d:482","Bringt Licht in die dunkelsten Ecken!","Принесите свет в самые темные уголки!","","True","ItLsTorch.text[0]","",""
 "Scripts/Content/Items/Misc.d:621","Leider fehlt darauf ein großes Gebiet","К сожалению, не хватает большой площади.","","True","ItWr_Worldmap.text[0]","",""
 "Scripts/Content/Items/Misc.d:622","im Südwesten.","на юго-западе","","True","ItWr_Worldmap.text[1]","",""
