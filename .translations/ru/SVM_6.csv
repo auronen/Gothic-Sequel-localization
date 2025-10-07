@@ -69,7 +69,7 @@
 "Scripts/Content/Story/SVM.d:833","Warum hast du mich angegriffen??","","","False","SVM_6_YouAttackedMe","",""
 "Scripts/Content/Story/SVM.d:834","Einer unserer eigenen Leute ist tot und du hast damit zu tun! Der kleinste Fehler noch und du bist Freiwild!","Жизнь одного из наших людей на твоей совести. Еще одна ошибка, и настанет твоя очередь!","","True","SVM_6_YouKilledMyFriend","",""
 "Scripts/Content/Story/SVM.d:836","Du hast mir ganz schön aufs Maul gehauen, Mann. War ein guter Kampf. Aber jetzt ist gut!","Ты задал мне хорошу трепку, парень. Это был хороший бой, но сейчас он окончен!","","True","SVM_6_YouDefeatedMeWell","",""
-"Scripts/Content/Story/SVM.d:837","… wenn du meinst …"," ...если ты думаешь...","","True","SVM_6_Smalltalk01","",""
+"Scripts/Content/Story/SVM.d:837","… wenn du meinst …","...если ты думаешь…","","False","SVM_6_Smalltalk01","",""
 "Scripts/Content/Story/SVM.d:838","… kann schon sein …"," ...может быть...","","True","SVM_6_Smalltalk02","",""
 "Scripts/Content/Story/SVM.d:839","… war nicht besonders schlau …"," ...это было не слишком умно...","","True","SVM_6_Smalltalk03","",""
 "Scripts/Content/Story/SVM.d:840","… ich halt mich da lieber raus …"," ...я не хочу в это ввязываться...","","True","SVM_6_Smalltalk04","",""
