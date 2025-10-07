@@ -1,5 +1,5 @@
 "location","source","target","id","fuzzy","context","translator_comments","developer_comments"
-"Scripts/Content/Story/Missions/DIA_PAL_1029_Osraed.d:49","HALT!","HALT!","","False","PAL_1029_FirstWarn_Info_06_01","",""
+"Scripts/Content/Story/Missions/DIA_PAL_1029_Osraed.d:49","HALT!","Стоять!","","False","PAL_1029_FirstWarn_Info_06_01","",""
 "Scripts/Content/Story/Missions/DIA_PAL_1029_Osraed.d:50","Was ist?","Что?","","False","PAL_1029_FirstWarn_Info_15_02","",""
 "Scripts/Content/Story/Missions/DIA_PAL_1029_Osraed.d:51","Hier dürfen nur Gefolgsleute des Königs passieren!","Здесь могут проходить только последователи короля.","","True","PAL_1029_FirstWarn_Info_06_03","",""
 "Scripts/Content/Story/Missions/DIA_PAL_1029_Osraed.d:52","Also verschwinde!","Так что исчезните!","","True","PAL_1029_FirstWarn_Info_06_04","",""
