@@ -69,7 +69,7 @@
 "Scripts/Content/Story/SVM.d:393","Warum hast du mich angegriffen??","","","False","SVM_2_YouAttackedMe","",""
 "Scripts/Content/Story/SVM.d:394","Du hast einen von unseren Jungs auf dem Gewissen. Noch ein kleiner Fehler und du bist dran!","Жизнь одного из наших людей на твоей совести. Еще один неверный шаг, и ты будешь следующим!","","True","SVM_2_YouKilledMyFriend","",""
 "Scripts/Content/Story/SVM.d:395","Ja, du hast mich besiegt. War ein guter Kampf! Aber jetzt ist genug!","Да, ты победил. Это был хороший бой - но сейчас он окончен!","","True","SVM_2_YouDefeatedMeWell","",""
-"Scripts/Content/Story/SVM.d:397","...wenn du meinst..."," ...если ты думаешь...","","True","SVM_2_Smalltalk01","",""
+"Scripts/Content/Story/SVM.d:397","...wenn du meinst...","...если ты думаешь...","","False","SVM_2_Smalltalk01","",""
 "Scripts/Content/Story/SVM.d:398","...kann schon sein..."," ...может быть...","","True","SVM_2_Smalltalk02","",""
 "Scripts/Content/Story/SVM.d:398","...war nicht besonders schlau..."," ...это было не слишком умно...","","True","SVM_2_Smalltalk03","",""
 "Scripts/Content/Story/SVM.d:399","...ich halt mich da lieber raus..."," ...я не хочу в это ввязываться...","","True","SVM_2_Smalltalk04","",""
