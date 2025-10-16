@@ -55,7 +55,7 @@
 "Scripts/Content/Story/SVM.d:599","Du musst erst fortgeschritten sein, bevor du Meister werden kannst!","Прежде чем стать мастером, ты должен набраться опыта! ","","True","SVM_4_NoLearnYouAlreadyKnow","",""
 "Scripts/Content/Story/SVM.d:601","Du bist jetzt schon besser!","Уже лучше!","","True","SVM_4_NoLearnYoureBetter","",""
 "Scripts/Content/Story/SVM.d:602","He da!","Эй, ты!","","True","SVM_4_HeyYou","",""
-"Scripts/Content/Story/SVM.d:603","Nicht jetzt.","Не сейчас!","","True","SVM_4_NotNow","",""
+"Scripts/Content/Story/SVM.d:603","Nicht jetzt.","Не сейчас.","","False","SVM_4_NotNow","",""
 "Scripts/Content/Story/SVM.d:604","Was willst du?","Что ты хочешь?","","False","SVM_4_WhatDoYouWant","",""
 "Scripts/Content/Story/SVM.d:605","Willst du was von mir?","Тебе что-нибудь нужно?","","True","SVM_4_ISaidWhatDoYouWant","",""
 "Scripts/Content/Story/SVM.d:606","Lass mich vorbei.","Дай мне пройти!","","True","SVM_4_MakeWay","",""
