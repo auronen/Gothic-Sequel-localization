@@ -49,7 +49,7 @@
 "Scripts/Content/Story/SVM.d:484","Hey, Mann.","Эй, парень.","","True","SVM_3_FriendlyGreetings","",""
 "Scripts/Content/Story/SVM.d:485","Für Gomez, ja, ja.","За Гомеза, да, да.","","True","SVM_3_ALGreetings","",""
 "Scripts/Content/Story/SVM.d:486","Magie zu Ehren!","Во имя магии!","","True","SVM_3_MageGreetings","",""
-"Scripts/Content/Story/SVM.d:487","Erwache!","Просыпайся!","","True","SVM_3_SectGreetings","",""
+"Scripts/Content/Story/SVM.d:487","Erwache!","Проснись!","","False","SVM_3_SectGreetings","",""
 "Scripts/Content/Story/SVM.d:487","Du hast nicht genug Erfahrung. Ich kann dir das nicht beibringen!","Тебе нехватает опыта. Я не могу научить тебя этому!","","True","SVM_3_NoLearnNoPoints","",""
 "Scripts/Content/Story/SVM.d:488","Du bist am Ende deiner Möglichkeiten. Du solltest etwas anderes lernen.","Ты на пределе своих возможностей. Тебе нужно научиться чему-нибудь еще.","","True","SVM_3_NoLearnOverMax","",""
 "Scripts/Content/Story/SVM.d:489","Du musst erst fortgeschritten sein, bevor du Meister werden kannst!","Прежде чем стать мастером, ты должен набраться опыта! ","","True","SVM_3_NoLearnYouAlreadyKnow","",""
