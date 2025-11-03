@@ -251,7 +251,7 @@
 "Scripts/Content/Story/Missions/DIA_MIL_120_Julius.d:51","Die Schmiede sieht verlassen aus!","Кузница выглядит покинутой.","","False","Info_Julius_SMITH_15_01","",""
 "Scripts/Content/Story/Missions/DIA_MIL_120_Julius.d:52","Ja, ja. Den alten Bartok haben sie vor ein paar Tagen abgeholt.","Верно. Старину Бартока забрали несколько дней назад.","","False","Info_Julius_SMITH_00_02","",""
 "Scripts/Content/Story/Missions/DIA_MIL_120_Julius.d:53","Abgeholt?","Забрали?","","False","Info_Julius_SMITH_15_03","",""
-"Scripts/Content/Story/Missions/DIA_MIL_120_Julius.d:54","Er hat die Krankheit. Armer Kerl! Sie haben ihn in das Aussätzigen-Viertel gebracht.","Бедолага поймал болезнь! Его отвели в квартал заражённых.","","False","Info_Julius_SMITH_00_04","",""
+"Scripts/Content/Story/Missions/DIA_MIL_120_Julius.d:54","Er hat die Krankheit. Armer Kerl! Sie haben ihn in das Aussätzigen-Viertel gebracht.","Бедолага поймал болезнь! Его увели к остальным прокажённым.","","False","Info_Julius_SMITH_00_04","",""
 "Scripts/Content/Story/Missions/DIA_MIL_120_Julius.d:66","Wo sind seine Werkzeuge?","Где его инструменты?","","True","Info_Julius_CHEST.description","",""
 "Scripts/Content/Story/Missions/DIA_MIL_120_Julius.d:81","Wo sind seine Werkzeuge?","Где его инструменты?","","True","Info_Julius_CHEST_15_01","",""
 "Scripts/Content/Story/Missions/DIA_MIL_120_Julius.d:82","Er hat den ganzen Schmiede-Krempel gehütet wie seinen Augapfel.","Он берег своё снаряжение как зеницу ока.","","False","Info_Julius_CHEST_00_02","",""
