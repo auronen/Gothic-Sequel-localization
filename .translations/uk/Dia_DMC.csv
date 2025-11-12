@@ -1,5 +1,5 @@
 "location","source","target","id","fuzzy","context","translator_comments","developer_comments"
-"Scripts/Content/Story/Missions/DIA_DMC_800_Xardas.d:46","(Startsatz)","","","False","DMC_800_Xardas_BACK.description","",""
+"Scripts/Content/Story/Missions/DIA_DMC_800_Xardas.d:46","(Startsatz)","(Вступ)","","False","DMC_800_Xardas_BACK.description","",""
 "Scripts/Content/Story/Missions/DIA_DMC_800_Xardas.d:65","...und das ist alles was passiert ist, seit du verschüttet wurdest.","","","False","DMC_800_BACK_14_01","",""
 "Scripts/Content/Story/Missions/DIA_DMC_800_Xardas.d:66","Du warst doch auch im Tempel, als ich gegen den Schläfer kämpfte.","","","False","DMC_800_BACK_15_02","",""
 "Scripts/Content/Story/Missions/DIA_DMC_800_Xardas.d:67","Ich konnte mit letzter Kraft entkommen, bevor der Tempel einstürzte.","","","False","DMC_800_BACK_14_03","",""
