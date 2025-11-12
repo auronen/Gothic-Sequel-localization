@@ -1,5 +1,5 @@
 "location","source","target","id","fuzzy","context","translator_comments","developer_comments"
-"Scripts/Content/Story/Missions/DIA_BEG_700_Jesper.d:34","Was machst du hier?","","","False","BEG_700_Jesper_JOB.description","",""
+"Scripts/Content/Story/Missions/DIA_BEG_700_Jesper.d:34","Was machst du hier?","Що ти тут робиш?","","False","BEG_700_Jesper_JOB.description","",""
 "Scripts/Content/Story/Missions/DIA_BEG_700_Jesper.d:44","Was machst du hier?","","","False","BEG_700_JOB_15_01","",""
 "Scripts/Content/Story/Missions/DIA_BEG_700_Jesper.d:45","Ich bin Jesper. War früher mal Soldat. Jetzt bin ich Bettler.","","","False","BEG_700_JOB_02_02","",""
 "Scripts/Content/Story/Missions/DIA_BEG_700_Jesper.d:46","Was ist geschehen?","","","False","BEG_700_JOB_15_03","",""
