@@ -1,5 +1,5 @@
 "location","source","target","id","fuzzy","context","translator_comments","developer_comments"
-"Scripts/Content/Story/Chapters/B_FindNpc_MIL.d:11","Wo finde ich...","","","False","Info_FindNPC_MIL.description","",""
+"Scripts/Content/Story/Chapters/B_FindNpc_MIL.d:11","Wo finde ich...","Де я можу знайти...","","False","Info_FindNPC_MIL.description","",""
 "Scripts/Content/Story/Chapters/B_FindNpc_MIL.d:35","...Berengar?","","","False","Info_FindNPC_MIL_Info.Info_FindNPC_MIL.Info_FindNPC_MIL_Berengar","AI_AddChoice",""
 "Scripts/Content/Story/Chapters/B_FindNpc_MIL.d:41","...Brutus?","","","False","Info_FindNPC_MIL_Info.Info_FindNPC_MIL.Info_FindNPC_MIL_Brutus","AI_AddChoice",""
 "Scripts/Content/Story/Chapters/B_FindNpc_MIL.d:47","...Halvor?","","","False","Info_FindNPC_MIL_Info.Info_FindNPC_MIL.Info_FindNPC_MIL_Halvor","AI_AddChoice",""
