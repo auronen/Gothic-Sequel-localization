@@ -1,5 +1,5 @@
 "location","source","target","id","fuzzy","context","translator_comments","developer_comments"
-"Scripts/Content/Story/Missions/DIA_DMH_1302_Malgar.d:70","(eiskalt) Gib mir meine Waffe! JETZT!","","","False","DMH_1302_MYWEAPON_Info_11_01","",""
+"Scripts/Content/Story/Missions/DIA_DMH_1302_Malgar.d:70","(eiskalt) Gib mir meine Waffe! JETZT!","(холодно) Дай мені свою зброю! НЕГАЙНО!","","False","DMH_1302_MYWEAPON_Info_11_01","",""
 "Scripts/Content/Story/Missions/DIA_DMH_1302_Malgar.d:73","Nein, ich behalte sie!","","","False","DMH_1302_Malgar_MYWEAPON_Info.DMH_1302_Malgar_MYWEAPON.DMH_1302_Malgar_MYWEAPON_TAKEN","AI_AddChoice",""
 "Scripts/Content/Story/Missions/DIA_DMH_1302_Malgar.d:74","Hier hast du sie zurück!","","","False","DMH_1302_Malgar_MYWEAPON_Info.DMH_1302_Malgar_MYWEAPON.DMH_1302_Malgar_MYWEAPON_GIVEBACK","AI_AddChoice",""
 "Scripts/Content/Story/Missions/DIA_DMH_1302_Malgar.d:80","Hier hast du sie zurück!","","","False","DMH_1302_MYWEAPON_GIVEBACK_15_01","",""
