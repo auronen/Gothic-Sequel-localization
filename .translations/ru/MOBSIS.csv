@@ -24,7 +24,7 @@
 "Scripts/Content/Mobsi/MOB_Bow.d:416","Kurzbögen","Короткие луки","","False","MOB_BOW.description","",""
 "Scripts/Content/Mobsi/MOB_Bow.d:560","Langbögen","Длинные луки","","False","MOB_BOW_LongBow.description","",""
 "Scripts/Content/Mobsi/MOB_Bow.d:615","Armbrüste","Арбалеты","","False","MOB_BOW_crossBow.description","",""
-"Scripts/Content/Mobsi/MOB_Cauldron.d:686","(Müffelsalz hineinrühren)","(добавить магическую соль)","","False","MOB_CAULDRON_Spoil.description","",""
+"Scripts/Content/Mobsi/MOB_Cauldron.d:686","(Müffelsalz hineinrühren)","(добавить затхлую соль)","","False","MOB_CAULDRON_Spoil.description","",""
 "Scripts/Content/Mobsi/MOB_Fletcher.d:314","1 Pfeil herstellen","Изготовить 1 стрелу","","False","MOB_fletcher_1.description","",""
 "Scripts/Content/Mobsi/MOB_Fletcher.d:337","5 Pfeile herstellen","Изготовить 5 стрел","","False","MOB_fletcher_5.description","",""
 "Scripts/Content/Mobsi/MOB_Fletcher.d:367","10 Pfeile herstellen","Изготовить 10 стрел","","False","MOB_fletcher_10.description","",""
