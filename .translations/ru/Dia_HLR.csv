@@ -16,7 +16,7 @@
 "Scripts/Content/Story/Missions/DIA_HLR_501_Talamon.d:41","Bist du einer der Heiler?","Ты один из лекарей?","","False","HLR_501_Talamon_HI.description","",""
 "Scripts/Content/Story/Missions/DIA_HLR_501_Talamon.d:51","Bist du einer der Heiler?","Ты один из лекарей?","","False","HLR_501_HI_15_01","",""
 "Scripts/Content/Story/Missions/DIA_HLR_501_Talamon.d:52","Ja. Zusammen mit Palgur und Isgar helfe ich den Kranken hier im Viertel.","Да. Мы с Палгуром и Исгаром занимаемся больными в этом районе.","","False","HLR_501_HI_08_02","",""
-"Scripts/Content/Story/Missions/DIA_HLR_501_Talamon.d:53","Was ist das für eine Krankheit?","Что это за болезнь?","","True","HLR_501_HI_15_03","",""
+"Scripts/Content/Story/Missions/DIA_HLR_501_Talamon.d:53","Was ist das für eine Krankheit?","Что это за болезнь?","","False","HLR_501_HI_15_03","",""
 "Scripts/Content/Story/Missions/DIA_HLR_501_Talamon.d:54","Die Kranken essen kaum noch und reden wirres Zeug. Schau sie dir an, ein wirklich elender Anblick!","Больные очень мало едят и практически не разговаривают. Поистине печальное зрелище.","","False","HLR_501_HI_08_04","",""
 "Scripts/Content/Story/Missions/DIA_HLR_501_Talamon.d:55","Wir kennen die Ursache noch nicht. Aber wir forschen unermüdlich um mehr über die Krankheit zu erfahren.","Мы пока так и не смогли определить источник. Мы непрестанно проводим исследования в надежде узнать больше об этой болезни.","","False","HLR_501_HI_08_05","",""
 "Scripts/Content/Story/Missions/DIA_HLR_501_Talamon.d:67","Kannst du mir zeigen, wie man magische Tränke braut?","Можешь научить меня варить зелья?","","False","HLR_501_Talamon_WANTTOLEARN.description","",""
