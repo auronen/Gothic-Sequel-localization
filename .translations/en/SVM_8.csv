@@ -103,4 +103,4 @@
 "Scripts/Content/Story/SVM.d:1093","Kein Silber, keine Ware!","No silver, no goods!","","False","SVM_8_NotEnoughSilver","",""
 "Scripts/Content/Story/SVM.d:1094","BUUHHH!!!!","BOOOOO!!!!","","False","SVM_8_Buh","",""
 "Scripts/Content/Story/SVM.d:1094","Jubelt der König ist der König.","If the king celebrates, he is the king.","","True","SVM_8_Possessed1","",""
-"Scripts/Content/Story/SVM.d:1095","Huldigt dem Henker.","","","False","SVM_8_Possessed2","",""
+"Scripts/Content/Story/SVM.d:1095","Huldigt dem Henker.","Praise the executioner.","","False","SVM_8_Possessed2","",""
