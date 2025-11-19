@@ -38,3 +38,4 @@
 "Scripts/Content/Story/Missions/DIA_KDF_1102_Morogh.d:300","Schön, schön. Dann kann ich meine Forschungen weiterführen.","Fine, fine. Then I can continue my research.","","True","KDF_1102_SUCCESS_14_02","",""
 "Scripts/Content/Story/Missions/DIA_KDF_1102_Morogh.d:301","War noch was? Ach so ja, ich werde erwähnen das du ganz brauchbar bist.","Was there anything else? Oh, sure, I'll mention that you're quite useful.","","True","KDF_1102_SUCCESS_14_03","",""
 "Scripts/Content/Story/Missions/DIA_KDF_1103_Nereus.d:51","Störe mich nicht bei meinen Untersuchungen.","Don't disturb me with my investigations.","","True","KDF_1103_Nereus_WELCOME_00_01","",""
+"Scripts/Content/Story/Missions/DIA_KDF_1102_Morogh.d:232","Ich habe jetzt zu tun. Und komm nicht ohne die ausreichende Menge wieder!","I got stuff to do. Don't come back without a proper amount!","","False","KDF_1102_INGREDENCIA_14_03","",""
