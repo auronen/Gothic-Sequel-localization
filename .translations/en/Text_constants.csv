@@ -785,3 +785,4 @@
 "Scripts/Content/Story/Text.d:1234","Der Aufbruch","The departure","","True","KapWechsel_2_Text","",""
 "Scripts/Content/Story/Text.d:1236","Die Reise","The trip","","False","KapWechsel_3_Text","",""
 "Scripts/Content/Story/Text.d:1238","Die Entscheidung","The decision","","False","KapWechsel_4_Text","",""
+"Scripts/Content/Story/Text.d:962","Müffelsalz eingerührt!","Stinkysalt mixed in!","","False","_STR_MESSAGE_MOBSI_CAULDRON_SPOIL","",""
