@@ -1,5 +1,5 @@
 "location","source","target","id","fuzzy","context","translator_comments","developer_comments"
-"Scripts/Content/Story/SVM.d:1780","Keine Magie!","Žádná kouzla!","","True","SVM_16_StopMagic","",""
+"Scripts/Content/Story/SVM.d:1780","Keine Magie!","Žádná kouzla!","","False","SVM_16_StopMagic","",""
 "Scripts/Content/Story/SVM.d:1780","HEY! Keine Magie, hab' ich gesagt!","HEJ! Řekl jsem žádné čáry!","","True","SVM_16_ISaidStopMagic","",""
 "Scripts/Content/Story/SVM.d:1782","Komm, steck das Ding weg!","Dělej! Dej tu věc pryč!","","True","SVM_16_WeaponDown","",""
 "Scripts/Content/Story/SVM.d:1782","Weg mit der Waffe!","Dej tu zbraň pryč!","","True","SVM_16_ISaidWeaponDown","",""
