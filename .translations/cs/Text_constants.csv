@@ -55,7 +55,7 @@
 "Scripts/Content/Story/Text.d:119","Bloodfly","Krvavá moucha","","","TXT_GUILDS[28]","",""
 "Scripts/Content/Story/Text.d:119","Sumpfhai","Močálový žralok","","","TXT_GUILDS[29]","",""
 "Scripts/Content/Story/Text.d:121","Zombie","Zombie","","","TXT_GUILDS[30]","",""
-"Scripts/Content/Story/Text.d:121","Zombie	Orc","Skřetí zombie","","","TXT_GUILDS[31]","",""
+"Scripts/Content/Story/Text.d:121","Zombie	Orc","Skřetí zombie","","False","TXT_GUILDS[31]","",""
 "Scripts/Content/Story/Text.d:123","Skelett","Kostlivec","","","TXT_GUILDS[32]","",""
 "Scripts/Content/Story/Text.d:124","Ork-Hund","Skřetí pes","","","TXT_GUILDS[33]","",""
 "Scripts/Content/Story/Text.d:125","Molerat","Krysokrt","","","TXT_GUILDS[34]","",""
