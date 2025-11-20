@@ -27,7 +27,7 @@
 "Scripts/Content/Story/SVM.d:571","Ich bin zu alt für so was!","Ich bin zu alt für so was!","","","SVM_4_Help","",""
 "Scripts/Content/Story/SVM.d:572","Versuch das besser nicht noch mal!","Versuch das besser nicht noch mal!","","","SVM_4_NeverTryThatAgain","",""
 "Scripts/Content/Story/SVM.d:573","Dein Silber ist bei mir in besseren Händen!","Dein Silber ist bei mir in besseren Händen!","","","SVM_4_ITookYourOre","",""
-"Scripts/Content/Story/SVM.d:575","Nicht mal ein paar armselige Erz-Nuggets","Nicht mal ein paar armselige Erz-Nuggets","","","SVM_4_ShitNoOre","",""
+"Scripts/Content/Story/SVM.d:575","Nicht mal ein paar armselige Erz-Nuggets","Nicht mal ein paar armselige Erz-Nuggets.","","False","SVM_4_ShitNoOre","",""
 "Scripts/Content/Story/SVM.d:576","Finger weg!","Finger weg!","","","SVM_4_HandsOff","",""
 "Scripts/Content/Story/SVM.d:576","Verschwinde hier!","Verschwinde hier!","","","SVM_4_GetOutOfHere","",""
 "Scripts/Content/Story/SVM.d:577","Hey, du! Was schleichst du da rum.","Hey, du! Was schleichst du da rum.","","","SVM_4_WhyAreYouSneaking","",""
