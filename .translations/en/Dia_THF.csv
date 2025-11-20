@@ -1,5 +1,5 @@
 "location","source","target","id","fuzzy","context","translator_comments","developer_comments"
-"Scripts/Content/Story/Missions/DIA_THF_400_Edo.d:42","Was tust du den ganzen Tag?","What do you do all day?","","True","THF_400_Edo_HOWDY.description","",""
+"Scripts/Content/Story/Missions/DIA_THF_400_Edo.d:42","Was tust du den ganzen Tag?","What are you doing all day?","","False","THF_400_Edo_HOWDY.description","",""
 "Scripts/Content/Story/Missions/DIA_THF_400_Edo.d:57","Was tust du den ganzen Tag?","What do you do all day?","","True","THF_400_HOWDY_15_01","",""
 "Scripts/Content/Story/Missions/DIA_THF_400_Edo.d:58","Ich geniese die Sonne, wenn sie dann mal schient!","I'll be glad when the sun shines!","","True","THF_400_HOWDY_00_02","",""
 "Scripts/Content/Story/Missions/DIA_THF_400_Edo.d:59","Ansonsten bin ich bemüht, mich nicht zu überanstrengen!","Otherwise, I'm trying not to overdo it!","","True","THF_400_HOWDY_00_03","",""
