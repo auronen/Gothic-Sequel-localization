@@ -1,5 +1,5 @@
 "location","source","target","id","fuzzy","context","translator_comments","developer_comments"
-"Scripts/Content/Story/NPC/AMZ_900_Thora.d:8","Thora","Thora","","True","AMZ_900_Thora.name","",""
+"Scripts/Content/Story/NPC/AMZ_900_Thora.d:8","Thora","Thora","","False","AMZ_900_Thora.name","",""
 "Scripts/Content/Story/NPC/BEG_700_Jesper.d:8","Jesper","Jesper","","True","BEG_700_Jesper.name","",""
 "Scripts/Content/Story/NPC/BEG_701_Jose.d:8","Jose","Jose","","True","BEG_701_Jose.name","",""
 "Scripts/Content/Story/NPC/BEG_702_Nabor.d:8","Nabor","Nabor","","True","BEG_702_Nabor.name","",""
