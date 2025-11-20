@@ -264,7 +264,7 @@
 "Scripts/Content/Story/Text.d:438","Erfahrung + ","опыт + ","","True","NAME_XPGained","",""
 "Scripts/Content/Story/Text.d:440","Stufe gestiegen!","Новый уровень!","","False","NAME_LevelUp","",""
 "Scripts/Content/Story/Text.d:441","Lernpunkte + ","очков опыта + ","","False","NAME_LPGained","",""
-"Scripts/Content/Story/Text.d:445","neuer Tagebucheintrag","Новая запись в дневнике","","True","NAME_NewLogEntry","",""
+"Scripts/Content/Story/Text.d:445","neuer Tagebucheintrag","Новая запись в дневнике","","False","NAME_NewLogEntry","",""
 "Scripts/Content/Story/Text.d:446","Lerne: Kampf mit Einhandwaffen","Обучен владению одноручным оружием","","False","PRINT_LEARN_Onehanded","",""
 "Scripts/Content/Story/Text.d:447","Lerne: Kampf mit Zweihandwaffen","Обучен владению двуручным оружием","","False","PRINT_LEARN_Twohanded","",""
 "Scripts/Content/Story/Text.d:448","Lerne: Kampf mit Stabwaffe","Обучен владению боевым посохом","","False","PRINT_LEARN_Staff","",""
