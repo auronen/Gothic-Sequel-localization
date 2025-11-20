@@ -1,5 +1,5 @@
 "location","source","target","id","fuzzy","context","translator_comments","developer_comments"
-"Scripts/Content/Story/SVM.d:326","Keine Magie!","No sorcery!","","True","SVM_2_StopMagic","",""
+"Scripts/Content/Story/SVM.d:326","Keine Magie!","No magic!","","False","SVM_2_StopMagic","",""
 "Scripts/Content/Story/SVM.d:327","HEY! Keine Magie, hab' ich gesagt!","HEY! I said no magic!","","True","SVM_2_ISaidStopMagic","",""
 "Scripts/Content/Story/SVM.d:328","Komm, steck das Ding weg!","Come on, put that thing away!","","True","SVM_2_WeaponDown","",""
 "Scripts/Content/Story/SVM.d:329","Weg mit der Waffe!","Put that weapon down!","","True","SVM_2_ISaidWeaponDown","",""
