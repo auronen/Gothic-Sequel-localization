@@ -1,5 +1,5 @@
 "location","source","target","id","fuzzy","context","translator_comments","developer_comments"
-"Scripts/System/Menu/Menu_Defines.d:69","Einige Einstellungen werden erst nach einem Neustart aktiv","Some readjustments will only be activated after a reboot.","","True","MENU_TEXT_NEEDS_RESTART","",""
+"Scripts/System/Menu/Menu_Defines.d:69","Einige Einstellungen werden erst nach einem Neustart aktiv","Some settings will only apply after a restart","","False","MENU_TEXT_NEEDS_RESTART","",""
 "Scripts/System/Menu/Menu_Defines.d:72","Taste ENTF zum Löschen und RETURN zum definieren","Press DEL to remove and ENTER to define a key.","","True","CTRL_KEYDEF","",""
 "Scripts/System/Menu/Menu_Defines.d:73","Gewünschte Taste betätigen.","Press desired key.","","True","CTRL_KEYDEF_INFO","",""
 "Scripts/System/Menu/Menu_Defines.d:74","nein|ja","no|yes","","True","MENU_NO_YES","",""
