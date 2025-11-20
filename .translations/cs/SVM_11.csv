@@ -1,5 +1,5 @@
 "location","source","target","id","fuzzy","context","translator_comments","developer_comments"
-"Scripts/Content/Story/SVM.d:1318","Keine Zaubereien in meiner Nähe!","Nepokoušej se tu čarovat!","","True","SVM_11_StopMagic","",""
+"Scripts/Content/Story/SVM.d:1318","Keine Zaubereien in meiner Nähe!","Nepokoušej se tu čarovat!","","False","SVM_11_StopMagic","",""
 "Scripts/Content/Story/SVM.d:1319","Aufhören, sag' ich! Sofort!","Přestaň už s tím! Ihned!","","True","SVM_11_ISaidStopMagic","",""
 "Scripts/Content/Story/SVM.d:1320","Wenn du Streit suchst, komm ruhig näher!","Jestli hledáš problémy, tak pokračuj!","","True","SVM_11_WeaponDown","",""
 "Scripts/Content/Story/SVM.d:1320","Steck das Ding weg, oder du bist dran!","Dej tu věc pryč nebo to schytáš!","","True","SVM_11_ISaidWeaponDown","",""
