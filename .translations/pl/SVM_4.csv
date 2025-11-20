@@ -27,7 +27,7 @@
 "Scripts/Content/Story/SVM.d:571","Ich bin zu alt für so was!","Robię się na to za stary!","","False","SVM_4_Help","",""
 "Scripts/Content/Story/SVM.d:572","Versuch das besser nicht noch mal!","Nigdy więcej tego nie próbuj!","","False","SVM_4_NeverTryThatAgain","",""
 "Scripts/Content/Story/SVM.d:573","Dein Silber ist bei mir in besseren Händen!","","","False","SVM_4_ITookYourOre","",""
-"Scripts/Content/Story/SVM.d:575","Nicht mal ein paar armselige Erz-Nuggets","Nie masz nawet marnej bryłki rudy!","","False","SVM_4_ShitNoOre","",""
+"Scripts/Content/Story/SVM.d:575","Nicht mal ein paar armselige Erz-Nuggets","Nie masz nawet marnej bryłki rudy!","","True","SVM_4_ShitNoOre","",""
 "Scripts/Content/Story/SVM.d:576","Finger weg!","Nie dotykaj!","","False","SVM_4_HandsOff","",""
 "Scripts/Content/Story/SVM.d:576","Verschwinde hier!","Spadaj stąd!","","False","SVM_4_GetOutOfHere","",""
 "Scripts/Content/Story/SVM.d:577","Hey, du! Was schleichst du da rum.","Hej, ty! Czemu się tak skradasz?","","False","SVM_4_WhyAreYouSneaking","",""
