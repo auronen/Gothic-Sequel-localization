@@ -264,7 +264,7 @@
 "Scripts/Content/Story/Text.d:438","Erfahrung + ","Esperienza + ","","False","NAME_XPGained","",""
 "Scripts/Content/Story/Text.d:440","Stufe gestiegen!","Livello aumentato!","","False","NAME_LevelUp","",""
 "Scripts/Content/Story/Text.d:441","Lernpunkte + ","Punti apprendimento + ","","False","NAME_LPGained","",""
-"Scripts/Content/Story/Text.d:445","neuer Tagebucheintrag","Nuova aggiunta al log della quest","","True","NAME_NewLogEntry","",""
+"Scripts/Content/Story/Text.d:445","neuer Tagebucheintrag","Nuova aggiunta al log della quest","","False","NAME_NewLogEntry","",""
 "Scripts/Content/Story/Text.d:446","Lerne: Kampf mit Einhandwaffen","Impara: armi a una mano","","False","PRINT_LEARN_Onehanded","",""
 "Scripts/Content/Story/Text.d:447","Lerne: Kampf mit Zweihandwaffen","Impara: armi a due mani","","False","PRINT_LEARN_Twohanded","",""
 "Scripts/Content/Story/Text.d:448","Lerne: Kampf mit Stabwaffe","Impara: combattimento con arma a bastone","","True","PRINT_LEARN_Staff","",""
