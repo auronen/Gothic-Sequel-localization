@@ -1,5 +1,5 @@
 "location","source","target","id","fuzzy","context","translator_comments","developer_comments"
-"Scripts/Content/Story/Missions/DIA_MIL_100_Halvor.d:33","Du musst der Koch sein!","You must be the cook!","","True","MIL_100_Halvor_COOK.description","",""
+"Scripts/Content/Story/Missions/DIA_MIL_100_Halvor.d:33","Du musst der Koch sein!","You must be the cook!","","False","MIL_100_Halvor_COOK.description","",""
 "Scripts/Content/Story/Missions/DIA_MIL_100_Halvor.d:43","Du musst der Koch sein!","You must be the cook!","","True","MIL_100_COOK_15_01","",""
 "Scripts/Content/Story/Missions/DIA_MIL_100_Halvor.d:44","Bist ja ein ganz Schlauer! Hab dich hier noch nie gesehen!","You're a real smart guy! I've never seen you here before!","","True","MIL_100_COOK_00_02","",""
 "Scripts/Content/Story/Missions/DIA_MIL_100_Halvor.d:56","Hast du Essen für mich?","Have you got any food for me?","","True","MIL_100_Halvor_WANTBUY.description","",""
