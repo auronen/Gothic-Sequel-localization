@@ -1,5 +1,5 @@
 "location","source","target","id","fuzzy","context","translator_comments","developer_comments"
-"Scripts/Content/Story/SVM.d:1649","Steck den Zauber weg!","Stop your magic!","","True","SVM_14_StopMagic","",""
+"Scripts/Content/Story/SVM.d:1649","Steck den Zauber weg!","Put the spell away!","","False","SVM_14_StopMagic","",""
 "Scripts/Content/Story/SVM.d:1649","Hörst du nicht, steck den Zauber weg!","You heard me: Stop your sorcery!","","True","SVM_14_ISaidStopMagic","",""
 "Scripts/Content/Story/SVM.d:1651","Was willst du mit der Waffe?","What do you want with that weapon?","","True","SVM_14_WeaponDown","",""
 "Scripts/Content/Story/SVM.d:1651","Steck die Waffe ein!","Put the weapon down!","","True","SVM_14_ISaidWeaponDown","",""
