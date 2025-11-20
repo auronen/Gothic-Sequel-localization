@@ -1,5 +1,5 @@
 "location","source","target","id","fuzzy","context","translator_comments","developer_comments"
-"Scripts/Content/Story/Missions/DIA_PC_Psionic.d:50","Hey, ich dachte du wärst tot!","Hey, I thought you were dead!","","True","PC_Psionic_HALLOAGAIN_23_01","",""
+"Scripts/Content/Story/Missions/DIA_PC_Psionic.d:50","Hey, ich dachte du wärst tot!","Hey, I thought you were dead!","","False","PC_Psionic_HALLOAGAIN_23_01","",""
 "Scripts/Content/Story/Missions/DIA_PC_Psionic.d:51","Das kommt mir bekannt vor.","That sounds familiar to me.","","True","PC_Psionic_HALLOAGAIN_15_02","",""
 "Scripts/Content/Story/Missions/DIA_PC_Psionic.d:52","Was ist geschehen?","What happened?","","True","PC_Psionic_HALLOAGAIN_23_03","",""
 "Scripts/Content/Story/Missions/DIA_PC_Psionic.d:53","Der Kampf gegen den Schläfer hat mich geschwächt. Das bedeutet ich muss wieder 'ne Menge lernen.","The fight against the Sleeper has weakened me. That means I have to learn a lot again.","","True","PC_Psionic_HALLOAGAIN_15_04","",""
