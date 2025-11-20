@@ -1,5 +1,5 @@
 "location","source","target","id","fuzzy","context","translator_comments","developer_comments"
-"Scripts/Content/Story/SVM.d:878","Steck das weg! Steck es weg!!","Put it away! Put it away!!","","True","SVM_7_StopMagic","",""
+"Scripts/Content/Story/SVM.d:878","Steck das weg! Steck es weg!!","Put it away! Put it away!!","","False","SVM_7_StopMagic","",""
 "Scripts/Content/Story/SVM.d:879","Die Magie weg, pack sie weg!!","Put that magic away, put it away!!","","True","SVM_7_ISaidStopMagic","",""
 "Scripts/Content/Story/SVM.d:879","Weg mit der Waffe, weg damit!","Put the weapon away, put it away!","","True","SVM_7_WeaponDown","",""
 "Scripts/Content/Story/SVM.d:880","Ich mein's ernst! Weg damit!","I'm serious! Away with that!","","True","SVM_7_ISaidWeaponDown","",""
