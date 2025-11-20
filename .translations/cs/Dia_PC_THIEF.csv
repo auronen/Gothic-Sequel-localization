@@ -128,7 +128,7 @@
 "Scripts/Content/Story/Missions/DIA_PC_Thief.d:931","Xardas gab mir eine Botschaft für dich mit!","Xardas mi dal pro tebe zprávu!","","","PC_Thief_XARDASLETTER_15_01","",""
 "Scripts/Content/Story/Missions/DIA_PC_Thief.d:932","Xardas...? Eine Botschaft...? Für mich...?","Xardas...? Zprávu...? Pro mě...?","","","PC_Thief_XARDASLETTER_11_02","",""
 "Scripts/Content/Story/Missions/DIA_PC_Thief.d:933","Ja hier ist sie!","Ano, tady je!","","","PC_Thief_XARDASLETTER_15_03","",""
-"Scripts/Content/Story/Missions/DIA_PC_Thief.d:938","Hmmm....","Hmmm....","","","PC_Thief_XARDASLETTER_11_04","",""
+"Scripts/Content/Story/Missions/DIA_PC_Thief.d:938","Hmmm....","Hmmm....","","False","PC_Thief_XARDASLETTER_11_04","",""
 "Scripts/Content/Story/Missions/DIA_PC_Thief.d:939","Sieht verdammt übel aus. Hier, lies selbst!","To vůbec nezní dobře. Koukni se sám!","","","PC_Thief_XARDASLETTER_11_05","",""
 "Scripts/Content/Story/Missions/DIA_PC_Thief.d:946","Offenbar hast du die Nachricht schon gelesen! Dann weisst du ja Bescheid.","Zjevně jsi ten dopis už četl! Potom tedy víš, o čem je řeč.","","","PC_Thief_XARDASLETTER_11_06","",""
 "Scripts/Content/Story/Missions/DIA_PC_Thief.d:965","Was meint Xardas mit ...wenn ich bereit bin... ?","Co myslel Xardas tím ...až budu připraven... ?","","","PC_Thief_WHATNOW.description","",""
