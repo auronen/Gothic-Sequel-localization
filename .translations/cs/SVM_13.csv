@@ -1,5 +1,5 @@
 "location","source","target","id","fuzzy","context","translator_comments","developer_comments"
-"Scripts/Content/Story/SVM.d:1538","Steck die Magie weg!","Přestaň už s těmi kouzly!","","True","SVM_13_StopMagic","",""
+"Scripts/Content/Story/SVM.d:1538","Steck die Magie weg!","Přestaň už s těmi kouzly!","","False","SVM_13_StopMagic","",""
 "Scripts/Content/Story/SVM.d:1539","Pack sie weg, WEG!!","Dej to pryč! IHNED!","","True","SVM_13_ISaidStopMagic","",""
 "Scripts/Content/Story/SVM.d:1540","Die Waffe weg!","Polož tu zbraň!","","True","SVM_13_WeaponDown","",""
 "Scripts/Content/Story/SVM.d:1541","Weg mit der Waffe!","Dej tu zbraň pryč!","","True","SVM_13_ISaidWeaponDown","",""
