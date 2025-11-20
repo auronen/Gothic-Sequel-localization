@@ -102,5 +102,5 @@
 "Scripts/Content/Story/SVM.d:537","Punkt für mich!","Score for me!","","False","SVM_3_PointForMe","",""
 "Scripts/Content/Story/SVM.d:538","Also, wenn du natürlich genug Silber hättest, dann vielleicht!","Well, if you had enough silver, then maybe!","","False","SVM_3_NotEnoughSilver","",""
 "Scripts/Content/Story/SVM.d:542","BUUHHH!!!!","BOOOOO!!!!","","False","SVM_3_Buh","",""
-"Scripts/Content/Story/SVM.d:542","Marl Du Mani","","","False","SVM_3_Possessed1","",""
-"Scripts/Content/Story/SVM.d:544","Barbar Ele farm","","","False","SVM_3_Possessed2","",""
+"Scripts/Content/Story/SVM.d:542","Marl Du Mani","Marl Du Mani","","True","SVM_3_Possessed1","",""
+"Scripts/Content/Story/SVM.d:544","Barbar Ele farm","Barbar Ele farm","","True","SVM_3_Possessed2","",""
