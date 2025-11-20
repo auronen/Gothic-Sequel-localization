@@ -1,5 +1,5 @@
 "location","source","target","id","fuzzy","context","translator_comments","developer_comments"
-"Scripts/Content/Story/SVM.d:437","Weg mit der Magie!","Stop that magic!","","True","SVM_3_StopMagic","",""
+"Scripts/Content/Story/SVM.d:437","Weg mit der Magie!","Put the magic away!","","False","SVM_3_StopMagic","",""
 "Scripts/Content/Story/SVM.d:438","Steck endlich die Magie weg.","Stop that magic now.","","True","SVM_3_ISaidStopMagic","",""
 "Scripts/Content/Story/SVM.d:438","Nimm die Waffe runter!","Put the weapon down!","","True","SVM_3_WeaponDown","",""
 "Scripts/Content/Story/SVM.d:439","Ich krieg' schlechte Laune, wenn du weiter mit der Waffe rumfummelst!!","I'll be in a bad mood if you keep fiddling around with that weapon!!","","True","SVM_3_ISaidWeaponDown","",""
