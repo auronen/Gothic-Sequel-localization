@@ -1,5 +1,5 @@
 "location","source","target","id","fuzzy","context","translator_comments","developer_comments"
-"Scripts/Content/Story/SVM.d:988","Keine Zaubereien, in meiner Nähe!","Don't try any sorcery around me!","","True","SVM_8_StopMagic","",""
+"Scripts/Content/Story/SVM.d:988","Keine Zaubereien, in meiner Nähe!","No magic around me!","","False","SVM_8_StopMagic","",""
 "Scripts/Content/Story/SVM.d:989","Aufhören, sag' ich! Sofort!","Stop, I say! At once!","","True","SVM_8_ISaidStopMagic","",""
 "Scripts/Content/Story/SVM.d:990","Waffe weg!","Put the weapon down!","","True","SVM_8_WeaponDown","",""
 "Scripts/Content/Story/SVM.d:991","Steck das Ding weg, oder du bist dran!","Put that thing away or you're done for!","","True","SVM_8_ISaidWeaponDown","",""
