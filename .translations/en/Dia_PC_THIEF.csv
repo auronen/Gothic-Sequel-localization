@@ -1,5 +1,5 @@
 "location","source","target","id","fuzzy","context","translator_comments","developer_comments"
-"Scripts/Content/Story/Missions/DIA_PC_Thief.d:56","Hey, bist du es wirklich!? Ich dachte du wärst tot!","Hey, are you really it!? I thought you were dead!","","True","PC_Thief_WELCOME_11_01","",""
+"Scripts/Content/Story/Missions/DIA_PC_Thief.d:56","Hey, bist du es wirklich!? Ich dachte du wärst tot!","Hey, is that really you? I thought you were dead!","","False","PC_Thief_WELCOME_11_01","",""
 "Scripts/Content/Story/Missions/DIA_PC_Thief.d:57","Ja, wäre ich auch beinahe gewesen. Als der Tempel einstürzte, wurde ich unter den Steinen begraben.","Yes, I almost did. When the temple collapsed, I was buried under the stones.","","True","PC_Thief_WELCOME_15_02","",""
 "Scripts/Content/Story/Missions/DIA_PC_Thief.d:58","Aber Xardas hat mich rausgeholt.","But Xardas got me out.","","True","PC_Thief_WELCOME_15_03","",""
 "Scripts/Content/Story/Missions/DIA_PC_Thief.d:59","Der Dämonenbeschwörer also. Immerhin war er es auch, der dich in die Sache reingezogen hat.","So the demonic magician. After all, he was the one who got you involved.","","True","PC_Thief_WELCOME_11_04","",""
