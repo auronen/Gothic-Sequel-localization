@@ -1,5 +1,5 @@
 "location","source","target","id","fuzzy","context","translator_comments","developer_comments"
-"Scripts/Content/Story/Missions/DIA_WRK_200_Gotmar.d:60","Steh nicht im Weg rum, Mann! Hier wird gearbeitet!","Don't stand in the way, man! This place is work!","","True","Info_Gotmar_GREETINGS_04_01","",""
+"Scripts/Content/Story/Missions/DIA_WRK_200_Gotmar.d:60","Steh nicht im Weg rum, Mann! Hier wird gearbeitet!","Don't stand in the way, man! We're working here!","","False","Info_Gotmar_GREETINGS_04_01","",""
 "Scripts/Content/Story/Missions/DIA_WRK_200_Gotmar.d:73","Sieht sehr anstrengend aus, deine Arbeit!","Your work looks very tiring!","","True","Info_Gotmar_TIRESOME.description","",""
 "Scripts/Content/Story/Missions/DIA_WRK_200_Gotmar.d:88","Sieht anstrengend aus, deine Arbeit!","Your work looks exhausting!","","True","Info_Gotmar_TIRESOME_15_01","",""
 "Scripts/Content/Story/Missions/DIA_WRK_200_Gotmar.d:89","Und es ist ehrliche Arbeit! Das kann nicht jeder hier von seinem Beruf behaupten.","And it's honest work! Not everyone here can say that about his profession.","","True","Info_Gotmar_TIRESOME_04_02","",""
