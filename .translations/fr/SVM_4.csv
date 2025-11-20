@@ -27,7 +27,7 @@
 "Scripts/Content/Story/SVM.d:571","Ich bin zu alt für so was!","Je deviens trop vieux pour ça !","","False","SVM_4_Help","",""
 "Scripts/Content/Story/SVM.d:572","Versuch das besser nicht noch mal!","Ne recommence plus ça !","","False","SVM_4_NeverTryThatAgain","",""
 "Scripts/Content/Story/SVM.d:573","Dein Silber ist bei mir in besseren Händen!","","","False","SVM_4_ITookYourOre","",""
-"Scripts/Content/Story/SVM.d:575","Nicht mal ein paar armselige Erz-Nuggets","Même pas la moindre petite pépite de minerai.","","False","SVM_4_ShitNoOre","",""
+"Scripts/Content/Story/SVM.d:575","Nicht mal ein paar armselige Erz-Nuggets","Même pas la moindre petite pépite de minerai.","","True","SVM_4_ShitNoOre","",""
 "Scripts/Content/Story/SVM.d:576","Finger weg!","Pas touche !","","False","SVM_4_HandsOff","",""
 "Scripts/Content/Story/SVM.d:576","Verschwinde hier!","Fais toi une balafre !","","False","SVM_4_GetOutOfHere","",""
 "Scripts/Content/Story/SVM.d:577","Hey, du! Was schleichst du da rum.","Hé, toi ! Qu'est-ce que tu fouines ?","","False","SVM_4_WhyAreYouSneaking","",""
