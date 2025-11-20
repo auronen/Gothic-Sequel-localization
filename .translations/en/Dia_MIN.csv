@@ -1,5 +1,5 @@
 "location","source","target","id","fuzzy","context","translator_comments","developer_comments"
-"Scripts/Content/Story/Missions/DIA_MIN_300_Sylvester.d:42","Wie geht es so?","How's it going?","","True","MIN_300_Sylvester_HOWDY.description","",""
+"Scripts/Content/Story/Missions/DIA_MIN_300_Sylvester.d:42","Wie geht es so?","How's it going?","","False","MIN_300_Sylvester_HOWDY.description","",""
 "Scripts/Content/Story/Missions/DIA_MIN_300_Sylvester.d:52","Wie geht es so?","How's it going?","","True","MIN_300_HOWDY_15_01","",""
 "Scripts/Content/Story/Missions/DIA_MIN_300_Sylvester.d:58","Dank dir kann ich nun endlich wieder mein Essen selbst verdienen!","Thanks to you, I can finally earn my own food!","","True","MIN_300_HOWDY_03_02","",""
 "Scripts/Content/Story/Missions/DIA_MIN_300_Sylvester.d:62","Naja, ich kann jetzt weiss ich zwar wo eine neue Erzader ist, aber du hast mich ganz schön dafür bluten lassen!","Well, I can see where a new ore vein is now, but you've made me bleed for it!","","True","MIN_300_HOWDY_03_03","",""
