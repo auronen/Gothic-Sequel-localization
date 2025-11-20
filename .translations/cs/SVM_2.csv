@@ -45,7 +45,7 @@
 "Scripts/Content/Story/SVM.d:370","Bleib hier, du Feigling!","Kliď se, ty nádhero!","","False","SVM_2_RunCoward","",""
 "Scripts/Content/Story/SVM.d:371","Der hat genug!","Ten má dost!","","False","SVM_2_HeDefeatedHim","",""
 "Scripts/Content/Story/SVM.d:372","Du hast ihn umgebracht! War das nötig?","Tys ho zabil! Bylo to nutné?","","False","SVM_2_HeKilledHim","",""
-"Scripts/Content/Story/SVM.d:373","Gäääähn","Gäääähn","","False","SVM_2_Awake","",""
+"Scripts/Content/Story/SVM.d:373","Gäääähn","Aaaaaaah","","False","SVM_2_Awake","",""
 "Scripts/Content/Story/SVM.d:374","Hallo.","Nazdar.","","False","SVM_2_FriendlyGreetings","",""
 "Scripts/Content/Story/SVM.d:375","Für Gomez!","Za Gomeze!","","False","SVM_2_ALGreetings","",""
 "Scripts/Content/Story/SVM.d:376","Magie zu Ehren!","Za slávu magie!","","False","SVM_2_MageGreetings","",""
