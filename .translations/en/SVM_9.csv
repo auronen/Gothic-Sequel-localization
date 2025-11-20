@@ -1,5 +1,5 @@
 "location","source","target","id","fuzzy","context","translator_comments","developer_comments"
-"Scripts/Content/Story/SVM.d:1097","Ich will keine Magie in meiner Nähe!","I don't want any magic near me!","","True","SVM_9_StopMagic","",""
+"Scripts/Content/Story/SVM.d:1097","Ich will keine Magie in meiner Nähe!","I don't want any magic near me!","","False","SVM_9_StopMagic","",""
 "Scripts/Content/Story/SVM.d:1098","Aufhören, sag' ich! Sofort!","Stop, I say! At once!","","True","SVM_9_ISaidStopMagic","",""
 "Scripts/Content/Story/SVM.d:1099","Willst du mich angreifen?","Are you planning to attack me?","","True","SVM_9_WeaponDown","",""
 "Scripts/Content/Story/SVM.d:1100","Soll ich dir aufs Maul hauen oder steckst du das Ding weg?","Do you want me to polish your gob or will you put that thing away?","","True","SVM_9_ISaidWeaponDown","",""
