@@ -1,5 +1,5 @@
 "location","source","target","id","fuzzy","context","translator_comments","developer_comments"
-"Scripts/Content/Story/SVM.d:1208","Hör mit der Magie auf!","Stop that sorcery!","","True","SVM_10_StopMagic","",""
+"Scripts/Content/Story/SVM.d:1208","Hör mit der Magie auf!","Stop the magic!","","False","SVM_10_StopMagic","",""
 "Scripts/Content/Story/SVM.d:1208","Hör sofort damit auf!!!","Stop it at once!!!","","True","SVM_10_ISaidStopMagic","",""
 "Scripts/Content/Story/SVM.d:1209","Steck die Waffe weg!","Put the weapon down!","","True","SVM_10_WeaponDown","",""
 "Scripts/Content/Story/SVM.d:1210","Was soll das werden? Willst du dich mit mir anlegen?","What d'you think you're doing? You want trouble with me?","","True","SVM_10_ISaidWeaponDown","",""
