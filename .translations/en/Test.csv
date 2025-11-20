@@ -118,7 +118,7 @@
 "Scripts/Content/AI/Test_Skripts/StoryHelper.d:94","ZURÜCK","RETURN","","True","StoryHelper_INFO1_Info.StoryHelper_INFO1.StoryHelper_BACK1","AI_AddChoice",""
 "Scripts/Content/AI/Test_Skripts/StoryHelper.d:95","I: Bei Diego im Haus der Erzbarone","I: With Diego in the House of the Ore Barons","","True","StoryHelper_INFO1_Info.StoryHelper_INFO1.StoryHelper_Chapter1_BeforeDiego","AI_AddChoice",""
 "Scripts/Content/AI/Test_Skripts/StoryHelper.d:96","I: Am Alten Lager angekommen","I: Arrived in the Old Camp","","True","StoryHelper_INFO1_Info.StoryHelper_INFO1.StoryHelper_Chapter1_ArrivedAtOC","AI_AddChoice",""
-"Scripts/Content/AI/Test_Skripts/StoryHelper.d:155","Kapitel 2","Chapter 2","","True","StoryHelper_INFO2.description","",""
+"Scripts/Content/AI/Test_Skripts/StoryHelper.d:155","Kapitel 2","Chapter 2","","False","StoryHelper_INFO2.description","",""
 "Scripts/Content/AI/Test_Skripts/StoryHelper.d:168","ZURÜCK","RETURN","","True","StoryHelper_INFO2_Info.StoryHelper_INFO2.StoryHelper_BACK2","AI_AddChoice",""
 "Scripts/Content/AI/Test_Skripts/StoryHelper.d:169","II: In der Bergfestung","II: In the mountain fortress","","True","StoryHelper_INFO2_Info.StoryHelper_INFO2.StoryHelper_Chapter2_EnteredBF","AI_AddChoice",""
 "Scripts/Content/AI/Test_Skripts/StoryHelper.d:170","II: Thora überzeugt","II: Thora Convinced","","True","StoryHelper_INFO2_Info.StoryHelper_INFO2.StoryHelper_Chapter2_ThoraConvinced","AI_AddChoice",""
