@@ -1,5 +1,5 @@
 "location","source","target","id","fuzzy","context","translator_comments","developer_comments"
-"Scripts/Content/AI/Test_Skripts/TestModelle.d:11","Prototype","Prototype","","True","Npc_TestDefault.name","",""
+"Scripts/Content/AI/Test_Skripts/TestModelle.d:11","Prototype","Prototype","","False","Npc_TestDefault.name","",""
 "Scripts/Content/AI/Test_Skripts/TestModelle.d:56","ATestmodell","ATestmodell","","True","ATestmodell.name","",""
 "Scripts/Content/AI/Test_Skripts/TestModelle.d:114","BTestmodell","BTtestmodell","","True","BTestmodell.name","",""
 "Scripts/Content/AI/Test_Skripts/TestModelle.d:169","CTestmodell","CTestmodell","","True","CTestmodell.name","",""
