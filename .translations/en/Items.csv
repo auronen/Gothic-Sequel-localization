@@ -1,5 +1,5 @@
 "location","source","target","id","fuzzy","context","translator_comments","developer_comments"
-"Scripts/Content/Items/Amulette.d:16","Zeichen der Bruderschaft","Sign of the Brotherhood","","True","ItMi_Amulet_Psi.description","",""
+"Scripts/Content/Items/Amulette.d:16","Zeichen der Bruderschaft","Sign of the Brotherhood","","False","ItMi_Amulet_Psi.description","",""
 "Scripts/Content/Items/Amulette.d:17","Dieses alte Amulett war ein Erkennungszeichen","This ancient amulet was a sign of recognition.","","True","ItMi_Amulet_Psi.text[0]","",""
 "Scripts/Content/Items/Amulette.d:18","aus den Tagen der Barriere.","from the days of the Barrier.","","True","ItMi_Amulet_Psi.text[1]","",""
 "Scripts/Content/Items/Amulette.d:42","Amulett der Flammen","Amulet of Flames","","True","Schutzamulett_Feuer.description","",""
