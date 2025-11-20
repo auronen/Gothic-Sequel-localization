@@ -1,5 +1,5 @@
 "location","source","target","id","fuzzy","context","translator_comments","developer_comments"
-"Scripts/Content/Story/Missions/DIA_PC_Mage.d:43","Hey, ich dachte du wärst tot!","Hey, I thought you were dead!","","True","PC_Mage_WELCOME_15_01","",""
+"Scripts/Content/Story/Missions/DIA_PC_Mage.d:43","Hey, ich dachte du wärst tot!","Hey, I thought you were dead!","","False","PC_Mage_WELCOME_15_01","",""
 "Scripts/Content/Story/Missions/DIA_PC_Mage.d:44","Da bist du nicht der einzige.","You're not the only one.","","True","PC_Mage_WELCOME_15_02","",""
 "Scripts/Content/Story/Missions/DIA_PC_Mage.d:45","Wie ist es dir seit unserem letzten Treffen ergangen?","How's it been since our last meeting?","","True","PC_Mage_WELCOME_02_03","",""
 "Scripts/Content/Story/Missions/DIA_PC_Mage.d:46","Naja, ich hab den Schläfer verbannt, lag ein halbes Jahr unter Felstrümmern begraben,","Well, I banished the Sleeper. He was buried under rock debris for six months,","","True","PC_Mage_WELCOME_15_04","",""
