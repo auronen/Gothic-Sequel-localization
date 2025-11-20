@@ -1,5 +1,5 @@
 "location","source","target","id","fuzzy","context","translator_comments","developer_comments"
-"Scripts/Content/AI/Monster/Mst_Gobbo.d:8","Goblin","Goblin","","","Mst_Default_GreenGobbo.name","",""
+"Scripts/Content/AI/Monster/Mst_Gobbo.d:8","Goblin","Goblin","","False","Mst_Default_GreenGobbo.name","",""
 "Scripts/Content/AI/Monster/Mst_BlackGobbo.d:8","schwarzer Goblin","Černý goblin","","","Mst_Default_BlackGobbo.name","",""
 "Scripts/Content/AI/Monster/Mst_BlackGobbo.d:109","Goblin Krieger","Gobliní válečník","","","BlackGobboWarrior.name","",""
 "Scripts/Content/AI/Monster/Mst_Gobbo_Demon.d:8","untoter Goblin","Nemrtvý goblin","","","Mst_Default_GobboDemon.name","",""
