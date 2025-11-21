@@ -68,7 +68,7 @@
 "Scripts/Content/Story/SVM.d:721","Du wagst es, mir unter die Augen zu treten, dreckiger Dieb?","Śmiesz się tu jeszcze pokazywać, parszywy złodzieju?","","False","SVM_5_YouStoleFromMe","",""
 "Scripts/Content/Story/SVM.d:722","Warum hast du mich angegriffen??","","","False","SVM_5_YouAttackedMe","",""
 "Scripts/Content/Story/SVM.d:722","Du hast einen von unseren Jungs auf dem Gewissen. Noch ein kleiner Fehler und du bist dran!","Masz na sumieniu jednego z naszych! Jeszcze jeden taki wybryk i będziesz gryzł ziemię!","","False","SVM_5_YouKilledMyFriend","",""
-"Scripts/Content/Story/SVM.d:724","Du hast mir ganz schön aufs Maul gehauen, Mann. War ein guter Kampf. Aber jetzt ist gut!","Widzę, że chcesz koniecznie dostać w łeb!","","False","SVM_5_YouDefeatedMeWell","",""
+"Scripts/Content/Story/SVM.d:724","Du hast mir ganz schön aufs Maul gehauen, Mann. War ein guter Kampf. Aber jetzt ist gut!","Spuściłeś mi niezłe baty, stary. To była dobra walka, ale już się skończyła!","","False","SVM_5_YouDefeatedMeWell","",""
 "Scripts/Content/Story/SVM.d:726","… wenn du meinst …","","","False","SVM_5_Smalltalk01","",""
 "Scripts/Content/Story/SVM.d:727","… kann schon sein …","Może.","","True","SVM_5_Smalltalk02","",""
 "Scripts/Content/Story/SVM.d:728","… war nicht besonders schlau …","...to nie było zbyt mądre…","","True","SVM_5_Smalltalk03","",""
