@@ -52,7 +52,7 @@
 "Scripts/Content/Story/SVM.d:1037","Erwache!","Проснись!","","False","SVM_8_SectGreetings","",""
 "Scripts/Content/Story/SVM.d:1037","Ich kann dir nichts beibringen. Du hast nicht genug Erfahrung.","Я не могу учить тебя, ты слишком неопытен.","","False","SVM_8_NoLearnNoPoints","",""
 "Scripts/Content/Story/SVM.d:1039","Du bist am Ende deiner Möglichkeiten. Du solltest etwas anderes lernen.","Ты на пределе своих возможностей. Тебе нужно научиться чему-нибудь еще.","","False","SVM_8_NoLearnOverMax","",""
-"Scripts/Content/Story/SVM.d:1041","Du musst erst fortgeschritten sein, bevor du Meister werden kannst!","Тебе нужно набраться опыта, прежде чем ты сможешь стать мастером!","","False","SVM_8_NoLearnYouAlreadyKnow","",""
+"Scripts/Content/Story/SVM.d:1041","Du musst erst fortgeschritten sein, bevor du Meister werden kannst!","Тебе нужно набраться опыта, прежде чем ты сможешь стать мастером.","","False","SVM_8_NoLearnYouAlreadyKnow","",""
 "Scripts/Content/Story/SVM.d:1043","Du bist jetzt schon besser!","Уже лучше!","","False","SVM_8_NoLearnYoureBetter","",""
 "Scripts/Content/Story/SVM.d:1044","Hey du!","Эй, ты!","","False","SVM_8_HeyYou","",""
 "Scripts/Content/Story/SVM.d:1045","Nicht jetzt.","Не сейчас.","","False","SVM_8_NotNow","",""
