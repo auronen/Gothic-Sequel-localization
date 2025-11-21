@@ -258,7 +258,7 @@
 "Scripts/Content/AI/B_Human/B_GetBAckPersonalWeapon.d:64","Hol sie Dir, wenn Du kannst","Get them for yourself if you can.","","True","MyWeapon_Info.MyWeapon.MyWeapon_HauAb","AI_AddChoice",""
 "Scripts/Content/AI/B_Human/B_GetBAckPersonalWeapon.d:90","Das war ein Versehen, hier hast Du Deine Waffe zurück.","That was a mistake. Here's your weapon back.","","True","MyWeapon_Info_15_01","",""
 "Scripts/Content/AI/B_Human/B_GetBAckPersonalWeapon.d:141","Hol sie Dir, wenn Du kannst","Get them for yourself if you can.","","True","MyWeapon_Info_15_02","",""
-"Scripts/Content/Story/ZS/ZS_OtMeditate.d:59","Omm...","Ommm","","True","ZS_Meditate_Om","",""
+"Scripts/Content/Story/ZS/ZS_OtMeditate.d:59","Omm...","Omm...","","False","ZS_Meditate_Om","",""
 "Scripts/Content/Story/Events/EV_Phoenix.d:28","Widerauferstehung","Resurrection","","True","EV_BOOK_PHOENIX_S1_1","",""
 "Scripts/Content/Story/Events/EV_Phoenix.d:29","des Phoenix","of the Phoenix","","True","EV_BOOK_PHOENIX_S1_2","",""
 "Scripts/Content/Story/Events/EV_Phoenix.d:30","Du hast das Rätsel des Phoenix entschlüsselt. Du bist würdig, das Wissen des Feuers an dich zu nehmen.","You have deciphered the riddle of the Phoenix. You are worthy of taking the Knowledge of Fire from you.","","True","EV_BOOK_PHOENIX_S1_3","",""
