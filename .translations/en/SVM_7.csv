@@ -26,7 +26,7 @@
 "Scripts/Content/Story/SVM.d:901","Ich hab' nicht die richtige Waffe. Wir sehen uns …","I don't have the right weapon. We'll meet again ...","","True","SVM_7_ShitWhatAMonster","",""
 "Scripts/Content/Story/SVM.d:902","Verdammt!","Damn!","","True","SVM_7_Help","",""
 "Scripts/Content/Story/SVM.d:903","Tu das nie wieder!","Never do that again!","","True","SVM_7_NeverTryThatAgain","",""
-"Scripts/Content/Story/SVM.d:904","Lieber würde ich dich umbringen, aber das Silber ist auch nicht schlecht!","I'd rather kill you, but the ore is not bad either!","","True","SVM_7_ITookYourOre","",""
+"Scripts/Content/Story/SVM.d:904","Lieber würde ich dich umbringen, aber das Silber ist auch nicht schlecht!","I'd rather kill you, but the silver is not bad either!","","False","SVM_7_ITookYourOre","",""
 "Scripts/Content/Story/SVM.d:906","Kein Erz? Du nutzloses Stück Dreck!","No ore? You useless bum!","","True","SVM_7_ShitNoOre","",""
 "Scripts/Content/Story/SVM.d:906","Behalt deine Drecksgriffel bei dir!","Keep your hands off!","","True","SVM_7_HandsOff","",""
 "Scripts/Content/Story/SVM.d:907","Verzieh dich! Raus hier!","Buzz off! Get out of here!","","True","SVM_7_GetOutOfHere","",""
