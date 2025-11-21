@@ -26,7 +26,7 @@
 "Scripts/Content/Story/SVM.d:1121","Scheiße, was ein Biest!","Shit, what a beast!","","True","SVM_9_ShitWhatAMonster","",""
 "Scripts/Content/Story/SVM.d:1123","Nichts wie weg!","Quickly, out of here!","","True","SVM_9_Help","",""
 "Scripts/Content/Story/SVM.d:1123","Beim nächsten Mal werde ich dich umbringen!","Next time I'll kill you!","","True","SVM_9_NeverTryThatAgain","",""
-"Scripts/Content/Story/SVM.d:1125","Silber! Na das ist doch besser als gar nichts!","Ore! Well, that's better than nothing!","","True","SVM_9_ITookYourOre","",""
+"Scripts/Content/Story/SVM.d:1125","Silber! Na das ist doch besser als gar nichts!","Silver! Well, that's better than nothing!","","False","SVM_9_ITookYourOre","",""
 "Scripts/Content/Story/SVM.d:1126","Der hat ja nicht mal Erz dabei!","He doesn't even have ore on him!","","True","SVM_9_ShitNoOre","",""
 "Scripts/Content/Story/SVM.d:1126","Finger weg, Freundchen!","Hands off, pal!","","True","SVM_9_HandsOff","",""
 "Scripts/Content/Story/SVM.d:1128","Raus hier!","Get out of here!","","True","SVM_9_GetOutOfHere","",""
