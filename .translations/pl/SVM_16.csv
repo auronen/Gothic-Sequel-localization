@@ -26,7 +26,7 @@
 "Scripts/Content/Story/SVM.d:1804","Ich - ähm - geh' Hilfe holen!","Ja... eee... pójdę zawołać pomoc!","","False","SVM_16_ShitWhatAMonster","",""
 "Scripts/Content/Story/SVM.d:1805","Keine Zeit, ich muss noch was erledigen!","Nie mam czasu, muszę jeszcze coś załatwić!","","False","SVM_16_Help","",""
 "Scripts/Content/Story/SVM.d:1806","Versuch das nicht noch mal!","Nigdy więcej tego nie próbuj!","","False","SVM_16_NeverTryThatAgain","",""
-"Scripts/Content/Story/SVM.d:1807","Etwas Silber kannst du doch entbehren!","","","False","SVM_16_ITookYourOre","",""
+"Scripts/Content/Story/SVM.d:1807","Etwas Silber kannst du doch entbehren!","I tak nie potrzebujesz tego srebra!","","False","SVM_16_ITookYourOre","",""
 "Scripts/Content/Story/SVM.d:1808","Du hast kein Erz? Scheint heute nicht dein Tag zu sein!","Nie masz rudy? To chyba nie jest twój szczęśliwy dzień!","","False","SVM_16_ShitNoOre","",""
 "Scripts/Content/Story/SVM.d:1810","Finger weg!","Nie dotykaj!","","False","SVM_16_HandsOff","",""
 "Scripts/Content/Story/SVM.d:1811","Raus hier!","Won!","","False","SVM_16_GetOutOfHere","",""
