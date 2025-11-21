@@ -26,7 +26,7 @@
 "Scripts/Content/Story/SVM.d:1804","Ich - ähm - geh' Hilfe holen!","Já - ehm - s malou pomocí!","","True","SVM_16_ShitWhatAMonster","",""
 "Scripts/Content/Story/SVM.d:1805","Keine Zeit, ich muss noch was erledigen!","Nemám čas, jenom si vyřídím své věci!","","True","SVM_16_Help","",""
 "Scripts/Content/Story/SVM.d:1806","Versuch das nicht noch mal!","Už to znovu nezkoušej!","","False","SVM_16_NeverTryThatAgain","",""
-"Scripts/Content/Story/SVM.d:1807","Etwas Silber kannst du doch entbehren!","Tolik rudy nebudeš stejně potřebovat!","","False","SVM_16_ITookYourOre","",""
+"Scripts/Content/Story/SVM.d:1807","Etwas Silber kannst du doch entbehren!","Tolik stříbra nebudeš stejně potřebovat!","","False","SVM_16_ITookYourOre","",""
 "Scripts/Content/Story/SVM.d:1808","Du hast kein Erz? Scheint heute nicht dein Tag zu sein!","Ty nemáš žádnou rudu? Tohle nevypadá na tvůj šťastný den!","","True","SVM_16_ShitNoOre","",""
 "Scripts/Content/Story/SVM.d:1810","Finger weg!","Pracky pryč!","","False","SVM_16_HandsOff","",""
 "Scripts/Content/Story/SVM.d:1811","Raus hier!","Vypadni!","","False","SVM_16_GetOutOfHere","",""
