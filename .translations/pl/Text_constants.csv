@@ -583,7 +583,7 @@
 "Scripts/Content/Story/Text.d:903","die Winde klemmt","Kołowrót się zaciął!","","False","_STR_MESSAGE_WHEEL_STUCKS","",""
 "Scripts/Content/Story/Text.d:904","die Winde darf nur vom Arenameister bedient werden","","","False","_STR_MESSAGE_ARENAWHEEL","",""
 "Scripts/Content/Story/Text.d:906"," Gegenstand gegeben"," przedmiot oddany!","","False","_STR_MESSAGE_ITEM_GIVEN","",""
-"Scripts/Content/Story/Text.d:908"," Gegenstände gegeben"," Przedmioty oddane:","","False","_STR_MESSAGE_ITEMS_GIVEN","",""
+"Scripts/Content/Story/Text.d:908"," Gegenstände gegeben","Przedmioty oddane: ","","False","_STR_MESSAGE_ITEMS_GIVEN","",""
 "Scripts/Content/Story/Text.d:909"," Silber gegeben","","","False","_STR_MESSAGE_SILVER_GIVEN","",""
 "Scripts/Content/Story/Text.d:909"," Gold gegeben"," szt. złota - oddałeś","","False","_STR_MESSAGE_GOLD_GIVEN","",""
 "Scripts/Content/Story/Text.d:910"," Gegenstand erhalten"," przedmiot otrzymany!","","False","_STR_MESSAGE_ITEM_TAKEN","",""
