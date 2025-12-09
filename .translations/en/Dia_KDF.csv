@@ -28,7 +28,7 @@
 "Scripts/Content/Story/Missions/DIA_KDF_1102_Morogh.d:200","Wenn du mir die benötigten Zutaten bringst, wäre ich dir überaus... dankbar.","If you bring me the necessary ingredients, I'd be very... grateful.","","True","KDF_1102_MISSION_SUGGEST_14_05","",""
 "Scripts/Content/Story/Missions/DIA_KDF_1102_Morogh.d:217","Welche Zutaten brauchst du?","What ingredients do you need?","","True","KDF_1102_Morogh_INGREDENCIA.description","",""
 "Scripts/Content/Story/Missions/DIA_KDF_1102_Morogh.d:229","Welche Zutaten brauchst du?","What ingredients do you need?","","True","KDF_1102_INGREDENCIA_15_01","",""
-"Scripts/Content/Story/Missions/DIA_KDF_1102_Morogh.d:232","Ich habe jetzt zu tun. Und komm nicht ohne die ausreichende Menge wieder!","I'm busy now. And don't come back without enough!","","True","KDF_1102_INGREDENCIA_14_02","",""
+"Scripts/Content/Story/Missions/DIA_KDF_1102_Morogh.d:232","Ich habe jetzt zu tun. Und komm nicht ohne die ausreichende Menge wieder!","Here is a list of the things I need.","","False","KDF_1102_INGREDENCIA_14_02","",""
 "Scripts/Content/Story/Missions/DIA_KDF_1102_Morogh.d:250","Wer ist dein Lieferant?","Who's your supplier?","","True","KDF_1102_Morogh_RYAN.description","",""
 "Scripts/Content/Story/Missions/DIA_KDF_1102_Morogh.d:262","Wer ist dein Lieferant?","Who's your supplier?","","True","KDF_1102_RYAN_15_01","",""
 "Scripts/Content/Story/Missions/DIA_KDF_1102_Morogh.d:263","Ein Kerl namens Ryan. Bisher war er zuverlässig aber er sollte längst wieder hier sein.","A guy named Ryan. So far, he's been reliable, but he should be back here a long time ago.","","True","KDF_1102_RYAN_14_02","",""
