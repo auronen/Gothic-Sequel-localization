@@ -102,7 +102,7 @@ func void THF_410_Vito_DIFFICULT_Info()
 	AI_Output(self, hero, "THF_410_DIFFICULT_07_05"); //Und wenn wir gute Soldaten sind, dann könnten wir vielleicht sogar mal echte Paladine des Königs werden.
 	AI_Output(hero, self, "THF_410_DIFFICULT_15_06"); //Soso.
 	AI_Output(self, hero, "THF_410_DIFFICULT_07_02"); //Aber die wollen uns nicht mal bei den Hilfstruppen haben, weil sie sagen wir wären keine guten Kämpfer.
-	AI_Output(hero, self, "THF_410_DIFFICULT_15_06"); //Ich verstehe.
+	AI_Output(hero, self, "THF_410_DIFFICULT_15_08"); //Ich verstehe.
 	AI_Output(self, hero, "THF_410_DIFFICULT_07_07"); //Willst du auch Soldat werden?
 
 	Info_AddChoice(THF_410_Vito_DIFFICULT, "Das geht dich nichts an.", THF_410_Vito_DIFFICULT_NOBUSINESS);

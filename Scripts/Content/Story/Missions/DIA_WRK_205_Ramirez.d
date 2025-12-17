@@ -240,8 +240,8 @@ func void Wrk_205_Ramirez_TRADE_25()
 
 	if (B_Ramirez_TradeCheck(NumArrows) == 0)
 	{
-		AI_Output(hero, self, "WRK_205_TRADE_10_15_01"); //Hier habe ich fünfundzwanzig Pfeile für dich.
-		AI_Output(self, hero, "WRK_205_TRADE_10_09_02"); //Gut, ich gebe dir fünfzig Stücke Fleisch dafür.
+		AI_Output(hero, self, "WRK_205_TRADE_25_15_01"); //Hier habe ich fünfundzwanzig Pfeile für dich.
+		AI_Output(self, hero, "WRK_205_TRADE_25_09_02"); //Gut, ich gebe dir fünfzig Stücke Fleisch dafür.
 		B_Ramirez_ProceedTrade(NumArrows);
 	};
 
