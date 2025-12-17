@@ -279,7 +279,7 @@
 "Scripts/Content/Story/Missions/DIA_THF_410_Vito.d:100","Diese Torwachen da drüben sagen, wir müssten es erst mal zu den Hilfstruppen schaffen, bevor wir richtige Soldaten werden können.","Стража говорит, что для начала нам нужно вступить во вспомогательные войска. Лишь после этого нас смогут принять на службу к королю.","","False","THF_410_DIFFICULT_07_03","",""
 "Scripts/Content/Story/Missions/DIA_THF_410_Vito.d:101","Aha.","Вот как.","","False","THF_410_DIFFICULT_15_04","",""
 "Scripts/Content/Story/Missions/DIA_THF_410_Vito.d:102","Und wenn wir gute Soldaten sind, dann könnten wir vielleicht sogar mal echte Paladine des Königs werden.","И если мы себя сможем зарекомендовать как солдаты, мы даже сможем стать паладинами!","","False","THF_410_DIFFICULT_07_05","",""
-"Scripts/Content/Story/Missions/DIA_THF_410_Vito.d:105","Ich verstehe.","Понимаю.","","False","THF_410_DIFFICULT_15_06","",""
+"Scripts/Content/Story/Missions/DIA_THF_410_Vito.d:105","Ich verstehe.","Понимаю.","","True","THF_410_DIFFICULT_15_06","",""
 "Scripts/Content/Story/Missions/DIA_THF_410_Vito.d:104","Aber die wollen uns nicht mal bei den Hilfstruppen haben, weil sie sagen wir wären keine guten Kämpfer.","Но нас даже во вспомогательные войска не принимают. Говорят, им нужны только умелые бойцы.","","False","THF_410_DIFFICULT_07_02","",""
 "Scripts/Content/Story/Missions/DIA_THF_410_Vito.d:105","Ich verstehe.","","","","THF_410_DIFFICULT_15_08","",""
 "Scripts/Content/Story/Missions/DIA_THF_410_Vito.d:106","Willst du auch Soldat werden?","Ты тоже решил стать солдатом?","","False","THF_410_DIFFICULT_07_07","",""
