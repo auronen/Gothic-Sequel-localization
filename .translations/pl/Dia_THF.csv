@@ -279,7 +279,7 @@
 "Scripts/Content/Story/Missions/DIA_THF_410_Vito.d:100","Diese Torwachen da drüben sagen, wir müssten es erst mal zu den Hilfstruppen schaffen, bevor wir richtige Soldaten werden können.","Ci strażnicy mówią, że zanim zostaniemy prawdziwymi żołnierzami, musimy się dostać do pomocy.","","True","THF_410_DIFFICULT_07_03","",""
 "Scripts/Content/Story/Missions/DIA_THF_410_Vito.d:101","Aha.","Rozumiem.","","False","THF_410_DIFFICULT_15_04","",""
 "Scripts/Content/Story/Missions/DIA_THF_410_Vito.d:102","Und wenn wir gute Soldaten sind, dann könnten wir vielleicht sogar mal echte Paladine des Königs werden.","A jeśli jesteśmy dobrymi żołnierzami, to może nawet zostaniemy prawdziwymi paladynami króla.","","True","THF_410_DIFFICULT_07_05","",""
-"Scripts/Content/Story/Missions/DIA_THF_410_Vito.d:105","Ich verstehe.","Rozumiem!","","False","THF_410_DIFFICULT_15_06","",""
+"Scripts/Content/Story/Missions/DIA_THF_410_Vito.d:105","Ich verstehe.","Rozumiem!","","True","THF_410_DIFFICULT_15_06","",""
 "Scripts/Content/Story/Missions/DIA_THF_410_Vito.d:104","Aber die wollen uns nicht mal bei den Hilfstruppen haben, weil sie sagen wir wären keine guten Kämpfer.","Ale nie chcą nas nawet przyłączyć do sił ratunkowych, bo mówią, że nie jesteśmy dobrymi wojownikami.","","True","THF_410_DIFFICULT_07_02","",""
 "Scripts/Content/Story/Missions/DIA_THF_410_Vito.d:105","Ich verstehe.","","","","THF_410_DIFFICULT_15_08","",""
 "Scripts/Content/Story/Missions/DIA_THF_410_Vito.d:106","Willst du auch Soldat werden?","Chcesz zostać żołnierzem?","","True","THF_410_DIFFICULT_07_07","",""
