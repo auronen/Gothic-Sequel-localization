@@ -19,7 +19,7 @@
 "Scripts/Content/Story/Chapters/B_FindNpc_MIL.d:141","Im Burghof ganz rechts ist die Küche. Das ist sein Reich.","La cucina è sulla destra, nel cortile del castello. Questo è il suo regno.","","True","Info_FindNPC_MIL_Halvor_06_01","",""
 "Scripts/Content/Story/Chapters/B_FindNpc_MIL.d:145","Im Burghof ganz rechts ist die Küche. Das ist sein Reich.","La cucina è sulla destra, nel cortile del castello. Questo è il suo regno.","","True","Info_FindNPC_MIL_Halvor_07_01","",""
 "Scripts/Content/Story/Chapters/B_FindNpc_MIL.d:149","Im Burghof ganz rechts ist die Küche. Das ist sein Reich.","La cucina è sulla destra, nel cortile del castello. Questo è il suo regno.","","True","Info_FindNPC_MIL_Halvor_09_01","",""
-"Scripts/Content/Story/Chapters/B_FindNpc_MIL.d:158","Wo finde ich Cassian?","Dove si trova Cassian?","","True","Info_FindNPC_Casian_15_00","",""
+"Scripts/Content/Story/Chapters/B_FindNpc_MIL.d:158","Wo finde ich Cassian?","","","","Info_FindNPC_Cassian_15_00","",""
 "Scripts/Content/Story/Chapters/B_FindNpc_MIL.d:167","Tagsüber trainiert er im Burghof.","Durante il giorno si allena nel cortile del castello.","","True","Info_FindNPC_MIL_Cassian_04_01","",""
 "Scripts/Content/Story/Chapters/B_FindNpc_MIL.d:171","Tagsüber trainiert er im Burghof.","Durante il giorno si allena nel cortile del castello.","","True","Info_FindNPC_MIL_Cassian_06_01","",""
 "Scripts/Content/Story/Chapters/B_FindNpc_MIL.d:175","Tagsüber trainiert er im Burghof.","Durante il giorno si allena nel cortile del castello.","","True","Info_FindNPC_MIL_Cassian_07_01","",""
@@ -264,3 +264,4 @@
 "Scripts/Content/Story/Events/EV_Phoenix.d:30","Du hast das Rätsel des Phoenix entschlüsselt. Du bist würdig, das Wissen des Feuers an dich zu nehmen.","Hai decifrato l'insegna del Fenice. Sei degno di prendere la conoscenza del fuoco.","","True","EV_BOOK_PHOENIX_S1_3","",""
 "Scripts/Content/Story/Events/EV_Phoenix.d:31","Bewahre das Wissen und vergeude es nicht sinnlos. Dies ist der letzte Hort des Feuers innerhalb der Barriere.","Conserva la conoscenza e non sprecarla inutilmente. Questa è l'ultima scorta di fuoco all'interno della Barriera.","","True","EV_BOOK_PHOENIX_S1_4","",""
 "Scripts/Content/Story/Events/EV_Phoenix.d:32","Der Phoenix hat sich aus seiner Asche erhoben, und die Macht des Feuers erstrahlt in neuem Glanz. Dies ist der Kreislauf des Lebens. Es war immer so. Es wird immer so sein.","La fenice è sorta dalle sue ceneri e il potere del fuoco è risplendito in un nuovo splendore. Questo è il Circolo della vita. È sempre stato così. Sarà sempre così.","","True","EV_BOOK_PHOENIX_S1_5","",""
+"Scripts/Content/Story/Chapters/B_FindNpc_MIL.d:158","Wo finde ich Cassian?","Dove si trova Cassian?","","True","Info_FindNPC_Casian_15_00","",""

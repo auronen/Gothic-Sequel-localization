@@ -281,6 +281,7 @@
 "Scripts/Content/Story/Missions/DIA_THF_410_Vito.d:102","Und wenn wir gute Soldaten sind, dann könnten wir vielleicht sogar mal echte Paladine des Königs werden.","And if we're good soldiers, then maybe we could even become real paladins of the king.","","True","THF_410_DIFFICULT_07_05","",""
 "Scripts/Content/Story/Missions/DIA_THF_410_Vito.d:105","Ich verstehe.","I see.","","True","THF_410_DIFFICULT_15_06","",""
 "Scripts/Content/Story/Missions/DIA_THF_410_Vito.d:104","Aber die wollen uns nicht mal bei den Hilfstruppen haben, weil sie sagen wir wären keine guten Kämpfer.","But they don't even want us in the aid troops, because they say we're not good fighters.","","True","THF_410_DIFFICULT_07_02","",""
+"Scripts/Content/Story/Missions/DIA_THF_410_Vito.d:105","Ich verstehe.","","","","THF_410_DIFFICULT_15_08","",""
 "Scripts/Content/Story/Missions/DIA_THF_410_Vito.d:106","Willst du auch Soldat werden?","Do you want to become a soldier, too?","","True","THF_410_DIFFICULT_07_07","",""
 "Scripts/Content/Story/Missions/DIA_THF_410_Vito.d:108","Das geht dich nichts an.","That's none of your business.","","True","THF_410_Vito_DIFFICULT_Info.THF_410_Vito_DIFFICULT.THF_410_Vito_DIFFICULT_NOBUSINESS","AI_AddChoice",""
 "Scripts/Content/Story/Missions/DIA_THF_410_Vito.d:109","Nein, ich will nur in die Bergfestung.","No, I just want to get into the mountain fort.","","True","THF_410_Vito_DIFFICULT_Info.THF_410_Vito_DIFFICULT.THF_410_Vito_DIFFICULT_NO","AI_AddChoice",""

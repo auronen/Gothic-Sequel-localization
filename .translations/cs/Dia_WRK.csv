@@ -327,6 +327,8 @@
 "Scripts/Content/Story/Missions/DIA_WRK_205_Ramirez.d:278","Sag mal, was machst du eigentlich mit dem ganzen Fleisch? Ich habe keine Vorräte mehr!","Pověz, co vlastně děláš se vším tím masem? Ze zásob mi už nic nezbylo!","","","OUMULTI_RAMIREZTRADE_NOMOREMUTTON_09_00","",""
 "Scripts/Content/Story/Missions/DIA_WRK_205_Ramirez.d:243","Hier habe ich fünfundzwanzig Pfeile für dich.","Tady, mám pro tebe pětadvacet šípů.","","","WRK_205_TRADE_10_15_01","",""
 "Scripts/Content/Story/Missions/DIA_WRK_205_Ramirez.d:244","Gut, ich gebe dir fünfzig Stücke Fleisch dafür.","Dobře, dám ti za ně padesát kusů masa.","","","WRK_205_TRADE_10_09_02","",""
+"Scripts/Content/Story/Missions/DIA_WRK_205_Ramirez.d:243","Hier habe ich fünfundzwanzig Pfeile für dich.","","","","WRK_205_TRADE_25_15_01","",""
+"Scripts/Content/Story/Missions/DIA_WRK_205_Ramirez.d:244","Gut, ich gebe dir fünfzig Stücke Fleisch dafür.","","","","WRK_205_TRADE_25_09_02","",""
 "Scripts/Content/Story/Missions/DIA_WRK_205_Ramirez.d:266","Hier habe ich fünfzig Pfeile für dich.","Tady pro tebe mám padesát šípů.","","","WRK_205_TRADE_50_15_01","",""
 "Scripts/Content/Story/Missions/DIA_WRK_205_Ramirez.d:267","Gut, ich gebe dir hundert Stücke Fleisch dafür.","Dobře, dám ti za to sto kusů masa.","","","WRK_205_TRADE_50_09_02","",""
 "Scripts/Content/Story/Missions/DIA_WRK_205_Ramirez.d:300","Gibt's was Neues?","Je něco nového?","","","Wrk_205_Ramirez_NEWS.description","",""

@@ -29,6 +29,7 @@
 "Scripts/Content/Story/Missions/DIA_KDF_1102_Morogh.d:217","Welche Zutaten brauchst du?","Какие ингредиенты тебе нужны?","","False","KDF_1102_Morogh_INGREDENCIA.description","",""
 "Scripts/Content/Story/Missions/DIA_KDF_1102_Morogh.d:229","Welche Zutaten brauchst du?","Какие ингредиенты тебе нужны?","","False","KDF_1102_INGREDENCIA_15_01","",""
 "Scripts/Content/Story/Missions/DIA_KDF_1102_Morogh.d:232","Ich habe jetzt zu tun. Und komm nicht ohne die ausreichende Menge wieder!","Вот список того, что мне нужно.","","False","KDF_1102_INGREDENCIA_14_02","",""
+"Scripts/Content/Story/Missions/DIA_KDF_1102_Morogh.d:232","Ich habe jetzt zu tun. Und komm nicht ohne die ausreichende Menge wieder!","А теперь я должен вернуться к своим делам. Возвращайся только когда достанешь всё до единого ингредиента!","","False","KDF_1102_INGREDENCIA_14_03","",""
 "Scripts/Content/Story/Missions/DIA_KDF_1102_Morogh.d:250","Wer ist dein Lieferant?","Кто приносит тебе ингредиенты?","","False","KDF_1102_Morogh_RYAN.description","",""
 "Scripts/Content/Story/Missions/DIA_KDF_1102_Morogh.d:262","Wer ist dein Lieferant?","Кто приносит тебе ингредиенты?","","False","KDF_1102_RYAN_15_01","",""
 "Scripts/Content/Story/Missions/DIA_KDF_1102_Morogh.d:263","Ein Kerl namens Ryan. Bisher war er zuverlässig aber er sollte längst wieder hier sein.","Парень по имени Райан. До недавнего я мог на него положиться, однако он все ещё не вернулся.","","False","KDF_1102_RYAN_14_02","",""
@@ -38,4 +39,3 @@
 "Scripts/Content/Story/Missions/DIA_KDF_1102_Morogh.d:300","Schön, schön. Dann kann ich meine Forschungen weiterführen.","Очень хорошо. Наконец-то я смогу продолжить свои исследования.","","False","KDF_1102_SUCCESS_14_02","",""
 "Scripts/Content/Story/Missions/DIA_KDF_1102_Morogh.d:301","War noch was? Ach so ja, ich werde erwähnen das du ganz brauchbar bist.","Тебе что-то ещё нужно было? Ах да, конечно. Ты был очень полезен.","","False","KDF_1102_SUCCESS_14_03","",""
 "Scripts/Content/Story/Missions/DIA_KDF_1103_Nereus.d:51","Störe mich nicht bei meinen Untersuchungen.","Не отвлекай меня от исследований!","","False","KDF_1103_Nereus_WELCOME_00_01","",""
-"Scripts/Content/Story/Missions/DIA_KDF_1102_Morogh.d:232","Ich habe jetzt zu tun. Und komm nicht ohne die ausreichende Menge wieder!","А теперь я должен вернуться к своим делам. Возвращайся только когда достанешь всё до единого ингредиента!","","False","KDF_1102_INGREDENCIA_14_03","",""

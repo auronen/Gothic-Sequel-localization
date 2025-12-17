@@ -29,6 +29,7 @@
 "Scripts/Content/Story/Missions/DIA_KDF_1102_Morogh.d:217","Welche Zutaten brauchst du?","Jaké přísady potřebuješ?","","","KDF_1102_Morogh_INGREDENCIA.description","",""
 "Scripts/Content/Story/Missions/DIA_KDF_1102_Morogh.d:229","Welche Zutaten brauchst du?","Jaké přísady potřebuješ?","","","KDF_1102_INGREDENCIA_15_01","",""
 "Scripts/Content/Story/Missions/DIA_KDF_1102_Morogh.d:232","Ich habe jetzt zu tun. Und komm nicht ohne die ausreichende Menge wieder!","Tady je seznam věcí, které potřebuji.","","False","KDF_1102_INGREDENCIA_14_02","",""
+"Scripts/Content/Story/Missions/DIA_KDF_1102_Morogh.d:232","Ich habe jetzt zu tun. Und komm nicht ohne die ausreichende Menge wieder!","Teď mám co na práci. A nevracej se bez potřebného množství!","","False","KDF_1102_INGREDENCIA_14_03","",""
 "Scripts/Content/Story/Missions/DIA_KDF_1102_Morogh.d:250","Wer ist dein Lieferant?","Kdo je tvůj dodavatel?","","","KDF_1102_Morogh_RYAN.description","",""
 "Scripts/Content/Story/Missions/DIA_KDF_1102_Morogh.d:262","Wer ist dein Lieferant?","Kdo je tvůj dodavatel?","","","KDF_1102_RYAN_15_01","",""
 "Scripts/Content/Story/Missions/DIA_KDF_1102_Morogh.d:263","Ein Kerl namens Ryan. Bisher war er zuverlässig aber er sollte längst wieder hier sein.","Chlápek jménem Ryan. Doposud byl spolehlivý, ale už tu dávno měl být.","","","KDF_1102_RYAN_14_02","",""
@@ -38,4 +39,3 @@
 "Scripts/Content/Story/Missions/DIA_KDF_1102_Morogh.d:300","Schön, schön. Dann kann ich meine Forschungen weiterführen.","Pěkné, pěkné. Teď můžu pokračovat ve svém výzkumu.","","","KDF_1102_SUCCESS_14_02","",""
 "Scripts/Content/Story/Missions/DIA_KDF_1102_Morogh.d:301","War noch was? Ach so ja, ich werde erwähnen das du ganz brauchbar bist.","Ještě něco? Ach ano, zmíním se, že jsi byl užitečný.","","","KDF_1102_SUCCESS_14_03","",""
 "Scripts/Content/Story/Missions/DIA_KDF_1103_Nereus.d:51","Störe mich nicht bei meinen Untersuchungen.","Neruš mě při mém bádání.","","","KDF_1103_Nereus_WELCOME_00_01","",""
-"Scripts/Content/Story/Missions/DIA_KDF_1102_Morogh.d:232","Ich habe jetzt zu tun. Und komm nicht ohne die ausreichende Menge wieder!","Teď mám co na práci. A nevracej se bez potřebného množství!","","False","KDF_1102_INGREDENCIA_14_03","",""

@@ -327,6 +327,8 @@
 "Scripts/Content/Story/Missions/DIA_WRK_205_Ramirez.d:278","Sag mal, was machst du eigentlich mit dem ganzen Fleisch? Ich habe keine Vorräte mehr!","Dime, ¿qué haces con toda esa carne? ¡No me queda más provisiones!","","True","OUMULTI_RAMIREZTRADE_NOMOREMUTTON_09_00","",""
 "Scripts/Content/Story/Missions/DIA_WRK_205_Ramirez.d:243","Hier habe ich fünfundzwanzig Pfeile für dich.","Toma, tengo veinticinco flechas para ti.","","True","WRK_205_TRADE_10_15_01","",""
 "Scripts/Content/Story/Missions/DIA_WRK_205_Ramirez.d:244","Gut, ich gebe dir fünfzig Stücke Fleisch dafür.","Bien, te daré 50 trozos de carne a cambio.","","True","WRK_205_TRADE_10_09_02","",""
+"Scripts/Content/Story/Missions/DIA_WRK_205_Ramirez.d:243","Hier habe ich fünfundzwanzig Pfeile für dich.","","","","WRK_205_TRADE_25_15_01","",""
+"Scripts/Content/Story/Missions/DIA_WRK_205_Ramirez.d:244","Gut, ich gebe dir fünfzig Stücke Fleisch dafür.","","","","WRK_205_TRADE_25_09_02","",""
 "Scripts/Content/Story/Missions/DIA_WRK_205_Ramirez.d:266","Hier habe ich fünfzig Pfeile für dich.","Toma, tengo cincuenta flechas para ti.","","True","WRK_205_TRADE_50_15_01","",""
 "Scripts/Content/Story/Missions/DIA_WRK_205_Ramirez.d:267","Gut, ich gebe dir hundert Stücke Fleisch dafür.","Bien, te daré cien trozos de carne a cambio.","","True","WRK_205_TRADE_50_09_02","",""
 "Scripts/Content/Story/Missions/DIA_WRK_205_Ramirez.d:300","Gibt's was Neues?","¿Alguna novedad?","","True","Wrk_205_Ramirez_NEWS.description","",""
