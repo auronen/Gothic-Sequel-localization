@@ -151,7 +151,7 @@ instance PAL_1029_EXIT(C_Info)
 
 func int PAL_1029_EXIT_Condition()
 {
-	return FALSE;
+	return TRUE;
 };
 
 func void PAL_1029_EXIT_Info()
