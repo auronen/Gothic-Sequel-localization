@@ -107,7 +107,7 @@
 "Scripts/Content/AI/Test_Skripts/CharacterHelper.d:2009","...fürs Bogenmachen","...для виготовлення луків","","False","CH_Training_Equipment_Info.CH_Training_Equipment.CH_Training_Equipment_BOWMAKER","AI_AddChoice",""
 "Scripts/Content/AI/Test_Skripts/CharacterHelper.d:2013","...fürs Runenmachen","...для створення рун","","False","CH_Training_Equipment_Info.CH_Training_Equipment.CH_Training_Equipment_THAUMATURGY","AI_AddChoice",""
 "Scripts/Content/AI/Test_Skripts/CharacterHelper.d:2017","...für Alchemie","...для алхімії","","False","CH_Training_Equipment_Info.CH_Training_Equipment.CH_Training_Equipment_ALCHEMY","AI_AddChoice",""
-"Scripts/Content/AI/Test_Skripts/CharacterHelper.d:2021","...fürs Kochen","...для кухарства","","False","CH_Training_Equipment_Info.CH_Training_Equipment.CH_Training_Equipment_COOK","AI_AddChoice",""
+"Scripts/Content/AI/Test_Skripts/CharacterHelper.d:2021","...fürs Kochen","...для куховарства","","False","CH_Training_Equipment_Info.CH_Training_Equipment.CH_Training_Equipment_COOK","AI_AddChoice",""
 "Scripts/Content/AI/Test_Skripts/CharacterHelper.d:2025","...fürs Schmieden","...для ковальства","","False","CH_Training_Equipment_Info.CH_Training_Equipment.CH_Training_Equipment_SMITH","AI_AddChoice",""
 "Scripts/Content/AI/Test_Skripts/PerceptionTestmodell.d:9","Perception_Testmodell","Testmodell сприйняття","","False","Perception_Testmodell.name","",""
 "Scripts/Content/AI/Test_Skripts/Protypes.d:8","APrototype","Прототип A","","False","APrototype.name","",""
