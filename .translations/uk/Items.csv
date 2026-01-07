@@ -86,7 +86,7 @@
 "Scripts/Content/Items/Food.d:384","Darf in keiner Speise fehlen!","Незамінна річ у будь-якій страві!","","False","ItMi_Salt.text[0]","",""
 "Scripts/Content/Items/Melee_Weapons.d:821","Rostiges Schwert","Іржавий меч","","False","ItMw_RustySword.name","",""
 "Scripts/Content/Items/Melee_Weapons.d:852","Nagelkeule","Шипована булава","","False","ItMw_Nailmace.name","",""
-"Scripts/Content/Items/Melee_Weapons.d:883","Verwitterte Axt","Пошарпана сокира","","False","ItMw_WitheredAxe.name","",""
+"Scripts/Content/Items/Melee_Weapons.d:883","Verwitterte Axt","Стара сокира","","False","ItMw_WitheredAxe.name","",""
 "Scripts/Content/Items/Melee_Weapons.d:914","schartiger Streitkolben","Пощерблена булава","","False","ItMw_NotchedMace.name","",""
 "Scripts/Content/Items/Melee_Weapons.d:1014","Nur Milizsoldaten tragen diese Art","Тільки ополченці носять такий тип","","False","ItMw_MilitiaSword.text[0]","",""
 "Scripts/Content/Items/Melee_Weapons.d:1015","der Langschwerter.","довгих мечів.","","False","ItMw_MilitiaSword.text[1]","",""
