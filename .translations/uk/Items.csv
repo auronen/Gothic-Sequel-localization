@@ -274,7 +274,7 @@
 "Scripts/Content/Items/MissionItems_1.d:576","Ein wirklich übelriechendes","Справді смердюча","","False","ItMi_StinkingSalt.text[0]","",""
 "Scripts/Content/Items/MissionItems_1.d:577","bräunliches Salz.","коричнева сіль.","","False","ItMi_StinkingSalt.text[1]","",""
 "Scripts/Content/Items/MissionItems_1.d:589","alte Rezeptur","старий рецепт","","False","ItAr_ScrollHealPossessed.name","",""
-"Scripts/Content/Items/MissionItems_1.d:599","versiegelte Schriftrolle","запечатана сувій","","False","ItAr_ScrollHealPossessed.description","",""
+"Scripts/Content/Items/MissionItems_1.d:599","versiegelte Schriftrolle","запечатаний сувій","","False","ItAr_ScrollHealPossessed.description","",""
 "Scripts/Content/Items/MissionItems_1.d:603","Sie ist versiegelt, aber","Він запечатаний, але","","False","ItAr_ScrollHealPossessed.text[0]","",""
 "Scripts/Content/Items/MissionItems_1.d:604","es scheint die Rezeptur zu","схоже, це саме той рецепт,","","False","ItAr_ScrollHealPossessed.text[1]","",""
 "Scripts/Content/Items/MissionItems_1.d:605","sein die Talamon sucht","який шукає Таламон.","","False","ItAr_ScrollHealPossessed.text[2]","",""
