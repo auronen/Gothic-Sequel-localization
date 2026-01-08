@@ -1,5 +1,5 @@
 "location","source","target","id","fuzzy","context","translator_comments","developer_comments"
-"Scripts/System/Menu/Menu_Defines.d:69","Einige Einstellungen werden erst nach einem Neustart aktiv","Деякі зміни набудуть чинності після перезавантаження комп’ютера","","False","MENU_TEXT_NEEDS_RESTART","",""
+"Scripts/System/Menu/Menu_Defines.d:69","Einige Einstellungen werden erst nach einem Neustart aktiv","Деякі зміни набудуть чинності після перезапуску гри","","False","MENU_TEXT_NEEDS_RESTART","",""
 "Scripts/System/Menu/Menu_Defines.d:72","Taste ENTF zum Löschen und RETURN zum definieren","Клавіша ENTER для видалення та DEL для визначення","","False","CTRL_KEYDEF","",""
 "Scripts/System/Menu/Menu_Defines.d:73","Gewünschte Taste betätigen.","Натисніть потрібну клавішу.","","False","CTRL_KEYDEF_INFO","",""
 "Scripts/System/Menu/Menu_Defines.d:74","nein|ja","ні|так","","False","MENU_NO_YES","",""
