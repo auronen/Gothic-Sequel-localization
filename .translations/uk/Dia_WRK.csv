@@ -114,7 +114,7 @@
 "Scripts/Content/Story/Missions/DIA_WRK_200_Gotmar.d:802","Was mache ich jetzt mit dem Roheisen?","І що мені тепер з нею робити?","","False","Info_Gotmar_FIRE.description","",""
 "Scripts/Content/Story/Missions/DIA_WRK_200_Gotmar.d:819","Was mache ich jetzt mit dem Roheisen?","І що мені тепер з нею робити?","","False","Info_Gotmar_FIRE_15_01","",""
 "Scripts/Content/Story/Missions/DIA_WRK_200_Gotmar.d:820","Bevor du das Eisen schmieden kannst, muss es zum Glühen gebracht werden.","Перш ніж кувати залізо, його треба розжарити.","","False","Info_Gotmar_FIRE_04_02","",""
-"Scripts/Content/Story/Missions/DIA_WRK_200_Gotmar.d:821","Geh rüber zum Schmiedefeuer und fache es mit dem Blasebalg an.","Підійди до горна та роздмухай вогонь міхом.Так ти зможеш розжарити заготовку.","","False","Info_Gotmar_FIRE_04_03","",""
+"Scripts/Content/Story/Missions/DIA_WRK_200_Gotmar.d:821","Geh rüber zum Schmiedefeuer und fache es mit dem Blasebalg an.","Підійди до горна та роздмухай вогонь міхом.","","False","Info_Gotmar_FIRE_04_03","",""
 "Scripts/Content/Story/Missions/DIA_WRK_200_Gotmar.d:822","Dann kannst du das Roheisen zum Glühen bringen.","Так ти зможеш розжарити заготовку.","","False","Info_Gotmar_FIRE_04_04","",""
 "Scripts/Content/Story/Missions/DIA_WRK_200_Gotmar.d:840","Ich habe das Roheisen erhitzt, was jetzt?","Заготовка розжарена. Що далі?","","False","Info_Gotmar_HOTIRON.description","",""
 "Scripts/Content/Story/Missions/DIA_WRK_200_Gotmar.d:861","Ich habe das Roheisen erhitzt, was jetzt?","Заготовка розжарена. Що далі?","","False","Info_Gotmar_HOTIRON_15_01","",""
