@@ -124,7 +124,7 @@
 "Scripts/Content/Story/B/B_AssignAmbientInfos_MIL_7.d:169","Berengar, der Hauptmann. Aber mit jemanden wie dir wird er nicht reden. Ihm untersteht Leutnant Brutus.","Беренгар, он тут главный. Но с кем-то вроде тебя он разговаривать точно не будет. Лейтенант Брутус у него в подчинении.","","False","Infos_Mil_7_BOSS_Info_07_02","",""
 "Scripts/Content/Story/B/B_AssignAmbientInfos_MIL_9.d:32","Wie läufts?","Как идут дела?","","False","Infos_Mil_9_HI.description","",""
 "Scripts/Content/Story/B/B_AssignAmbientInfos_MIL_9.d:42","Wie läufts?","Как идут дела?","","False","Infos_Mil_9_HI_Info_15_01","",""
-"Scripts/Content/Story/B/B_AssignAmbientInfos_MIL_9.d:43","(brummig) jaja, läuft gut.","(ворчливо) да всё неплохо.","","False","Infos_Mil_9_HI_Info_06_02","",""
+"Scripts/Content/Story/B/B_AssignAmbientInfos_MIL_9.d:43","(brummig) jaja, läuft gut.","(ворчливо) Да всё неплохо.","","False","Infos_Mil_9_HI_Info_06_02","",""
 "Scripts/Content/Story/B/B_AssignAmbientInfos_MIL_9.d:55","Übles Essen hier! Willst du dir etwas Silber verdienen?","А здесь неплохо кормят! Хочешь подзаработать немного серебра?","","False","Info_Mil_9_FOODGOOD.description","",""
 "Scripts/Content/Story/B/B_AssignAmbientInfos_MIL_9.d:72","Übles Essen hier! Willst du dir etwas Silber verdienen?","А здесь неплохо кормят! Хочешь подзаработать немного серебра?","","False","Info_Mil_9_FOODGOOD_15_01","",""
 "Scripts/Content/Story/B/B_AssignAmbientInfos_MIL_9.d:76","Was muss ich dafür machen?","Что я должен для этого сделать?","","False","Info_Mil_9_FOODGOOD_09_03","",""
