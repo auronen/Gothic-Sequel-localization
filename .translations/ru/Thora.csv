@@ -1,6 +1,6 @@
 "location","source","target","id","fuzzy","context","translator_comments","developer_comments"
 "Scripts/Content/Story/Missions/DIA_AMZ_900_Thora.d:52","Verdammt, woher kommst du so plötzlich? Wer bist du?","Откуда ты так внезапно появился? Кто ты?","","False","AMZ_900_GREETING_16_01","",""
-"Scripts/Content/Story/Missions/DIA_AMZ_900_Thora.d:53","Beinahe hätte ich Dich niedergeschlagen!","Я тебя чуть не ударила!","","False","AMZ_900_GREETING_16_02","",""
+"Scripts/Content/Story/Missions/DIA_AMZ_900_Thora.d:53","Beinahe hätte ich Dich niedergeschlagen!","Я тебя чуть не прибила!","","False","AMZ_900_GREETING_16_02","",""
 "Scripts/Content/Story/Missions/DIA_AMZ_900_Thora.d:63","Immer langsam! Sag mir doch erstmal wer du bist.","Спокойно! Лучше скажи мне, кто ты.","","False","AMZ_900_Thora_WHO.description","",""
 "Scripts/Content/Story/Missions/DIA_AMZ_900_Thora.d:79","Immer langsam! Sag mir doch erstmal wer du bist.","Спокойно! Лучше скажи мне, кто ты.","","False","AMZ_900_Thora_WHO_Info_15_01","",""
 "Scripts/Content/Story/Missions/DIA_AMZ_900_Thora.d:80","Ich bin Thora. Und ich frage mich, wo du so plötzlich herkommst!","Меня зовут Тора. И я не понимаю, откуда ты так неожиданно взялся!","","False","AMZ_900_Thora_WHO_Info_16_02","",""
