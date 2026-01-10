@@ -9,7 +9,7 @@
 "Scripts/Content/Story/Missions/DIA_PC_Thief.d:94","Ohne das magische Erz bekommt der König keine Waffen mehr. Und ohne Waffen ...","Без магічної руди король більше не зможе виготовляти зброю. А без зброї...","","False","PC_Thief_FLEE_11_03","",""
 "Scripts/Content/Story/Missions/DIA_PC_Thief.d:95","...kann er den Krieg gegen die Orcs nicht gewinnen.","...він не зможе виграти війну проти орків.","","False","PC_Thief_FLEE_15_04","",""
 "Scripts/Content/Story/Missions/DIA_PC_Thief.d:96","Du sagst es. Die Orks ziehen seitdem plündernd durchs Königreich.","Ти правий. Орки з того часу грабують королівство.","","False","PC_Thief_FLEE_11_05","",""
-"Scripts/Content/Story/Missions/DIA_PC_Thief.d:97","Die Minenkolonie haben sie komplett umstellt.","Вони повністю оточили гірничу колонію.","","False","PC_Thief_FLEE_11_06","",""
+"Scripts/Content/Story/Missions/DIA_PC_Thief.d:97","Die Minenkolonie haben sie komplett umstellt.","Вони повністю оточили Гірничу колонію.","","False","PC_Thief_FLEE_11_06","",""
 "Scripts/Content/Story/Missions/DIA_PC_Thief.d:110","Ich habe einige Fragen...","У мене є кілька запитань...","","False","PC_Thief_QUESTION.description","",""
 "Scripts/Content/Story/Missions/DIA_PC_Thief.d:127","Ich habe einige Fragen...","У мене є кілька запитань...","","False","PC_Thief_QUESTION_15_01","",""
 "Scripts/Content/Story/Missions/DIA_PC_Thief.d:128","Lass hören.","Кажи вже.","","False","PC_Thief_QUESTION_11_02","",""
