@@ -142,6 +142,6 @@
 "Scripts/System/Menu/Menu_Status.d:310","Feuer","від Вогню","","False","MENU_ITEM_ARMOR_3_TITLE.text[0]","",""
 "Scripts/System/Menu/Menu_Status.d:318","Magie","від Магії","","False","MENU_ITEM_ARMOR_4_TITLE.text[0]","",""
 "Scripts/System/Menu/Menu_Status.d:356","Waffentalente / Treffer-Chance:","Бойові вміння / Критичні влучання:","","False","MENU_ITEM_TALENTS_WEAPON_HEADING.text[0]","",""
-"Scripts/System/Menu/Menu_Status.d:363","Diebestalente / Erfolgs-Chance:","Злодійські вміння / Шанс невдачі:","","False","MENU_ITEM_TALENTS_THIEF_HEADING.text[0]","",""
+"Scripts/System/Menu/Menu_Status.d:363","Diebestalente / Erfolgs-Chance:","Злодійські вміння / Шанс успіху:","","False","MENU_ITEM_TALENTS_THIEF_HEADING.text[0]","",""
 "Scripts/System/Menu/Menu_Status.d:370","Magie-Talente:","Магічні вміння:","","False","MENU_ITEM_TALENTS_MAGIC_HEADING.text[0]","",""
-"Scripts/System/Menu/Menu_Status.d:377","Handwerks-Talente:","Ремісничі вміння:","","False","MENU_ITEM_TALENTS_WORK_HEADING.text[0]","",""
+"Scripts/System/Menu/Menu_Status.d:377","Handwerks-Talente:","Ремесла:","","False","MENU_ITEM_TALENTS_WORK_HEADING.text[0]","",""
