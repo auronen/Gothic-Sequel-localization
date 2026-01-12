@@ -99,7 +99,7 @@
 "Scripts/Content/Story/SVM.d:1305","Keine Magie in der Arena. Das ist Gesetz!","Ніякої магії на арені. Це закон!","","False","SVM_10_NoMagicInArena","",""
 "Scripts/Content/Story/SVM.d:1306","Keine Fernkampfwaffen in der Arena! Weg damit!","Жодної стрілецької зброї на арені! Прибери це!","","False","SVM_10_NoBowInArena","",""
 "Scripts/Content/Story/SVM.d:1308","Punkt für dich!","Бал у твою користь!","","False","SVM_10_PointForYou","",""
-"Scripts/Content/Story/SVM.d:1311","Punkt für mich!","Бал на мою користь!","","False","SVM_10_PointForMe","",""
+"Scripts/Content/Story/SVM.d:1311","Punkt für mich!","Очко на мою користь!","","False","SVM_10_PointForMe","",""
 "Scripts/Content/Story/SVM.d:1313","So läuft das nicht! Erst seh ich das Silber, dann siehst du deine Ware!","Так справа не піде! Спершу я бачу срібло, а потім ти отримуєш свій товар!","","False","SVM_10_NotEnoughSilver","",""
 "Scripts/Content/Story/SVM.d:1314","BUUHHH!!!!","БУУУУ!!!","","False","SVM_10_Buh","",""
 "Scripts/Content/Story/SVM.d:1315","Seht denn ihr seid blind.","Дивіться, бо ви сліпі.","","False","SVM_10_Possessed1","",""
