@@ -403,7 +403,7 @@
 "Scripts/Content/Story/Text.d:608","Karte der Kolonie","Карта Колонии","","False","NAME_WorldMap","",""
 "Scripts/Content/Story/Text.d:608","Müffelsalz","Затхлая соль","","False","NAME_StinkingSalt","",""
 "Scripts/Content/Story/Text.d:613","Kurzbogen","Короткий лук","","False","NAME_ShortBow","",""
-"Scripts/Content/Story/Text.d:614","Reiterbogen","Лук конника","","False","NAME_RiderBow","",""
+"Scripts/Content/Story/Text.d:614","Reiterbogen","Лук всадника","","False","NAME_RiderBow","",""
 "Scripts/Content/Story/Text.d:615","Feldbogen","Полевой лук","","False","NAME_FieldBow","",""
 "Scripts/Content/Story/Text.d:616","Jagdbogen","Охотничий лук","","False","NAME_HuntingBow","",""
 "Scripts/Content/Story/Text.d:617","Langbogen","Длинный лук","","False","NAME_LongBow","",""
