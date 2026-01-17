@@ -116,7 +116,7 @@
 "Scripts/Content/Story/Text.d:216","Heilung","Healing","","True","NAME_Heal","",""
 "Scripts/Content/Story/Text.d:218","Dämon beschwören","Summon demon","","True","NAME_Summondemon","",""
 "Scripts/Content/Story/Text.d:219","Skelette beschwören","Summon Skeletons","","True","NAME_Summonskeleton","",""
-"Scripts/Content/Story/Text.d:221","Windfaust","Wind Fist","","True","NAME_Windfist","",""
+"Scripts/Content/Story/Text.d:221","Windfaust","Fist of Wind","","False","NAME_Windfist","",""
 "Scripts/Content/Story/Text.d:222","Telekinese","Telekinesis","","True","NAME_Telekinesis","",""
 "Scripts/Content/Story/Text.d:223","Charme","Charm","","True","NAME_Charm","",""
 "Scripts/Content/Story/Text.d:224","Schlaf","Sleep","","True","NAME_Sleep","",""
