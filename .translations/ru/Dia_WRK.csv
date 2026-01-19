@@ -564,7 +564,7 @@
 "Scripts/Content/Story/Missions/DIA_WRK_225_Agon.d:130","Zeig mir deine Ware.","Покажи мне свои товары.","","False","WRK_225_TRADE_15_01","",""
 "Scripts/Content/Story/Missions/DIA_WRK_225_Agon.d:142","Du wurdest bestohlen?","Тебя обокрали?","","False","WRK_225_Agon_STOLEN.description","",""
 "Scripts/Content/Story/Missions/DIA_WRK_225_Agon.d:157","Du wurdest bestohlen?","Тебя обокрали?","","False","WRK_225_STOLEN_15_01","",""
-"Scripts/Content/Story/Missions/DIA_WRK_225_Agon.d:158","Ja das richtig. Aber was hast du damit zu tun?","Да, верно. Тебе то что с того?","","False","WRK_225_STOLEN_00_02","",""
+"Scripts/Content/Story/Missions/DIA_WRK_225_Agon.d:158","Ja das richtig. Aber was hast du damit zu tun?","Да, верно. Тебе-то что с того?","","False","WRK_225_STOLEN_00_02","",""
 "Scripts/Content/Story/Missions/DIA_WRK_225_Agon.d:159","Cassian schickt mich. Ich bin der, der deine Sachen zurückholt","Меня прислал Кассиан. Я должен вернуть твои вещи.","","False","WRK_225_STOLEN_15_03","",""
 "Scripts/Content/Story/Missions/DIA_WRK_225_Agon.d:160","Das wurde ja auch Zeit, das sich endlich mal jemand der Sache annimmt.","Ну наконец-то кто-то позаботится об этом.","","False","WRK_225_STOLEN_00_04","",""
 "Scripts/Content/Story/Missions/DIA_WRK_225_Agon.d:161","Es war Huldrych! Er hat mich bestohlen! Mich! Ich habe ihn gesehen! Mit meinen eigenen Augen!","Это был Ульрих! Он обокрал меня! Меня! Я видел его! Своими глазами видел!","","False","WRK_225_STOLEN_00_05","",""
