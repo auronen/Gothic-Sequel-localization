@@ -9,7 +9,7 @@
 "Scripts/Content/AI/Monster/Mst_Demon.d:8","Flammendämon","Огненный демон","","False","Mst_Default_Demon.name","",""
 "Scripts/Content/AI/Monster/Mst_DemonLord.d:8","Dämonenlord","Демон-лорд","","False","Mst_Default_DemonLord.name","",""
 "Scripts/Content/AI/Monster/Mst_Waran.d:8","Waran","Варан","","False","Mst_Default_Waran.name","",""
-"Scripts/Content/AI/Monster/Mst_FireWaran.d:8","Feuerwaran","Огненный ящер","","False","Mst_Default_FireWaran.name","",""
+"Scripts/Content/AI/Monster/Mst_FireWaran.d:8","Feuerwaran","Огненный варан","","False","Mst_Default_FireWaran.name","",""
 "Scripts/Content/AI/Monster/Mst_Waran_Demon.d:8","Waran-Dämon","Демонический варан","","False","Mst_Default_WaranDemon.name","",""
 "Scripts/Content/AI/Monster/Mst_Golem.d:8","Golem","Голем","","False","Mst_Default_Golem.name","",""
 "Scripts/Content/AI/Monster/Mst_Golem.d:99","Stein Golem","Каменный голем","","False","StoneGolem.name","",""
