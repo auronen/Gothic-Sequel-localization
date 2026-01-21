@@ -211,7 +211,7 @@
 "Scripts/Content/Story/B/B_AssignAmbientInfos_WRK_2.d:55","Wie siehts im Lager aus?","Как обстоят дела в лагере?","","False","Infos_Wrk_2_CAMP.description","",""
 "Scripts/Content/Story/B/B_AssignAmbientInfos_WRK_2.d:65","Wie siehts im Lager aus?","Как обстоят дела в лагере?","","False","Infos_Wrk_2_CAMP_Info_15_01","",""
 "Scripts/Content/Story/B/B_AssignAmbientInfos_WRK_2.d:66","Die Miliz beschützt alle die arbeiten.","Ополчение защищает всех, кто работает.","","False","Infos_Wrk_2_CAMP_Info_01_02","",""
-"Scripts/Content/Story/B/B_AssignAmbientInfos_WRK_2.d:67","Aber es gibt auch viele die nicht arbeiten. Die sollen selber zusehen wie sie klarkommen.","Но есть и многие, кто не работает. Пускай сами разбираются, как им быть.","","False","Infos_Wrk_2_CAMP_Info_01_03","",""
+"Scripts/Content/Story/B/B_AssignAmbientInfos_WRK_2.d:67","Aber es gibt auch viele die nicht arbeiten. Die sollen selber zusehen wie sie klarkommen.","Но есть и многие, кто бездельничает. Пускай сами разбираются, как им быть.","","False","Infos_Wrk_2_CAMP_Info_01_03","",""
 "Scripts/Content/Story/B/B_AssignAmbientInfos_WRK_2.d:103","Wer hat hier das Sagen?","Кто здесь главный?","","False","Infos_Wrk_2_BOSS.description","",""
 "Scripts/Content/Story/B/B_AssignAmbientInfos_WRK_2.d:119","Wer hat hier das Sagen?","Кто здесь главный?","","False","Infos_Wrk_2_BOSS_Info_15_01","",""
 "Scripts/Content/Story/B/B_AssignAmbientInfos_WRK_2.d:120","Bromor. Er ist der Baumeister. Sprich mit ihm, wenn du was willst.","Бромор. Он главный строитель. Поговори с ним, если что-то нужно.","","False","Infos_Wrk_2_BOSS_Info_01_02","",""
