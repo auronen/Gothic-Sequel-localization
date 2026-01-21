@@ -14,7 +14,7 @@
 "Scripts/Content/Story/Missions/DIA_PAL_1029_Osraed.d:228","Wieviel?","Сколько?","","False","PAL_1029_Osraed_BRIBE_Info.PAL_1029_Osraed_BRIBE.PAL_1029_Osraed_BRIBE_YES","AI_AddChoice",""
 "Scripts/Content/Story/Missions/DIA_PAL_1029_Osraed.d:229","Nein, du musst mich missverstanden haben!","Это не то, что я имел в виду!","","False","PAL_1029_Osraed_BRIBE_Info.PAL_1029_Osraed_BRIBE.PAL_1029_Osraed_BRIBE_NO","AI_AddChoice",""
 "Scripts/Content/Story/Missions/DIA_PAL_1029_Osraed.d:235","Nein, du musst mich missverstanden haben!","Это не то, что я имел в виду!","","False","PAL_1029_BRIBE_NO_15_01","",""
-"Scripts/Content/Story/Missions/DIA_PAL_1029_Osraed.d:236","Pah! Erst das Maul aufreissen, dann den Schwanz einkneifen.","Болтать только и горазд, тфу!","","False","PAL_1029_BRIBE_NO_06_02","",""
+"Scripts/Content/Story/Missions/DIA_PAL_1029_Osraed.d:236","Pah! Erst das Maul aufreissen, dann den Schwanz einkneifen.","Болтать только и горазд, тьфу!","","False","PAL_1029_BRIBE_NO_06_02","",""
 "Scripts/Content/Story/Missions/DIA_PAL_1029_Osraed.d:243","Wieviel?","Сколько?","","False","PAL_1029_BRIBE_YES_15_01","",""
 "Scripts/Content/Story/Missions/DIA_PAL_1029_Osraed.d:244","100 Silber, darunter läuft nichts!","100 серебряников. И ни монетой меньше!","","False","PAL_1029_BRIBE_YES_06_02","",""
 "Scripts/Content/Story/Missions/DIA_PAL_1029_Osraed.d:258","(100 Silber geben)","(дать 100 серебряных монет)","","False","PAL_1029_Osraed_GIVESILVER.description","",""
