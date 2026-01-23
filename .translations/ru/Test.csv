@@ -78,7 +78,7 @@
 "Scripts/Content/AI/Test_Skripts/CharacterHelper.d:627","ATTRIBUTE: Stärke","Атрибут: сила","","False","CH_Training_STR.description","",""
 "Scripts/Content/AI/Test_Skripts/CharacterHelper.d:643","ZURÜCK","НАЗАД","","False","CH_Training_STR_Info.CH_Training_STR.CH_Training_STR_BACK","AI_AddChoice",""
 "Scripts/Content/AI/Test_Skripts/CharacterHelper.d:644","Stärke (alle restlichen Lernpunkte)","Сила (все оставшиеся очки обучения)","","False","CH_Training_STR_Info.CH_Training_STR.CH_Strength_all","AI_AddChoice",""
-"Scripts/Content/AI/Test_Skripts/CharacterHelper.d:645","Stärke (für beste Nahkampfwaffe)","Сила (для лучшего оружия ближнего боя)","","False","CH_Training_STR_Info.CH_Training_STR.CH_Strength_Weapon","AI_AddChoice",""
+"Scripts/Content/AI/Test_Skripts/CharacterHelper.d:645","Stärke (für beste Nahkampfwaffe)","Сила (для улучшения ближнего боя)","","False","CH_Training_STR_Info.CH_Training_STR.CH_Strength_Weapon","AI_AddChoice",""
 "Scripts/Content/AI/Test_Skripts/CharacterHelper.d:746","ATTRIBUTE: Geschick","Атрибут: ловкость","","False","CH_Training_DEX.description","",""
 "Scripts/Content/AI/Test_Skripts/CharacterHelper.d:761","ZURÜCK","НАЗАД","","False","CH_Training_DEX_Info.CH_Training_DEX.CH_Training_DEX_BACK","AI_AddChoice",""
 "Scripts/Content/AI/Test_Skripts/CharacterHelper.d:762","Geschick (alle restlichen Lernpunkte)","Умение (все оставшиеся очки обучения)","","False","CH_Training_DEX_Info.CH_Training_DEX.CH_Dexterity_all","AI_AddChoice",""
