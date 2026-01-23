@@ -1,5 +1,5 @@
 "location","source","target","id","fuzzy","context","translator_comments","developer_comments"
-"Scripts/Content/Mobsi/MOB_ArenaBench.d:163","(bis zum Kampf warten)","(ждать до боя)","","False","MOB_ARENABENCH1.description","",""
+"Scripts/Content/Mobsi/MOB_ArenaBench.d:163","(bis zum Kampf warten)","(ждать боя)","","False","MOB_ARENABENCH1.description","",""
 "Scripts/Content/Mobsi/MOB_Bed.d:76","Bis zum nächsten Morgen schlafen","Спать до следующего утра","","False","PC_SleepTime_Morning.description","",""
 "Scripts/Content/Mobsi/MOB_Bed.d:103","Bis Mittags schlafen","Спать до полудня","","False","PC_SleepTime_Noon.description","",""
 "Scripts/Content/Mobsi/MOB_Bed.d:130","Bis zum nächsten Abend schlafen","Спать до следующего вечера","","False","PC_SleepTime_Evening.description","",""
