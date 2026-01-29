@@ -62,7 +62,7 @@
 "Scripts/Content/Story/Missions/DIA_THF_401_Huldrych.d:122","Wenn du nichts besseres zu tun hast.","Ну раз тебе больше заняться нечем.","","False","THF_401_YOUTHF_LATER_05_02","",""
 "Scripts/Content/Story/Missions/DIA_THF_401_Huldrych.d:143","Du hast Agon hundert Silberstücke gestohlen!","Ты украл у Агона сто серебряных монет!","","False","THF_401_Huldrych_TOOSLOW.description","",""
 "Scripts/Content/Story/Missions/DIA_THF_401_Huldrych.d:159","Du hast Agon hundert Silberstücke gestohlen!","Ты украл у Агона сто серебряных монет!","","False","THF_401_TOOSLOW_15_01","",""
-"Scripts/Content/Story/Missions/DIA_THF_401_Huldrych.d:160","Wie willst du das beweisen? Selbst wenn ich das Silber hätte, glaubst du ich trage es mit mir herum?","И как ты это собираешься доказать? Ты правда веришь, что я бы носил все эти деньги с собой?","","False","THF_401_TOOSLOW_05_02","",""
+"Scripts/Content/Story/Missions/DIA_THF_401_Huldrych.d:160","Wie willst du das beweisen? Selbst wenn ich das Silber hätte, glaubst du ich trage es mit mir herum?","И как ты это собираешься доказать? Ты правда веришь, что я бы носил все это серебро с собой?","","False","THF_401_TOOSLOW_05_02","",""
 "Scripts/Content/Story/Missions/DIA_THF_401_Huldrych.d:161","Also geh mir nicht auf den Sack!","Не раздражай меня!","","False","THF_401_TOOSLOW_05_03","",""
 "Scripts/Content/Story/Missions/DIA_THF_401_Huldrych.d:163","Ich glaube mit Worten komme ich hier nicht weiter.","Похоже, словами здесь не обойдётся.","","False","THF_401_TOOSLOW_15_04","",""
 "Scripts/Content/Story/Missions/DIA_THF_401_Huldrych.d:197","Lass mich in Ruhe! Geh jemand anders auf'n Sack!","Оставь меня в покое! Иди мешай кому другому!","","False","THF_401_AFTERBEAT_05_01","",""
