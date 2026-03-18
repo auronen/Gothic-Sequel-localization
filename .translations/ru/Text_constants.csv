@@ -783,7 +783,7 @@
 "Scripts/Content/_intern/Constants.d:418","Annehmen","Принять","","False","STR_INFO_TRADE_ACCEPT","",""
 "Scripts/Content/_intern/Constants.d:419","Ablehnen","Отказ","","False","STR_INFO_TRADE_RESET","",""
 "Scripts/Content/_intern/Constants.d:420","Zurück","Назад","","False","STR_INFO_TRADE_EXIT","",""
-"","Silber: ","","","","NAME_Currency","",""
+"","Silber: ","Серебро: ","","False","NAME_Currency","",""
 "Scripts/Content/Story/Text.d:1124"," kaufen (","купить (","","True","NAME_BuyPrefix","",""
 "Scripts/Content/Story/Text.d:1125"," Silber)","Серебро )","","True","NAME_BuyPostfix","",""
 "Scripts/Content/Story/Text.d:1127"," Silber)"," руды)","","True","NAME_BuyArmorPostfix","",""
