@@ -63,5 +63,5 @@
 "Scripts/Content/AI/Monster/Mst_UndeadOrcWarrior.d:8","Tempelwächter","Chrámová stráž","","","Mst_Default_UndeadOrcWarrior.name","",""
 "Scripts/Content/AI/Monster/Mst_UndeadOrcWarrior.d:107","Hoher Tempelwächter","Vysoce postavená chrámová stráž","","","UndeadOWH.name","",""
 "Scripts/Content/AI/Monster/Mst_Wolf.d:8","Wolf","Vlk","","","Mst_Default_Wolf.name","",""
-"Scripts/Content/AI/Monster/Mst_Wolf_Demon.d:8","Wolf-Dämon","Démonický démon","","","Mst_Default_WolfDemon.name","",""
+"Scripts/Content/AI/Monster/Mst_Wolf_Demon.d:8","Wolf-Dämon","Démonický vlk","","False","Mst_Default_WolfDemon.name","",""
 "Scripts/Content/AI/Monster/Mst_Zombie.d:8","Zombie","Zombie","","","Mst_Default_Zombie.name","",""
