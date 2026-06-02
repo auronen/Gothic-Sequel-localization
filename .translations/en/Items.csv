@@ -270,7 +270,7 @@
 "Scripts/Content/Items/MissionItems_1.d:541","Kerkerschlüssel","Dungeon Key","","True","ItKe_Jail.name","",""
 "Scripts/Content/Items/MissionItems_1.d:551","Der Schlüssel für die ","The key to the","","True","ItKe_Jail.text[0]","",""
 "Scripts/Content/Items/MissionItems_1.d:552","Kerkerzellen ","Dungeon cells","","True","ItKe_Jail.text[1]","",""
-"Scripts/Content/Items/MissionItems_1.d:568","Müffelsalz","Moffat salt","","True","ItMi_StinkingSalt.name","",""
+"Scripts/Content/Items/MissionItems_1.d:568","Müffelsalz","Smelling salt","","False","ItMi_StinkingSalt.name","",""
 "Scripts/Content/Items/MissionItems_1.d:577","Ein wirklich übelriechendes","A really stinking","","True","ItMi_StinkingSalt.text[0]","",""
 "Scripts/Content/Items/MissionItems_1.d:578","bräunliches Salz.","brown salt.","","True","ItMi_StinkingSalt.text[1]","",""
 "Scripts/Content/Items/MissionItems_1.d:592","alte Rezeptur","Old recipe","","True","ItAr_ScrollHealPossessed.name","",""
