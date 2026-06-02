@@ -251,7 +251,7 @@
 "Scripts/Content/Story/Missions/DIA_MIL_120_Julius.d:51","Die Schmiede sieht verlassen aus!","The smithy looks deserted!","","True","Info_Julius_SMITH_15_01","",""
 "Scripts/Content/Story/Missions/DIA_MIL_120_Julius.d:52","Ja, ja. Den alten Bartok haben sie vor ein paar Tagen abgeholt.","Yeah, yeah. They picked up old Bartok a few days ago.","","True","Info_Julius_SMITH_00_02","",""
 "Scripts/Content/Story/Missions/DIA_MIL_120_Julius.d:53","Abgeholt?","Picked it up?","","True","Info_Julius_SMITH_15_03","",""
-"Scripts/Content/Story/Missions/DIA_MIL_120_Julius.d:54","Er hat die Krankheit. Armer Kerl! Sie haben ihn in das Aussätzigen-Viertel gebracht.","He's got the disease. Poor fellow! They took him to the lepers district.","","True","Info_Julius_SMITH_00_04","",""
+"Scripts/Content/Story/Missions/DIA_MIL_120_Julius.d:54","Er hat die Krankheit. Armer Kerl! Sie haben ihn in das Aussätzigen-Viertel gebracht.","He's got the disease. Poor fellow! They took him to the possessed district.","","True","Info_Julius_SMITH_00_04","",""
 "Scripts/Content/Story/Missions/DIA_MIL_120_Julius.d:66","Wo sind seine Werkzeuge?","Where are his tools?","","True","Info_Julius_CHEST.description","",""
 "Scripts/Content/Story/Missions/DIA_MIL_120_Julius.d:81","Wo sind seine Werkzeuge?","Where are his tools?","","True","Info_Julius_CHEST_15_01","",""
 "Scripts/Content/Story/Missions/DIA_MIL_120_Julius.d:82","Er hat den ganzen Schmiede-Krempel gehütet wie seinen Augapfel.","He's been guarding the whole smithy's crumbs like a peach.","","True","Info_Julius_CHEST_00_02","",""
