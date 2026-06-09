@@ -175,7 +175,7 @@ func void Info_Sylvester_PICKCOSTNO()
 
 		Info_ClearChoices(Info_Sylvester_PICK);
 		Info_AddChoice(Info_Sylvester_PICK, "Vergiss es. Ich bin nicht interessiert!", Info_Sylvester_PICKCOSTNONO);
-		Info_AddChoice(Info_Sylvester_PICK, "Behalt dein Silber. Die Spitzhacke reicht.", Info_Sylvester_PICKCOSTYES);
+		Info_AddChoice(Info_Sylvester_PICK, format!<"Info_Sylvester_PICKCOSTNO.Info_Sylvester_PICKCOSTYES_1">("Behalt dein Silber. Die Spitzhacke reicht."), Info_Sylvester_PICKCOSTYES);
 		Info_AddChoice(Info_Sylvester_PICK, "OK, das Geschäft gilt!", Info_Sylvester_PICKCOSTNOSILVER);
 	}
 	else
@@ -185,7 +185,7 @@ func void Info_Sylvester_PICKCOSTNO()
 
 		Info_ClearChoices(Info_Sylvester_PICK);
 		Info_AddChoice(Info_Sylvester_PICK, "Vergiss es. Ich bin nicht interessiert!", Info_Sylvester_PICKCOSTNONO);
-		Info_AddChoice(Info_Sylvester_PICK, "Die Spitzhacke ist OK. Ich führ dich zur Ader.", Info_Sylvester_PICKCOSTYES);
+		Info_AddChoice(Info_Sylvester_PICK, format!<"Info_Sylvester_PICKCOSTNO.Info_Sylvester_PICKCOSTYES_2">("Die Spitzhacke ist OK. Ich führ dich zur Ader."), Info_Sylvester_PICKCOSTYES);
 	};
 };
 
