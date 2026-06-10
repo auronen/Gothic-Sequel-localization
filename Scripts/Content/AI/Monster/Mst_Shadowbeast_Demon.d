@@ -74,7 +74,7 @@ func void Set_ShadowbeastDemon_Visuals()
 **	Shadowbeast-Dämon													**
 *************************************************************************/
 
-instance ShadowbeastDemon(Mst_Default_Shadowbeast)
+instance ShadowbeastDemon(Mst_Default_ShadowbeastDemon)
 {
 	// -------- primary data --------
 
