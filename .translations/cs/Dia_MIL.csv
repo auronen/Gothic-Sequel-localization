@@ -49,7 +49,7 @@
 "Scripts/Content/Story/Missions/DIA_MIL_101_Wylfern.d:76","Du warst in der Mine?","Byl jsi v dole?","","","MIL_101_HI_15_01","",""
 "Scripts/Content/Story/Missions/DIA_MIL_101_Wylfern.d:77","Ja, das ist richtig. Ich hab bis vor ein paar Wochen in der Mine gearbeitet.","Ano, je to tak. Ještě před pár týdny jsem v dole pracoval.","","","MIL_101_HI_08_02","",""
 "Scripts/Content/Story/Missions/DIA_MIL_101_Wylfern.d:78","Aber dann bekam ich den Auftrag zwei Schürfer zum Lager zu bringen.","Ale pak jsem dostal za úkol přivést dva horníky do tábora.","","","MIL_101_HI_08_03","",""
-"Scripts/Content/Story/Missions/DIA_MIL_101_Wylfern.d:79","Wir haben uns auf den Weg gemacht, aus Vorsicht sind wir Nachts gegangen.","Vydali jsme se na cestu a pro jistotu jsme nechodili v noci.","","","MIL_101_HI_08_04","",""
+"Scripts/Content/Story/Missions/DIA_MIL_101_Wylfern.d:79","Wir haben uns auf den Weg gemacht, aus Vorsicht sind wir Nachts gegangen.","Vydali jsme se na cestu a kvůli bezpečnosti jsme šli v noci.","","False","MIL_101_HI_08_04","",""
 "Scripts/Content/Story/Missions/DIA_MIL_101_Wylfern.d:80","Kurz vor dem Lager haben uns die Orks überfallen. Sie kamen wie aus dem Nichts,... wir hatten keine Chance.","Krátce před táborem nás přepadli skřeti. Vynořili se jako by odnikud,... neměli jsme šanci.","","","MIL_101_HI_08_05","",""
 "Scripts/Content/Story/Missions/DIA_MIL_101_Wylfern.d:81","Nur Sylvester und ich konnten uns retten. Aber Pedro haben sie erwischt.","Jen já a Sylvester jsme se dokázali zachránit. Ale Pedra dostali.","","","MIL_101_HI_08_06","",""
 "Scripts/Content/Story/Missions/DIA_MIL_101_Wylfern.d:93","Wo hat der Überfall stattgefunden?","Kde došlo k tomu napadení?","","","MIL_101_Wylfern_RUSH.description","",""
