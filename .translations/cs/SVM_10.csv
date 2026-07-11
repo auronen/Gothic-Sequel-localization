@@ -1,6 +1,6 @@
 "location","source","target","id","fuzzy","context","translator_comments","developer_comments"
-"Scripts/Content/Story/SVM.d:1208","Hör mit der Magie auf!","Žádné čarování!","","True","SVM_10_StopMagic","",""
-"Scripts/Content/Story/SVM.d:1208","Hör sofort damit auf!!!","Přestaň už s těmi kouzly! Ihned!","","True","SVM_10_ISaidStopMagic","",""
+"Scripts/Content/Story/SVM.d:1208","Hör mit der Magie auf!","Žádné čarování!","","False","SVM_10_StopMagic","",""
+"Scripts/Content/Story/SVM.d:1208","Hör sofort damit auf!!!","Přestaň už s těmi kouzly! Ihned!","","False","SVM_10_ISaidStopMagic","",""
 "Scripts/Content/Story/SVM.d:1209","Steck die Waffe weg!","Dej tu zbraň pryč!","","True","SVM_10_WeaponDown","",""
 "Scripts/Content/Story/SVM.d:1210","Was soll das werden? Willst du dich mit mir anlegen?","Co tady pohledáváš? Chceš mít se mnou problémy?","","True","SVM_10_ISaidWeaponDown","",""
 "Scripts/Content/Story/SVM.d:1210","Nimm das Ding runter, oder ich sorg' selbst dafür!","Dej to pryč nebo ti ukážu!","","True","SVM_10_WatchYourAim","",""
