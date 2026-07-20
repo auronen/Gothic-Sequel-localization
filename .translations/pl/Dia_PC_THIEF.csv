@@ -128,7 +128,7 @@
 "Scripts/Content/Story/Missions/DIA_PC_Thief.d:931","Xardas gab mir eine Botschaft für dich mit!","Xardas dał mi dla ciebie wiadomość!","","True","PC_Thief_XARDASLETTER_15_01","",""
 "Scripts/Content/Story/Missions/DIA_PC_Thief.d:932","Xardas...? Eine Botschaft...? Für mich...?","Xardas...? Masz dla mnie wiadomość?","","True","PC_Thief_XARDASLETTER_11_02","",""
 "Scripts/Content/Story/Missions/DIA_PC_Thief.d:933","Ja hier ist sie!","Tak, oto ona!","","True","PC_Thief_XARDASLETTER_15_03","",""
-"Scripts/Content/Story/Missions/DIA_PC_Thief.d:938","Hmmm...","Hmm...","","False","PC_Thief_XARDASLETTER_11_04","",""
+"Scripts/Content/Story/Missions/DIA_PC_Thief.d:938","Hmmm...","Hmm...","","True","PC_Thief_XARDASLETTER_11_04","",""
 "Scripts/Content/Story/Missions/DIA_PC_Thief.d:939","Sieht verdammt übel aus. Hier, lies selbst!","Wygląda na cholernie zły. Proszę, sam przeczytaj!","","True","PC_Thief_XARDASLETTER_11_05","",""
 "Scripts/Content/Story/Missions/DIA_PC_Thief.d:946","Offenbar hast du die Nachricht schon gelesen! Dann weisst du ja Bescheid.","Najwyraźniej już przeczytałeś tę wiadomość!","","True","PC_Thief_XARDASLETTER_11_06","",""
 "Scripts/Content/Story/Missions/DIA_PC_Thief.d:965","Was meint Xardas mit ...wenn ich bereit bin... ?","Co Xardas ma na myśli... kiedy będę gotowy... ?","","True","PC_Thief_WHATNOW.description","",""
