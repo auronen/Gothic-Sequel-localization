@@ -159,11 +159,11 @@ instance ItWr_Book_Thief_01(C_Item)
 	text[5]						= "";											count[5] = 0;
 };
 
-const string ItWr_Book_Thief_01_1 = "Schlösser und Mechanismen ";
-const string ItWr_Book_Thief_01_2 = "Von M. Fingers ";
+const string ItWr_Book_Thief_01_1 = "Schlösser und Mechanismen";
+const string ItWr_Book_Thief_01_2 = "Von M. Fingers";
 const string ItWr_Book_Thief_01_3 = "5 Jahre Meister der Diebesgilde";
-const string ItWr_Book_Thief_01_4 = "Derweil werden verschiedene Mechaniken, ausgeklügelte Systematiken und raffinierte Kombinatorik verwendet, um Schlösser sicher zu machen gegen fremden Eingriff. Eine der immer noch gängigsten Methoden der Kombinatorik ist die Multimechanik. Besonders bekannt bei Türen und Truhen, sorgen sie mit offensichtlich simplem System dafür, das der Zugang nur dem gestattet ist, der auch rechtmäßigen Zugang besitzt. ";
-const string ItWr_Book_Thief_01_5 = "Während die Öffnung durch ein Links/Rechts System verschlossen ist, dem sich der entsprechende Schüssel automatisch anpasst, so sorgen Gewinde, Fassungen und kleine Rädchen dafür, das ein fremder Gegenstand bei einer Bewegung in die falsche Richtung abbricht. Eine solche Rechts/Links Kombiantion besteht in der Regel aus entweder vier, sechs, acht oder sogar zehn Richtungsbewegungen. Nur ein guter Dieb wird seine Dietriche bewahren. Weniger gute Diebe bleiben jedoch immer auf der Suche nach neuen Dietrichen, weil durch ihre fehlerhafte Arbeit immer wieder Dietriche abbrechen. ";
+const string ItWr_Book_Thief_01_4 = "Derweil werden verschiedene Mechaniken, ausgeklügelte Systematiken und raffinierte Kombinatorik verwendet, um Schlösser sicher zu machen gegen fremden Eingriff. Eine der immer noch gängigsten Methoden der Kombinatorik ist die Multimechanik. Besonders bekannt bei Türen und Truhen, sorgen sie mit offensichtlich simplem System dafür, das der Zugang nur dem gestattet ist, der auch rechtmäßigen Zugang besitzt.";
+const string ItWr_Book_Thief_01_5 = "Während die Öffnung durch ein Links/Rechts System verschlossen ist, dem sich der entsprechende Schüssel automatisch anpasst, so sorgen Gewinde, Fassungen und kleine Rädchen dafür, das ein fremder Gegenstand bei einer Bewegung in die falsche Richtung abbricht. Eine solche Rechts/Links Kombiantion besteht in der Regel aus entweder vier, sechs, acht oder sogar zehn Richtungsbewegungen. Nur ein guter Dieb wird seine Dietriche bewahren. Weniger gute Diebe bleiben jedoch immer auf der Suche nach neuen Dietrichen, weil durch ihre fehlerhafte Arbeit immer wieder Dietriche abbrechen.";
 
 func void UseItWr_Book_Thief_01()
 {
@@ -306,9 +306,9 @@ instance ItWr_Book_Thief_02(C_Item)
 	text[5]						= "";											count[5] = 0;
 };
 
-const string ItWr_Book_Thief_02_1 = "Geheimnisse der Nacht ";
+const string ItWr_Book_Thief_02_1 = "Geheimnisse der Nacht";
 const string ItWr_Book_Thief_02_2 = "Der Ring der Gewandtheit";
-const string ItWr_Book_Thief_02_3 = "Die Macht des Ringes wurde gestärkt mit der Kraft des Windes, der Stille der Nacht und der Beweglichkeit des Schattens. Ein Wunderwerk aus feiner Schmiedekunst und  Zauberei . Geschmiedet in den Höhlen von Nordmar, verzaubert in den Hallen der Weisheit, gewährt der Ring seinem Träger eine höhere Geschicklichkeit. ";
+const string ItWr_Book_Thief_02_3 = "Die Macht des Ringes wurde gestärkt mit der Kraft des Windes, der Stille der Nacht und der Beweglichkeit des Schattens. Ein Wunderwerk aus feiner Schmiedekunst und  Zauberei . Geschmiedet in den Höhlen von Nordmar, verzaubert in den Hallen der Weisheit, gewährt der Ring seinem Träger eine höhere Geschicklichkeit.";
 const string ItWr_Book_Thief_02_4 = "Getragen wurde es bisher von:";
 const string ItWr_Book_Thief_02_5 = "Nantanuel Gildenmeister von Khorinis";
 const string ItWr_Book_Thief_02_6 = "Tomas 3 Finger";
@@ -1080,7 +1080,7 @@ instance ItWr_Phoenix5(C_Item)
 
 const string Phoenix5_1 = "Die Sehnsucht";
 const string Phoenix5_2 = "des Phoenix";
-const string Phoenix5_3 = "Zuerst versteckten sich die Kinder des Wassers, die aus dem Hort flohen. Sie suchten Zuflucht in versteckten Höhlen, doch schon bald fanden sie einen eigenen Hort, der sie vor dem Zorn des Sturms schützte. ";
+const string Phoenix5_3 = "Zuerst versteckten sich die Kinder des Wassers, die aus dem Hort flohen. Sie suchten Zuflucht in versteckten Höhlen, doch schon bald fanden sie einen eigenen Hort, der sie vor dem Zorn des Sturms schützte.";
 const string Phoenix5_4 = "Nicht alle Höhlen kann man trockenen Fusses betreten. Doch genau diese Höhlen sind oft die besten Verstecke. Der feurige Phoenix hasst solche Höhlen, hat er doch Angst vor dem fliessenden Element. Solche Höhlen sind der Alptraum des Phoenix.";
 
 func void Use_Phoenix5()
@@ -1552,14 +1552,14 @@ instance ItWr_Helvegor(C_Item)
 
 	description					= name;
 	text[0]						= "";											count[0] = 0;
-	text[1]						= "ein Brief von Osric an Helvegor ";			count[1] = 0;
+	text[1]						= "ein Brief von Osric an Helvegor";			count[1] = 0;
 };
 
-const string ItWr_Helvegor_1 = "HelvegoR, ";
+const string ItWr_Helvegor_1 = "HelvegoR,";
 const string ItWr_Helvegor_2 = "hier im lager wimmelt es nur so von dieben und gesindeL. du bist der einzige, dem ich noch vertraue.";
 const string ItWr_Helvegor_3 = "falls mir etwas zustossen solLte, ich habe ein paar nützliche dinge in sichere verwahRung gebracht. erinnerst du dich noch an die zeit, als wir hier ankamen?";
 const string ItWr_Helvegor_4 = "bevor wir für agon gearbeitet haben? Das gerüst ist Leer und verlassen, die aRbeiten sind eingestellt.";
-const string ItWr_Helvegor_5 = "Die Kombination steckt mittendrin. ";
+const string ItWr_Helvegor_5 = "Die Kombination steckt mittendrin.";
 const string ItWr_Helvegor_6 = "osric";
 
 func void Use_ItWr_Helvegor()
@@ -1610,12 +1610,12 @@ instance ItWr_Gods(C_Item)
 };
 
 const string ItWr_Gods_1 = "Innos der Gott des Feuers und der Gesetzes";
-const string ItWr_Gods_2 = "Wahrer der Ordnung ";
+const string ItWr_Gods_2 = "Wahrer der Ordnung";
 const string ItWr_Gods_3 = "Adanos Gott des Wassers und der Gerechtigkeit";
-const string ItWr_Gods_4 = "Waagschale der Menschheit ";
+const string ItWr_Gods_4 = "Waagschale der Menschheit";
 const string ItWr_Gods_5 = "Beliar Gott des Todes und der Dunkelheit";
-const string ItWr_Gods_6 = "Herrscher der Nacht ";
-const string ItWr_Gods_7 = "Zusammen bilden sie die göttliche Dreifaltigkeit ";
+const string ItWr_Gods_6 = "Herrscher der Nacht";
+const string ItWr_Gods_7 = "Zusammen bilden sie die göttliche Dreifaltigkeit";
 const string ItWr_Gods_8 = "Den Ursprung der Welt, ihren Weg und ihr Ende";
 
 func void Use_ItWr_Gods()
@@ -1677,8 +1677,8 @@ instance ItWr_Palgur(C_Item)
 const string ItWr_Palgur_1 = "Isgar hat seine Tränke herumstehen lassen. Wie unvorsichtig von ihm. Und wie gut, das es Diebe gibt, denen man es anhängen kann.";
 const string ItWr_Palgur_2 = "Die Tränke habe ich dort versteckt, wo viele hergehen, aber niemand bleibt.";
 const string ItWr_Palgur_3 = "Nur als reine Vorsichtsmassnahme. Wer weiß denn schon, was uns noch alles bevorsteht.";
-const string ItWr_Palgur_4 = "Talamon ist viel zu sehr mit seinen Forschungen beschäftigt, und Isgar ist nur darauf aus Silber zu kassieren, ";
-const string ItWr_Palgur_5 = " als das sie an Massnahmen für den Fall eines Angriffes denken.";
+const string ItWr_Palgur_4 = "Talamon ist viel zu sehr mit seinen Forschungen beschäftigt, und Isgar ist nur darauf aus Silber zu kassieren,";
+const string ItWr_Palgur_5 = "als das sie an Massnahmen für den Fall eines Angriffes denken.'";
 
 func void Use_ItWr_Palgur()
 {
@@ -1725,9 +1725,9 @@ instance ItWr_Worker(C_Item)
 	text[2]						= "ohne erkennbaren Anfang oder Ende";			count[2] = 0;
 };
 
-const string ItWr_Worker_1 = "Es ist furchtbar. Die Orks ziehen durchs Land und plündern die Dörfer. Auf dem Weg ins Tal von Khorinis haben wir einen Zug anderer Flüchtender gesehen. ";
-const string ItWr_Worker_2 = "Sie sind den Orks in die Hände gefallen. Bei Innos, die Orks haben schreckliche Dinge mit ihnen getan. ";
-const string ItWr_Worker_3 = "Innos sei Dank, zumindest haben wir es ins Lager geschafft. Der König ist ebenfalls hier im Tal. Das gibt vielen hier Mut und Kraft. ";
+const string ItWr_Worker_1 = "Es ist furchtbar. Die Orks ziehen durchs Land und plündern die Dörfer. Auf dem Weg ins Tal von Khorinis haben wir einen Zug anderer Flüchtender gesehen.";
+const string ItWr_Worker_2 = "Sie sind den Orks in die Hände gefallen. Bei Innos, die Orks haben schreckliche Dinge mit ihnen getan.";
+const string ItWr_Worker_3 = "Innos sei Dank, zumindest haben wir es ins Lager geschafft. Der König ist ebenfalls hier im Tal. Das gibt vielen hier Mut und Kraft.";
 const string ItWr_Worker_4 = "Aber es gibt noch viel zu tun. Wir müssen den Wall wieder aufbauen, um uns vor den Orks zu schützen.";
 
 func void Use_ItWr_Worker()

@@ -165,7 +165,7 @@ instance DMC_800_Xardas_LEAVING(C_Info)
 	nr				= 6;
 	condition		= DMC_800_Xardas_LEAVING_Condition;
 	information		= DMC_800_Xardas_LEAVING_Info;
-	description		= "Wie kann ich deinen Turm verlassen? ";
+	description		= "Wie kann ich deinen Turm verlassen?";
 };
 
 func int DMC_800_Xardas_LEAVING_Condition()

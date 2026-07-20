@@ -721,7 +721,7 @@ instance ItWr_Recipe_Herb(C_Item)
 
 const string ItWr_Recipe_Herb_1 = "Kochen mit";
 const string ItWr_Recipe_Herb_2 = "Kräutern";
-const string ItWr_Recipe_Herb_3 = "Frische Kräuter aus dem Sumpf eigenen sich nicht nur zum Rauchen. Mit etwas Kochkunst kann man daraus eine ganze Reihe leckerer Gerichte zubereiten. ";
+const string ItWr_Recipe_Herb_3 = "Frische Kräuter aus dem Sumpf eigenen sich nicht nur zum Rauchen. Mit etwas Kochkunst kann man daraus eine ganze Reihe leckerer Gerichte zubereiten.";
 const string ItWr_Recipe_Herb_4 = "Sumpfkraut mit Brot und Salz kann zu einer nahrhaften Suppe zubereitet werden.";
 const string ItWr_Recipe_Herb_5 = "Anstelle des Brotes kann auch ein Stück Käse hinzugefügt werden, und so entsteht ein leckerer Eintopf.";
 const string ItWr_Recipe_Herb_6 = "Nichts geht über ein Stück Schinken, das auch dem Sumpfkraut den edelsten Geschmack verleiht. Das Salzen nicht vergessen!";

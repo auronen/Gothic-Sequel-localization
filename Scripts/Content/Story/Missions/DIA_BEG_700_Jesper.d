@@ -71,7 +71,7 @@ func void BEG_700_Jesper_HI_Info()
 
 	Info_AddChoice(BEG_700_Jesper_HI, "Der alte Tempel ist eingestürzt", BEG_700_Jesper_HI_TEMPLE);
 	Info_AddChoice(BEG_700_Jesper_HI, "Ich hörte das Orks in der Gegend sind.", BEG_700_Jesper_HI_ORK);
-	Info_AddChoice(BEG_700_Jesper_HI, "Nein, aber kennst du Neuigkeiten? ", BEG_700_Jesper_HI_NO);
+	Info_AddChoice(BEG_700_Jesper_HI, "Nein, aber kennst du Neuigkeiten?", BEG_700_Jesper_HI_NO);
 };
 
 func void BEG_700_Jesper_HI_NO()

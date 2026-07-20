@@ -47,7 +47,7 @@ func void BEG_702_Nabor_TIP_Info()
 
 	Info_AddChoice(BEG_702_Nabor_TIP, "Ich bin der Richtige. Her mit der Information.", BEG_702_Nabor_TIP_RIGHTMAN);
 	Info_AddChoice(BEG_702_Nabor_TIP, "Wie teuer ist deine Information?", BEG_702_Nabor_TIP_HOWMUCH);
-	Info_AddChoice(BEG_702_Nabor_TIP, "Ich glaube du willst nur schnell ein bisschen Silber abstauben. ", BEG_702_Nabor_TIP_TRICK);
+	Info_AddChoice(BEG_702_Nabor_TIP, "Ich glaube du willst nur schnell ein bisschen Silber abstauben.", BEG_702_Nabor_TIP_TRICK);
 };
 
 func void BEG_702_Nabor_TIP_TRICK()

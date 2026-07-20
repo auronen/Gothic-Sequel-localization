@@ -16,14 +16,14 @@ instance ItWr_Morogh_List(C_Item)
 	value						= 0;
 
 	description					= name;
-	text[0]						= "Liste mit Zutaten ";							count[0] = 0;
+	text[0]						= "Liste mit Zutaten";							count[0] = 0;
 	text[1]						= "die Morogh benötigt";						count[1] = 0;
 	text[2]						= "";											count[2] = 0;
 	text[3]						= "";											count[3] = 0;
 };
 
 const string ItWr_Morogh_List_1 = "Folgende Zutaten werden alsbald gebraucht:";
-const string ItWr_Morogh_List_2 = "9 Fläschchen reinster klarer Alkohol ";
+const string ItWr_Morogh_List_2 = "9 Fläschchen reinster klarer Alkohol";
 const string ItWr_Morogh_List_3 = "7 Gewächse von der Art der Nachtschatten";
 const string ItWr_Morogh_List_4 = "8 frische Steinwurzeln";
 

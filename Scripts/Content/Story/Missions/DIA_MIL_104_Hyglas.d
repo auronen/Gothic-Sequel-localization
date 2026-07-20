@@ -50,7 +50,7 @@ func void MIL_104_Hyglas_HI_Info()
 
 	Info_AddChoice(MIL_104_Hyglas_HI, "Die Frage ist doch, was machst du mit diesem Wissen?", MIL_104_Hyglas_HI_WHAT);
 	Info_AddChoice(MIL_104_Hyglas_HI, "Du bist ein Spinner", MIL_104_Hyglas_HI_IDIOT);
-	Info_AddChoice(MIL_104_Hyglas_HI, "Du hast Recht! Die Magier sind an allem Schuld! ", MIL_104_Hyglas_HI_MAGE);
+	Info_AddChoice(MIL_104_Hyglas_HI, "Du hast Recht! Die Magier sind an allem Schuld!", MIL_104_Hyglas_HI_MAGE);
 	Info_AddChoice(MIL_104_Hyglas_HI, "Das interessiert mich nicht", MIL_104_Hyglas_HI_DONTKNOW);
 };
 

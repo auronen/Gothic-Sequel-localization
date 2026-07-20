@@ -15,7 +15,7 @@ instance ItRi_Fire_01(C_Item)
 
 	value						= 200;
 
-	description					= " Flammenschutzring";
+	description					= "Flammenschutzring'";
 	//text[0]					= "";
 	//text[1]					= "";
 	//count[1]					= ;
@@ -269,7 +269,7 @@ func void UnEquip_Schutzring_Waffen2()
 /******************************************************************************************/
 instance Schutzring_Magie1(C_ITEM)
 {
-	name						= "Ring ";
+	name						= "Ring";
 
 	mainflag					= ITEM_KAT_MAGIC;
 	flags						= ITEM_RING;

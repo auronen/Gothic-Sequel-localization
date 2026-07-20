@@ -359,7 +359,7 @@ instance Wrk_224_Igaraz_CASTLE(C_Info)
 	nr				= 33;
 	condition		= Wrk_224_Igaraz_CASTLE_Condition;
 	information		= Wrk_224_Igaraz_CASTLE_Info;
-	description		= "Was gibt's in der Burg? ";
+	description		= "Was gibt's in der Burg?";
 };
 
 func int Wrk_224_Igaraz_CASTLE_Condition()

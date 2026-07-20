@@ -183,7 +183,7 @@ func void Wrk_205_Ramirez_TRADE_Info()
 
 	if (!(B_Ramirez_TradeCheck(5) == 1))
 	{
-		Info_AddChoice(Wrk_205_Ramirez_TRADE, " 5 Pfeile geben für 10 Stück Fleisch", Wrk_205_Ramirez_TRADE_5);
+		Info_AddChoice(Wrk_205_Ramirez_TRADE, "5 Pfeile geben für 10 Stück Fleisch'", Wrk_205_Ramirez_TRADE_5);
 	};
 };
 

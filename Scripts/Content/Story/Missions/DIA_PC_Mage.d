@@ -59,7 +59,7 @@ instance PC_Mage_DEMONS(C_Info)
 	nr				= 2;
 	condition		= PC_Mage_DEMONS_Condition;
 	information		= PC_Mage_DEMONS_Info;
-	description		= "Was weißt du über die Dämonen? ";
+	description		= "Was weißt du über die Dämonen?";
 };
 
 func int PC_Mage_DEMONS_Condition()

@@ -208,7 +208,7 @@ instance PC_Psionic_TRAINBASIC(C_Info)
 	nr				= 0;
 	condition		= PC_Psionic_TRAINBASIC_Condition;
 	information		= PC_Psionic_TRAINBASIC_Info;
-	description		= "Erkläre mir die Gesetze der Magie ";
+	description		= "Erkläre mir die Gesetze der Magie";
 };
 
 func int PC_Psionic_TRAINBASIC_Condition()

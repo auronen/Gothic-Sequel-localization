@@ -106,7 +106,7 @@ instance PAL_1046_Prinzessin_SUICIDE(C_Info)
 	nr				= 3;
 	condition		= PAL_1046_Prinzessin_SUICIDE_Condition;
 	information		= PAL_1046_Prinzessin_SUICIDE_Info;
-	description		= "Du bist über, Bitch! ";
+	description		= "Du bist über, Bitch!";
 };
 
 func int PAL_1046_Prinzessin_SUICIDE_Condition()

@@ -149,9 +149,9 @@ instance ItWr_Book_HealingPotions(C_Item)
 const string ItWr_Book_HealingPotions_1 = "Heiltränke";
 const string ItWr_Book_HealingPotions_2 = "Die Heilung von Wunden, egal ob durch Schwerter, durch die Hauer eines wilden Tieres oder durch Magie verursacht ist eine langwierige Sache.";
 const string ItWr_Book_HealingPotions_3 = "Doch kann dieser Prozess durch alchemistische Tränke erheblich beschleunigt werden.";
-const string ItWr_Book_HealingPotions_4 = "Schon mit geringer Übung ist es möglich diese herzustellen. Die nötigen Reagenzien: ";
-const string ItWr_Book_HealingPotions_5 = "Dieser stärkere Trank erfordert mehr Erfahrung: ";
-const string ItWr_Book_HealingPotions_6 = "Nur Meister in Alchemie können ein Elixier herstellen. Die Rezeptur benötigt: ";
+const string ItWr_Book_HealingPotions_4 = "Schon mit geringer Übung ist es möglich diese herzustellen. Die nötigen Reagenzien:";
+const string ItWr_Book_HealingPotions_5 = "Dieser stärkere Trank erfordert mehr Erfahrung:";
+const string ItWr_Book_HealingPotions_6 = "Nur Meister in Alchemie können ein Elixier herstellen. Die Rezeptur benötigt:";
 
 func void UseItWr_Book_HealingPotions()
 {
@@ -250,9 +250,9 @@ instance ItWr_Book_ManaPotions(C_Item)
 
 const string ItWr_Book_ManaPotions_1 = "Mana-Tränke";
 const string ItWr_Book_ManaPotions_2 = "Jeder Zauber entzieht dem Wirkenden etwas magische Energie, die durch Alchemistische Tränke zurückgewonnen werden kann.";
-const string ItWr_Book_ManaPotions_3 = "Schon mit geringem Talent in der Alchemie ist es möglich diese herzustellen. Die Reagenzien: ";
-const string ItWr_Book_ManaPotions_4 = "Um dieses herzustellen ist ein geübter Alchemist von Nöten. Er benötigt: ";
-const string ItWr_Book_ManaPotions_5 = "Nur ein Meister der Alchemie ist fähig ein Elixier zu erzeugen. Die Rezeptur bilden: ";
+const string ItWr_Book_ManaPotions_3 = "Schon mit geringem Talent in der Alchemie ist es möglich diese herzustellen. Die Reagenzien:";
+const string ItWr_Book_ManaPotions_4 = "Um dieses herzustellen ist ein geübter Alchemist von Nöten. Er benötigt:";
+const string ItWr_Book_ManaPotions_5 = "Nur ein Meister der Alchemie ist fähig ein Elixier zu erzeugen. Die Rezeptur bilden:";
 
 func void UseItWr_Book_ManaPotions()
 {
@@ -350,9 +350,9 @@ instance ItWr_Book_SpeedPotions(C_Item)
 const string ItWr_Book_SpeedPotions_1 = "Tränke der";
 const string ItWr_Book_SpeedPotions_2 = "Eile";
 const string ItWr_Book_SpeedPotions_3 = "Wer sich schnell wie ein Scavenger fortbewegen will, benötigt alchemistische Hilfe. Die Tränke der Eile verleihen dem Benutzer ungeahnte Spurtfähigkeiten. Doch leider sind sie nur von kurzer Dauer.";
-const string ItWr_Book_SpeedPotions_4 = "Schon mit geringer Ausbildung  kann man diese herstellen. Nötige Reagenzien sind: ";
-const string ItWr_Book_SpeedPotions_5 = "Um dieses zu zubereiten ist ein geübter Alchemist gefragt. Er benötigt: ";
-const string ItWr_Book_SpeedPotions_6 = "Nur die besten Alchemisten vermögen diese Elixiere zuzubereiten. Inhaltsstoffe sind: ";
+const string ItWr_Book_SpeedPotions_4 = "Schon mit geringer Ausbildung  kann man diese herstellen. Nötige Reagenzien sind:";
+const string ItWr_Book_SpeedPotions_5 = "Um dieses zu zubereiten ist ein geübter Alchemist gefragt. Er benötigt:";
+const string ItWr_Book_SpeedPotions_6 = "Nur die besten Alchemisten vermögen diese Elixiere zuzubereiten. Inhaltsstoffe sind:";
 
 func void UseItWr_Book_SpeedPotions()
 {
