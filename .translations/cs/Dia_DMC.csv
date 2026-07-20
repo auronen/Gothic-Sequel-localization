@@ -24,7 +24,7 @@
 "Scripts/Content/Story/Missions/DIA_DMC_800_Xardas.d:154","Wann und wo werden die Dämonen durchbrechen?","Kdy a kde se démoni objeví?","","","DMC_800_WHERE_15_01","",""
 "Scripts/Content/Story/Missions/DIA_DMC_800_Xardas.d:155","Es kann überall im Tal passieren. Ich weiß noch nichts genaues.","Může k tomu dojít kdekoliv v údolí. Zatím nevím přesně kde.","","","DMC_800_WHERE_14_02","",""
 "Scripts/Content/Story/Missions/DIA_DMC_800_Xardas.d:156","Aber ich werde Ort und Zeitpunkt herausfinden.","Ale zjistím kde a kdy to bude.","","","DMC_800_WHERE_14_03","",""
-"Scripts/Content/Story/Missions/DIA_DMC_800_Xardas.d:168","Wie kann ich deinen Turm verlassen? ","Jak mohu opustit věž?","","","DMC_800_Xardas_LEAVING.description","",""
+"Scripts/Content/Story/Missions/DIA_DMC_800_Xardas.d:168","Wie kann ich deinen Turm verlassen? ","Jak mohu opustit věž?","","True","DMC_800_Xardas_LEAVING.description","",""
 "Scripts/Content/Story/Missions/DIA_DMC_800_Xardas.d:183","Wie kann ich deinen Turm verlassen? Du hast nicht zufällig eine Treppe einbauen lassen?","Jak mohu opustit věž? Nenechal sis náhodou postavit schodiště, že ne?","","","DMC_800_LEAVING_15_01","",""
 "Scripts/Content/Story/Missions/DIA_DMC_800_Xardas.d:184","Ich werde dich zum Alten Lager teleportieren. Sag mir, wenn du bereit bist.","Teleportuji tě do Starého tábora. Řekni mi, až budeš připraven.","","","DMC_800_LEAVING_14_02","",""
 "Scripts/Content/Story/Missions/DIA_DMC_800_Xardas.d:185","Aber sei vorsichtig. Es ist sehr gefährlich ausserhalb des Lagers.","Ale buď opatrný. Mimo tábor je to velice nebezpečné.","","","DMC_800_LEAVING_14_03","",""
