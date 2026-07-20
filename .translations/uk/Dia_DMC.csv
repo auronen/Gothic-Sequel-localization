@@ -24,7 +24,7 @@
 "Scripts/Content/Story/Missions/DIA_DMC_800_Xardas.d:154","Wann und wo werden die Dämonen durchbrechen?","Коли і де прорвуться демони?","","False","DMC_800_WHERE_15_01","",""
 "Scripts/Content/Story/Missions/DIA_DMC_800_Xardas.d:155","Es kann überall im Tal passieren. Ich weiß noch nichts genaues.","Це може статися будь-де в долині. На жаль, більше я поки не знаю.","","False","DMC_800_WHERE_14_02","",""
 "Scripts/Content/Story/Missions/DIA_DMC_800_Xardas.d:156","Aber ich werde Ort und Zeitpunkt herausfinden.","Але я дізнаюся де і коли.","","False","DMC_800_WHERE_14_03","",""
-"Scripts/Content/Story/Missions/DIA_DMC_800_Xardas.d:168","Wie kann ich deinen Turm verlassen? ","Як мені вийти з твоєї вежі? ","","False","DMC_800_Xardas_LEAVING.description","",""
+"Scripts/Content/Story/Missions/DIA_DMC_800_Xardas.d:168","Wie kann ich deinen Turm verlassen? ","Як мені вийти з твоєї вежі? ","","True","DMC_800_Xardas_LEAVING.description","",""
 "Scripts/Content/Story/Missions/DIA_DMC_800_Xardas.d:183","Wie kann ich deinen Turm verlassen? Du hast nicht zufällig eine Treppe einbauen lassen?","Як мені вийти з твоєї вежі? Ти ж не забув випадково побудувати сходи?","","False","DMC_800_LEAVING_15_01","",""
 "Scripts/Content/Story/Missions/DIA_DMC_800_Xardas.d:184","Ich werde dich zum Alten Lager teleportieren. Sag mir, wenn du bereit bist.","Я телепортую тебе до Старого табору. Скажи, коли будеш готовий.","","False","DMC_800_LEAVING_14_02","",""
 "Scripts/Content/Story/Missions/DIA_DMC_800_Xardas.d:185","Aber sei vorsichtig. Es ist sehr gefährlich ausserhalb des Lagers.","Але будь обачним. За межами табору дуже небезпечно.","","False","DMC_800_LEAVING_14_03","",""
