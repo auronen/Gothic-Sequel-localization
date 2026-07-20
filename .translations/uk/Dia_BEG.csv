@@ -119,7 +119,7 @@
 "Scripts/Content/Story/Missions/DIA_BEG_704_Lakarus.d:133","Die Jäger kommen ab und zu ins Lager. Und von denen kaufe ich das Kraut.","Мисливці іноді навідуються до табору. І я купую у них траву.","","False","BEG_704_WHEREHERB_00_04","",""
 "Scripts/Content/Story/Missions/DIA_BEG_704_Lakarus.d:145","Warum ist es im Sumpf so gefährlich?","А що в тому болоті такого небезпечного?","","False","BEG_704_Lakarus_SWAMP.description","",""
 "Scripts/Content/Story/Missions/DIA_BEG_704_Lakarus.d:160","Warum ist es im Sumpf so gefährlich?","А що в тому болоті такого небезпечного?","","False","BEG_704_SWAMP_15_01","",""
-"Scripts/Content/Story/Missions/DIA_BEG_704_Lakarus.d:161","Dort gibt es Blutfliegen...und Sumpfhaie. Aber das ist noch nicht das schlimmste.","Там є кровочмілі... і болотяні акули. Але це ще не найстрашніше.","","False","BEG_704_SWAMP_00_02","",""
+"Scripts/Content/Story/Missions/DIA_BEG_704_Lakarus.d:161","Dort gibt es Blutfliegen...und Sumpfhaie. Aber das ist noch nicht das schlimmste.","Там є кровочмілі... і болотяні акули. Але це ще не найстрашніше.","","True","BEG_704_SWAMP_00_02","",""
 "Scripts/Content/Story/Missions/DIA_BEG_704_Lakarus.d:162","Ja, und? Was ist das 'Schlimmste'?","Ну то й що? Що таке «найстрашніше»?","","False","BEG_704_SWAMP_15_03","",""
 "Scripts/Content/Story/Missions/DIA_BEG_704_Lakarus.d:163","Als die Barriere noch den Himmel überzog, war der Sumpf das Gebiet einer Bruderschaft die einen Dämon abeteten!","Коли Бар'єр іще височів над нами, болота належали Братству, що поклонялося демону!","","False","BEG_704_SWAMP_00_04","",""
 "Scripts/Content/Story/Missions/DIA_BEG_704_Lakarus.d:164","Ja, und?","Ну то й що з того?","","False","BEG_704_SWAMP_15_05","",""
