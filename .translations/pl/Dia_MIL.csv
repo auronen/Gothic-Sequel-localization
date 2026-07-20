@@ -70,7 +70,7 @@
 "Scripts/Content/Story/Missions/DIA_MIL_101_Wylfern.d:140","Du bist halt ein Feigling...","Jesteś tchórzem...","","True","MIL_101_RUSH_FEAR_15_01","",""
 "Scripts/Content/Story/Missions/DIA_MIL_101_Wylfern.d:141","Was, du nennst mich einen Feigling? Ich bin Rekrut der Miliz. Ich bin nicht feige!","Co, nazywasz mnie tchórzem? Jestem rekruta straży. Nie jestem tchórzem!","","True","MIL_101_RUSH_FEAR_08_02","",""
 "Scripts/Content/Story/Missions/DIA_MIL_101_Wylfern.d:142","Dann bring mich zum Ort des Überfalls!","No to zabierz mnie do miejsca ataku!","","True","MIL_101_RUSH_FEAR_15_03","",""
-"Scripts/Content/Story/Missions/DIA_MIL_101_Wylfern.d:143","-SEUFZ-","-SLEEP-","","True","MIL_101_RUSH_FEAR_08_04","",""
+"Scripts/Content/Story/Missions/DIA_MIL_101_Wylfern.d:143","'-SEUFZ-","'-WZDYCH-","","False","MIL_101_RUSH_FEAR_08_04","",""
 "Scripts/Content/Story/Missions/DIA_MIL_101_Wylfern.d:144","Na gut, ich werde dich hinbringen.","Dobrze, doprowadzę cię tam.","","True","MIL_101_RUSH_FEAR_08_05","",""
 "Scripts/Content/Story/Missions/DIA_MIL_101_Wylfern.d:151","Dann beschreib mir wenigstens den Weg.","No to przynajmniej opisz mi drogę.","","True","MIL_101_RUSH_WAY_15_01","",""
 "Scripts/Content/Story/Missions/DIA_MIL_101_Wylfern.d:152","Verlasse das Lager durch den Haupteingang und wende ich nach rechts.","Wyjdź z obozu przez główną bramę, a ja skręcę w prawo.","","True","MIL_101_RUSH_WAY_08_02","",""
