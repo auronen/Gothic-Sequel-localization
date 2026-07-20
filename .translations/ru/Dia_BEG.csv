@@ -8,7 +8,7 @@
 "Scripts/Content/Story/Missions/DIA_BEG_700_Jesper.d:70","Hey, ich hab dich hier noch nie gesehen. Bringst du Neuigkeiten mit?","Эй, я тебя здесь раньше не видел. Есть какие-нибудь новости?","","False","BEG_700_HI_02_01","",""
 "Scripts/Content/Story/Missions/DIA_BEG_700_Jesper.d:72","Der alte Tempel ist eingestürzt","Старый храм был уничтожен.","","False","BEG_700_Jesper_HI_Info.BEG_700_Jesper_HI.BEG_700_Jesper_HI_TEMPLE","AI_AddChoice",""
 "Scripts/Content/Story/Missions/DIA_BEG_700_Jesper.d:73","Ich hörte das Orks in der Gegend sind.","Говорят, неподалёку видели орков.","","False","BEG_700_Jesper_HI_Info.BEG_700_Jesper_HI.BEG_700_Jesper_HI_ORK","AI_AddChoice",""
-"Scripts/Content/Story/Missions/DIA_BEG_700_Jesper.d:74","Nein, aber kennst du Neuigkeiten? ","Нет, но может ты что-то слышал? ","","False","BEG_700_Jesper_HI_Info.BEG_700_Jesper_HI.BEG_700_Jesper_HI_NO","AI_AddChoice",""
+"Scripts/Content/Story/Missions/DIA_BEG_700_Jesper.d:74","Nein, aber kennst du Neuigkeiten? ","Нет, но может ты что-то слышал? ","","True","BEG_700_Jesper_HI_Info.BEG_700_Jesper_HI.BEG_700_Jesper_HI_NO","AI_AddChoice",""
 "Scripts/Content/Story/Missions/DIA_BEG_700_Jesper.d:79","Nein, aber kennst du Neuigkeiten?","Нет, но может ты что-то слышал?","","False","BEG_700_HI_NO_15_01","",""
 "Scripts/Content/Story/Missions/DIA_BEG_700_Jesper.d:80","Ich kriege einiges mit. Wenn du etwas wissen willst, bin ich dein Mann.","Много чего. Если тебе нужна информация - обращайся.","","False","BEG_700_HI_NO_02_02","",""
 "Scripts/Content/Story/Missions/DIA_BEG_700_Jesper.d:86","Ich hörte das Orks in der Gegend sind.","Говорят, неподалёку видели орков.","","False","BEG_700_HI_ORK_15_01","",""
