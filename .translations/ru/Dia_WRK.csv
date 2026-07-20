@@ -52,7 +52,7 @@
 "Scripts/Content/Story/Missions/DIA_WRK_200_Gotmar.d:338","Die werden zur Zeit niemand in die Mine lassen!","Сейчас в шахту никого не впускают.","","False","Info_Gotmar_WHEREORE2_04_06","",""
 "Scripts/Content/Story/Missions/DIA_WRK_200_Gotmar.d:350","Gibt's sonst keine Möglichkeit an Erz zu kommen?","Больше нет способов раздобыть руду?","","False","Info_Gotmar_WHEREORE3.description","",""
 "Scripts/Content/Story/Missions/DIA_WRK_200_Gotmar.d:365","Gibt's sonst keine Möglichkeit an Erz zu kommen?","Больше нет способов раздобыть руду?","","False","Info_Gotmar_WHEREORE3_15_01","",""
-"Scripts/Content/Story/Missions/DIA_WRK_200_Gotmar.d:366","Da wäre noch eine...","Есть ещё одна идея...","","False","Info_Gotmar_WHEREORE3_04_02","",""
+"Scripts/Content/Story/Missions/DIA_WRK_200_Gotmar.d:366","Da wäre noch eine...","Есть ещё одна идея...","","True","Info_Gotmar_WHEREORE3_04_02","",""
 "Scripts/Content/Story/Missions/DIA_WRK_200_Gotmar.d:367","WELCHE??","Какая?!","","False","Info_Gotmar_WHEREORE3_15_03","",""
 "Scripts/Content/Story/Missions/DIA_WRK_200_Gotmar.d:368","Kleinere Erzadern findet man auch in manchen Höhlen. In der Nähe des Haupttores gibt es eine.","В некоторых пещерах можно найти мелкие жилы руды. Одна из таких пещер находится неподалёку от главных ворот.","","False","Info_Gotmar_WHEREORE3_04_04","",""
 "Scripts/Content/Story/Missions/DIA_WRK_200_Gotmar.d:369","Es ist leider ne Molerat-Höhle, sonst hätte ich mir das Erz schon selbst geholt.","Не поселись в этой пещере кротокрысы, я бы и сам пошел добывать там руду.","","False","Info_Gotmar_WHEREORE3_04_05","",""
