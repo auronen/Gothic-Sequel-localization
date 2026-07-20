@@ -158,7 +158,7 @@ func int BEG_704_Lakarus_SWAMP_Condition()
 func void BEG_704_Lakarus_SWAMP_Info()
 {
 	AI_Output(hero, self, "BEG_704_SWAMP_15_01"); //Warum ist es im Sumpf so gefährlich?
-	AI_Output(self, hero, "BEG_704_SWAMP_00_02"); //Dort gibt es Blutfliegen....und Sumpfhaie. Aber das ist noch nicht das schlimmste.
+	AI_Output(self, hero, "BEG_704_SWAMP_00_02"); //Dort gibt es Blutfliegen...und Sumpfhaie. Aber das ist noch nicht das schlimmste.
 	AI_Output(hero, self, "BEG_704_SWAMP_15_03"); //Ja, und? Was ist das 'Schlimmste'?
 	AI_Output(self, hero, "BEG_704_SWAMP_00_04"); //Als die Barriere noch den Himmel überzog, war der Sumpf das Gebiet einer Bruderschaft die einen Dämon abeteten!
 	AI_Output(hero, self, "BEG_704_SWAMP_15_05"); //Ja, und?

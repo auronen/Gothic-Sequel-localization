@@ -194,7 +194,7 @@ func void KDF_1102_Morogh_MISSION_PARTNER()
 func void KDF_1102_Morogh_MISSION_SUGGEST()
 {
 	AI_Output(hero, self, "KDF_1102_MISSION_SUGGEST_15_01"); //Vielleicht kann ich dir helfen?
-	AI_Output(self, hero, "KDF_1102_MISSION_SUGGEST_14_02"); //Du? Nein, ich....ja, ja warum nicht. Das ist eine gute Idee.
+	AI_Output(self, hero, "KDF_1102_MISSION_SUGGEST_14_02"); //Du? Nein, ich...ja, ja warum nicht. Das ist eine gute Idee.
 	AI_Output(self, hero, "KDF_1102_MISSION_SUGGEST_14_03"); //So höre, ich bin gerade mit einem höchst wichtigen Experiment beschäftigt.
 	AI_Output(self, hero, "KDF_1102_MISSION_SUGGEST_14_04"); //Jedoch fehlen mir dazu noch einige Zutaten und mein Lieferant ist längst überfällig.
 	AI_Output(self, hero, "KDF_1102_MISSION_SUGGEST_14_05"); //Wenn du mir die benötigten Zutaten bringst, wäre ich dir überaus... dankbar.

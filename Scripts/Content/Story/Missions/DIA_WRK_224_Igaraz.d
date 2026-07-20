@@ -342,7 +342,7 @@ func int Wrk_224_Igaraz_TRADER_Condition()
 func void Wrk_224_Igaraz_TRADER_Info()
 {
 	AI_Output(self, hero, "Wrk_224_TRADER_02_01"); //Hier sind wir bei den Händlern. Alle Händler arbeiten für Agon.
-	AI_Output(self, hero, "Wrk_224_TRADER_02_02"); //Ruga, der Rüstungsmacher, Gordian der Schreiber, Helvegor der Rüstungsmacher, sie alle beziehen ihre Waren von Agon.
+	AI_Output(self, hero, "Wrk_224_TRADER_02_02"); //Ruga, der Rüstungsmacher, Gordian der Schreiber, Helvegor der Bogenmacher, sie alle beziehen ihre Waren von Agon.
 	AI_Output(self, hero, "Wrk_224_TRADER_02_03"); //Und dafür zahlen sie hohe Preise.
 	AI_Output(self, hero, "Wrk_224_TRADER_02_04"); //Wenn du mich wieder brauchst, ich bin am Haupteingang.
 

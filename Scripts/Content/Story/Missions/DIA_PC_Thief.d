@@ -934,7 +934,7 @@ func void PC_Thief_XARDASLETTER_Info()
 	{
 		B_GiveInvItems(hero, self, ItWr_Xardas_Letter_Sealed, 1);
 		B_UseFakeScroll();
-		AI_Output(self, hero, "PC_Thief_XARDASLETTER_11_04"); //Hmmm....
+		AI_Output(self, hero, "PC_Thief_XARDASLETTER_11_04"); //Hmmm...
 		AI_Output(self, hero, "PC_Thief_XARDASLETTER_11_05"); //Sieht verdammt übel aus. Hier, lies selbst!
 		B_GiveInvItems(self, hero, ItWr_Xardas_Letter, 1);
 		AI_StopProcessInfos(self);

@@ -76,7 +76,7 @@ func void Info_Mil_7_FOODGOOD_Info()
 	AI_Output(hero, self, "Info_Mil_7_FOODGOOD_15_03"); //(konspirativ) Was meinst du wohl WAS für ein Fleisch in diesem Eintopf ist?
 	AI_Output(self, hero, "Info_Mil_7_FOODGOOD_07_04"); //(irritiert) Ich habe nie danach gefragt?
 	AI_Output(hero, self, "Info_Mil_7_FOODGOOD_15_05"); //(konspirativ) HAST Du dich jemals gefragt, warum im Aussätzigenlager zwar immer neue Leute ankommen, ab es dort trotzdem nicht voller wird?
-	AI_Output(self, hero, "Info_Mil_7_FOODGOOD_07_06"); //Du meinst doch nicht etwa....
+	AI_Output(self, hero, "Info_Mil_7_FOODGOOD_07_06"); //Du meinst doch nicht etwa...
 	AI_Output(hero, self, "Info_Mil_7_FOODGOOD_15_07"); //(unschuldig) Ich habe nichts gesagt! Aber bei Snaf, kann dir sowas nicht passieren!
 	AI_Output(self, hero, "Info_Mil_7_FOODGOOD_07_08"); //Was für eine Sauerei! Hätte ich Halvor nicht zugetraut. Bei ihm esse ich jedenfalls nicht mehr!
 

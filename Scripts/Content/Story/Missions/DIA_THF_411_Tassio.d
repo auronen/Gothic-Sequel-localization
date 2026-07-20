@@ -41,7 +41,7 @@ func int THF_411_Tassio_YOURJOB_Condition()
 func void THF_411_Tassio_YOURJOB_Info()
 {
 	AI_Output(hero, self, "THF_411_YOURJOB_15_01"); //Warum bist du hier draussen?
-	AI_Output(self, hero, "THF_411_YOURJOB_10_02"); //Iii...Iicc....Iiicchhhh... ICH!
+	AI_Output(self, hero, "THF_411_YOURJOB_10_02"); //Iii...Iicc...Iiicchhhh... ICH!
 	AI_Output(self, hero, "THF_411_YOURJOB_10_03"); //Ww... www... wwwi... wwwiiil... WILL.
 	AI_Output(self, hero, "THF_411_YOURJOB_10_04"); //Ss... sss... sssool... sssoldddd. ddd. ddd... (schnauf)
 	AI_Output(self, hero, "THF_411_YOURJOB_10_05"); //Soooooldaaat... SOLDAT werden.

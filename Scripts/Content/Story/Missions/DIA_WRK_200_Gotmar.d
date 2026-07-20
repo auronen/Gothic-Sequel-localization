@@ -363,7 +363,7 @@ func int Info_Gotmar_WHEREORE3_Condition()
 func void Info_Gotmar_WHEREORE3_Info()
 {
 	AI_Output(hero, self, "Info_Gotmar_WHEREORE3_15_01"); //Gibt's sonst keine Möglichkeit an Erz zu kommen?
-	AI_Output(self, hero, "Info_Gotmar_WHEREORE3_04_02"); //Da wäre noch eine....
+	AI_Output(self, hero, "Info_Gotmar_WHEREORE3_04_02"); //Da wäre noch eine...
 	AI_Output(hero, self, "Info_Gotmar_WHEREORE3_15_03"); //WELCHE??
 	AI_Output(self, hero, "Info_Gotmar_WHEREORE3_04_04"); //Kleinere Erzadern findet man auch in manchen Höhlen. In der Nähe des Haupttores gibt es eine.
 	AI_Output(self, hero, "Info_Gotmar_WHEREORE3_04_05"); //Es ist leider ne Molerat-Höhle, sonst hätte ich mir das Erz schon selbst geholt.

@@ -139,7 +139,7 @@ instance Infos_Mil_4_STORY(C_Info)
 	condition		= Infos_Mil_4_STORY_Condition;
 	information		= Infos_Mil_4_STORY_Info;
 	permanent		= TRUE;
-	description		= "Erzähl mir was über die Orks";
+	description		= "Erzähl mir was über die Orks.";
 };
 
 func int Infos_Mil_4_STORY_Condition()

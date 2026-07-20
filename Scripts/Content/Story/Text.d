@@ -118,7 +118,7 @@ const string TXT_GUILDS[GIL_MAX] = {
 	"Bloodfly",
 	"Sumpfhai",																					// 30
 	"Zombie",
-	"Zombie	Orc",
+	"Zombie Orc",
 	"Skelett",
 	"Ork-Hund",
 	"Molerat",
@@ -440,7 +440,7 @@ const string TXT_INV_CAT[INV_CAT_MAX] = {
 
 	const string NAME_LPGained							= "Lernpunkte + ";						// bei jedem Erfahrungsgewinn
 
-	const string NAME_NewLogEntry						= "neuer Tagebucheintrag";
+	const string NAME_NewLogEntry						= "Neuer Tagebucheintrag";
 
 	const string PRINT_LEARN_Onehanded					= "Lerne: Kampf mit Einhandwaffen";
 	const string PRINT_LEARN_Twohanded					= "Lerne: Kampf mit Zweihandwaffen";

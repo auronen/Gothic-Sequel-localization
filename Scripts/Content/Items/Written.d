@@ -24,7 +24,7 @@ instance ItWr_Book_Circle_01(C_Item)
 };
 
 const string ItWr_Book_Circle_01_1 = "Erster Kreis";
-const string ItWr_Book_Circle_01_2 = "Als die Götter den Menschen die Fähigkeit zur Magie schenkten, schenkten sie ihnen auch das Wissen magische Runen herzustellen. Die Diener der Götter haben die ehrenvolle Aufgabe übernommen, diese Artefakte göttlicher Macht zu erschaffen und zu benutzen, wobei der Kreis des Magiers bestimmt, welche Zauber er in der Lage ist zu verstehen und anzuwenden. ";
+const string ItWr_Book_Circle_01_2 = "Als die Götter den Menschen die Fähigkeit zur Magie schenkten, schenkten sie ihnen auch das Wissen magische Runen herzustellen. Die Diener der Götter haben die ehrenvolle Aufgabe übernommen, diese Artefakte göttlicher Macht zu erschaffen und zu benutzen, wobei der Kreis des Magiers bestimmt, welche Zauber er in der Lage ist zu verstehen und anzuwenden.";
 const string ItWr_Book_Circle_01_3 = "Licht";
 const string ItWr_Book_Circle_01_4 = "Das erste Geschenk Innos an die Menschen.Eine hell strahlende Kugel wird über dem Magier erzeugt.";
 const string ItWr_Book_Circle_01_5 = "Eispfeil";
@@ -269,14 +269,14 @@ instance ItWr_Book_Circle_04(C_Item)
 };
 
 const string ItWr_Book_Circle_04_1 = "Vierter Kreis";
-const string ItWr_Book_Circle_04_2 = "Die Magie ";
+const string ItWr_Book_Circle_04_2 = "Die Magie";
 const string ItWr_Book_Circle_04_3 = "der Teleportation";
 const string ItWr_Book_Circle_04_4 = "Das besondere an diesen magischen Formeln ist, das sie, obwohl als Runen geschaffen,von jedem der magische Energie in sich trägt gesprochen werden können.Die Magie die diese Formeln umgibt, kann sofort aktiviert werden. Es gibt keine Einschränkungen für Teleportationszauber.";
 const string ItWr_Book_Circle_04_5 = "Feuersturm	";
 const string ItWr_Book_Circle_04_6 = "Ähnlich dem Feuerball wirkt dieser Zauber auf einen Gegner, springt von dort aus jedoch auf weitere Gegner über.";
 const string ItWr_Book_Circle_04_7 = "Aufladbarer Zauber";
 const string ItWr_Book_Circle_04_8 = "Blitz";
-const string ItWr_Book_Circle_04_9 = " Der Zauber springt auf mehrere Opfer über. Die Kraft des Blitzes ist schwer zu kontrollieren, so das der Magier selbst Opfer werden kann";
+const string ItWr_Book_Circle_04_9 = "Der Zauber springt auf mehrere Opfer über. Die Kraft des Blitzes ist schwer zu kontrollieren, so das der Magier selbst Opfer werden kann";
 const string ItWr_Book_Circle_04_10 = "Untote vernichten";
 const string ItWr_Book_Circle_04_11 = "Die Geschöpfe der Finsternis werden mit diesem Zauber verbannt.";
 
@@ -360,8 +360,8 @@ instance ItWr_Book_Circle_05(C_Item)
 const string ItWr_Book_Circle_05_1 = "Fünfter Kreis";
 const string ItWr_Book_Circle_05_2 = "Feuerregen";
 const string ItWr_Book_Circle_05_3 = "Die Macht des göttlichen Feuers trifft jedes Lebewesen im Wirkungsbreich des Magiers.";
-const string ItWr_Book_Circle_05_4 = "Eiswelle	";
-const string ItWr_Book_Circle_05_5 = "Ein Feld aus magischem Eis erstreckt sich über alle Gegner und friert diese für einen kurzen Zeitraum ein. Während dieser Zeit sind die Opfer bewegungsunfähig und erleiden Schaden. ";
+const string ItWr_Book_Circle_05_4 = "Eiswelle";
+const string ItWr_Book_Circle_05_5 = "Ein Feld aus magischem Eis erstreckt sich über alle Gegner und friert diese für einen kurzen Zeitraum ein. Während dieser Zeit sind die Opfer bewegungsunfähig und erleiden Schaden.";
 const string ItWr_Book_Circle_05_6 = "Ein Zauber aus dem Tempel der Wassermagier.";
 
 func void UseItWr_Book_Circle_05()
@@ -431,7 +431,7 @@ const string ItWr_Book_Circle_06_1 = "Sechster Kreis";
 const string ItWr_Book_Circle_06_2 = "Todeshauch";
 const string ItWr_Book_Circle_06_3 = "Der Atem Beliars. Eine Wolke aus Lebenverschlingendem Nichts, die jedes Wesen augenblicklich töten kann.";
 const string ItWr_Book_Circle_06_4 = "Todesring";
-const string ItWr_Book_Circle_06_5 = "Nicht viel ist überliefert über die Rune mit der Macht von URIZIEL ";
+const string ItWr_Book_Circle_06_5 = "Nicht viel ist überliefert über die Rune mit der Macht von URIZIEL";
 const string ItWr_Book_Circle_06_6 = "Es ist nur soviel bekannt, als das sie Beliars Mächte in sich birgt.";
 
 func void UseItWr_Book_Circle_06()

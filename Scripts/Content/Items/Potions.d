@@ -735,7 +735,7 @@ instance ItFo_Potion_Haste_01(C_Item)
 
 	description					= NAME_SpeedPotion1;
 	text[0]						= "";											count[0] = 0;
-	text[1]						= "Ermöglicht kurzzeitiges Sprinten ";			count[1] = 0;
+	text[1]						= "Ermöglicht kurzzeitiges Sprinten";			count[1] = 0;
 	text[2]						= "";											count[2] = 0;
 	text[3]						= NAME_Duration;								count[3] = Time_Haste1 / 60000;
 	text[4]						= "";											count[4] = 0;
@@ -766,7 +766,7 @@ instance ItFo_Potion_Haste_02(C_Item)
 
 	description					= NAME_SpeedPotion2;
 	text[0]						= "";											count[0] = 0;
-	text[1]						= "Ermöglicht Sprinten ";						count[1] = 0;
+	text[1]						= "Ermöglicht Sprinten";						count[1] = 0;
 	text[2]						= "";											count[2] = 0;
 	text[3]						= NAME_Duration;								count[3] = Time_Haste2 / 60000;
 	text[4]						= "";											count[4] = 0;
@@ -797,7 +797,7 @@ instance ItFo_Potion_Haste_03(C_Item)
 
 	description					= NAME_SpeedPotion3;
 	text[0]						= "";											count[0] = 0;
-	text[1]						= "Ermöglicht längeres Sprinten ";				count[1] = 0;
+	text[1]						= "Ermöglicht längeres Sprinten";				count[1] = 0;
 	text[2]						= "";											count[2] = 0;
 	text[3]						= NAME_Duration;								count[3] = Time_Haste3 / 60000;
 	text[4]						= "";											count[4] = 0;

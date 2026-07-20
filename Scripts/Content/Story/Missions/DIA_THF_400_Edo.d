@@ -102,7 +102,7 @@ func void Info_Edo_ORE_Info()
 func void Info_Edo_ORESTOLENYOU()
 {
 	AI_Output(hero, self, "Info_Edo_ORESTOLENYOU_15_01"); //Bist Du denn einer?
-	AI_Output(self, hero, "Info_Edo_ORESTOLENYOU_00_02"); //HUA, HUA, HUA,...... du gefällst mir. Bist nicht auf den Kopf gefallen.
+	AI_Output(self, hero, "Info_Edo_ORESTOLENYOU_00_02"); //HUA, HUA, HUA,... du gefällst mir. Bist nicht auf den Kopf gefallen.
 	B_RemoveWeapon(self);
 	AI_Output(self, hero, "Info_Edo_ORESTOLENYOU_00_03"); //(leiser) So ganz unter uns: Dieb zu sein ist eine Ehre, nur reagieren die anderen hier etwas allergisch auf dieses Thema.
 	AI_Output(self, hero, "Info_Edo_ORESTOLENYOU_00_04"); //Also behalt ich das lieber für mich. Die meisten streberhaften Handwerker hier verstehen einfach nicht, wie man WIRKLICH lebt.

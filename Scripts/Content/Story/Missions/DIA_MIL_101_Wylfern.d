@@ -140,7 +140,7 @@ func void MIL_101_Wylfern_RUSH_FEAR()
 	AI_Output(hero, self, "MIL_101_RUSH_FEAR_15_01"); //Du bist halt ein Feigling...
 	AI_Output(self, hero, "MIL_101_RUSH_FEAR_08_02"); //Was, du nennst mich einen Feigling? Ich bin Rekrut der Miliz. Ich bin nicht feige!
 	AI_Output(hero, self, "MIL_101_RUSH_FEAR_15_03"); //Dann bring mich zum Ort des Überfalls!
-	AI_Output(self, hero, "MIL_101_RUSH_FEAR_08_04"); // 		-SEUFZ-
+	AI_Output(self, hero, "MIL_101_RUSH_FEAR_08_04"); //-SEUFZ-
 	AI_Output(self, hero, "MIL_101_RUSH_FEAR_08_05"); //Na gut, ich werde dich hinbringen.
 	Wylfern_Search = LOG_RUNNING;
 	Info_ClearChoices(MIL_101_Wylfern_RUSH);

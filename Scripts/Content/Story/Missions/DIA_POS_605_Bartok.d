@@ -150,7 +150,7 @@ func void Info_Bartok_WHO_Info()
 	AI_Output(hero, self, "Info_Bartok_WHO_15_01"); //Wen meinst du mit SIE?
 	AI_Output(self, hero, "Info_Bartok_WHO_02_02"); //(verrückt) SIE jagen mich in meinen Träumen... arghhhh
 	AI_Output(hero, self, "Info_Bartok_WHO_15_03"); //WER, verdammt nochmal? WER???
-	AI_Output(self, hero, "Info_Bartok_WHO_02_04"); //(verrückt) Bald werden SIE überall sein.... (sabbel)
+	AI_Output(self, hero, "Info_Bartok_WHO_02_04"); //(verrückt) Bald werden SIE überall sein... (sabbel)
 };
 
 ///////////////////////////////////////////////////////////////////////

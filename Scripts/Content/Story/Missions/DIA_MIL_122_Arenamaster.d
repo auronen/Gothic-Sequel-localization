@@ -500,7 +500,7 @@ func void Info_Arenamaster_AGAIN_Info()
 
 	if (Npc_IsInRoutine(self, ZS_ArenaMasterSleep))
 	{
-		AI_Output(self, hero, "OUMULTI_NOTWHILESLEEP_12_00");	//Und das musst	du mir mitten in der Nacht sagen? Komm morgen an meinem	Stand vorbei!
+		AI_Output(self, hero, "OUMULTI_NOTWHILESLEEP_12_00");	//Und das musst du mir mitten in der Nacht sagen? Komm morgen an meinem Stand vorbei!
 		AI_StopProcessInfos(self);
 	};
 
@@ -1448,7 +1448,7 @@ func void Info_Arenamaster_CHALLENGEDMALGAR_Info()
 	{
 		if (!Malgar_ChallengedBefore)
 		{
-			AI_Output(self, hero, "Info_Arenamaster_CHALLENGEDMALGAR_12_03"); //Oho.... Ich hoffe du	weist, worauf du dich da einlässt.
+			AI_Output(self, hero, "Info_Arenamaster_CHALLENGEDMALGAR_12_03"); //Oho... Ich hoffe du	weist, worauf du dich da einlässt.
 			AI_Output(self, hero, "Info_Arenamaster_CHALLENGEDMALGAR_12_04"); //Malgar ist einer	der	gefährlichsten Männer die ich kenne.
 			AI_Output(self, hero, "Info_Arenamaster_CHALLENGEDMALGAR_12_05"); //Er redet	zwar nicht viel, aber er ist blitzschnell und tödlich.
 			Malgar_ChallengedBefore = TRUE;

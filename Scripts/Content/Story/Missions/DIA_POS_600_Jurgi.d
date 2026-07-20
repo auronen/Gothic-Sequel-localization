@@ -91,7 +91,7 @@ func void POS_600_Jurgi_CRAZY_Info()
 	if (Jurgi_Crazy == 5)
 	{
 		AI_Output(self, hero, "POS_600_CRAZY_00_11"); //Wahrlich ich frage dich : Was nützt ein Brunnen ohne Wasser? Was ist ein Vogel der nicht fliegt?
-		AI_Output(self, hero, "POS_600_CRAZY_00_12"); //Aha! Also frage dich selber warum und vor allem  WAS in diesen kleinen Truhen ist...äh....
+		AI_Output(self, hero, "POS_600_CRAZY_00_12"); //Aha! Also frage dich selber warum und vor allem  WAS in diesen kleinen Truhen ist...äh...
 		Jurgi_Crazy = 0;
 		AI_StopProcessInfos(self);
 		return;

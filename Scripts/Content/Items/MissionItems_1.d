@@ -255,7 +255,7 @@ instance ItWr_Smith_Art_01(C_Item)
 	description					= name;
 	text[0]						= "";											count[0] = 0;
 	text[1]						= "Ein Buch über";								count[1] = 0;
-	text[2]						= " die Kunst des Schmiedens ";					count[2] = 0;
+	text[2]						= "die Kunst des Schmiedens";					count[2] = 0;
 	text[3]						= "von H. Mer";									count[3] = 0;
 };
 
@@ -547,8 +547,8 @@ instance ItKe_Jail(C_Item)
 	value						= 0;
 
 	description					= name;
-	text[0]						= "Der Schlüssel für die ";						count[0] = 0;
-	text[1]						= "Kerkerzellen ";								count[1] = 0;
+	text[0]						= "Der Schlüssel für die";						count[0] = 0;
+	text[1]						= "Kerkerzellen";								count[1] = 0;
 	text[2]						= "";											count[2] = 0;
 	text[3]						= "";											count[3] = 0;
 	text[4]						= NAME_Value;									count[4] = value;
