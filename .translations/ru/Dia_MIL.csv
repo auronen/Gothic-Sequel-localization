@@ -125,7 +125,7 @@
 "Scripts/Content/Story/Missions/DIA_MIL_104_Hyglas.d:49","Du sagst ja gar nichts. Wie siehst du das denn?","Молчишь? Сам-то что думаешь?","","False","MIL_104_HI_08_07","",""
 "Scripts/Content/Story/Missions/DIA_MIL_104_Hyglas.d:51","Die Frage ist doch, was machst du mit diesem Wissen?","И что ты планируешь делать?","","False","MIL_104_Hyglas_HI_Info.MIL_104_Hyglas_HI.MIL_104_Hyglas_HI_WHAT","AI_AddChoice",""
 "Scripts/Content/Story/Missions/DIA_MIL_104_Hyglas.d:52","Du bist ein Spinner","Ты просто сумасшедший.","","False","MIL_104_Hyglas_HI_Info.MIL_104_Hyglas_HI.MIL_104_Hyglas_HI_IDIOT","AI_AddChoice",""
-"Scripts/Content/Story/Missions/DIA_MIL_104_Hyglas.d:53","Du hast Recht! Die Magier sind an allem Schuld! ","Ты прав! Во всём виноваты маги! ","","False","MIL_104_Hyglas_HI_Info.MIL_104_Hyglas_HI.MIL_104_Hyglas_HI_MAGE","AI_AddChoice",""
+"Scripts/Content/Story/Missions/DIA_MIL_104_Hyglas.d:53","Du hast Recht! Die Magier sind an allem Schuld! ","Ты прав! Во всём виноваты маги! ","","True","MIL_104_Hyglas_HI_Info.MIL_104_Hyglas_HI.MIL_104_Hyglas_HI_MAGE","AI_AddChoice",""
 "Scripts/Content/Story/Missions/DIA_MIL_104_Hyglas.d:54","Das interessiert mich nicht","Меня это не интересует.","","False","MIL_104_Hyglas_HI_Info.MIL_104_Hyglas_HI.MIL_104_Hyglas_HI_DONTKNOW","AI_AddChoice",""
 "Scripts/Content/Story/Missions/DIA_MIL_104_Hyglas.d:59","Das interessiert mich nicht.","Меня это не интересует.","","False","MIL_104_HI_DONTKNOW_15_01","",""
 "Scripts/Content/Story/Missions/DIA_MIL_104_Hyglas.d:60","Oh, ... na dann steck deinen Kopf in den Sand und verharre solange, bis du stirbst","О, ну тогда можешь с радостью зарыться поглубже и ждать своей смерти.","","False","MIL_104_HI_DONTKNOW_08_02","",""
