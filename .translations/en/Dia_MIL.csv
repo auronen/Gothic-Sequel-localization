@@ -70,7 +70,7 @@
 "Scripts/Content/Story/Missions/DIA_MIL_101_Wylfern.d:140","Du bist halt ein Feigling...","You're a coward ...","","True","MIL_101_RUSH_FEAR_15_01","",""
 "Scripts/Content/Story/Missions/DIA_MIL_101_Wylfern.d:141","Was, du nennst mich einen Feigling? Ich bin Rekrut der Miliz. Ich bin nicht feige!","What, you call me a coward? I'm a recruit from the militia. I'm not a coward!","","True","MIL_101_RUSH_FEAR_08_02","",""
 "Scripts/Content/Story/Missions/DIA_MIL_101_Wylfern.d:142","Dann bring mich zum Ort des Überfalls!","Then take me to the place of the attack!","","True","MIL_101_RUSH_FEAR_15_03","",""
-"Scripts/Content/Story/Missions/DIA_MIL_101_Wylfern.d:143","'-SEUFZ-","'-SLEEP","","True","MIL_101_RUSH_FEAR_08_04","",""
+"Scripts/Content/Story/Missions/DIA_MIL_101_Wylfern.d:143","-SEUFZ-","-SLEEP","","True","MIL_101_RUSH_FEAR_08_04","",""
 "Scripts/Content/Story/Missions/DIA_MIL_101_Wylfern.d:144","Na gut, ich werde dich hinbringen.","All right, I'll take you there.","","True","MIL_101_RUSH_FEAR_08_05","",""
 "Scripts/Content/Story/Missions/DIA_MIL_101_Wylfern.d:151","Dann beschreib mir wenigstens den Weg.","Then at least describe the way to me.","","True","MIL_101_RUSH_WAY_15_01","",""
 "Scripts/Content/Story/Missions/DIA_MIL_101_Wylfern.d:152","Verlasse das Lager durch den Haupteingang und wende ich nach rechts.","Leave the camp through the main entrance and I'll turn right.","","True","MIL_101_RUSH_WAY_08_02","",""
