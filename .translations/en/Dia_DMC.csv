@@ -24,7 +24,7 @@
 "Scripts/Content/Story/Missions/DIA_DMC_800_Xardas.d:154","Wann und wo werden die Dämonen durchbrechen?","When and where will the demons appear?","","False","DMC_800_WHERE_15_01","",""
 "Scripts/Content/Story/Missions/DIA_DMC_800_Xardas.d:155","Es kann überall im Tal passieren. Ich weiß noch nichts genaues.","It can happen anywhere in the valley. I don't know anything more specific yet.","","False","DMC_800_WHERE_14_02","",""
 "Scripts/Content/Story/Missions/DIA_DMC_800_Xardas.d:156","Aber ich werde Ort und Zeitpunkt herausfinden.","But I will figure out the time and place.","","False","DMC_800_WHERE_14_03","",""
-"Scripts/Content/Story/Missions/DIA_DMC_800_Xardas.d:168","Wie kann ich deinen Turm verlassen? ","How can I leave the tower? ","","False","DMC_800_Xardas_LEAVING.description","",""
+"Scripts/Content/Story/Missions/DIA_DMC_800_Xardas.d:168","Wie kann ich deinen Turm verlassen? ","How can I leave the tower? ","","True","DMC_800_Xardas_LEAVING.description","",""
 "Scripts/Content/Story/Missions/DIA_DMC_800_Xardas.d:183","Wie kann ich deinen Turm verlassen? Du hast nicht zufällig eine Treppe einbauen lassen?","How can I leave the tower? You haven't had a staircase built, right?","","False","DMC_800_LEAVING_15_01","",""
 "Scripts/Content/Story/Missions/DIA_DMC_800_Xardas.d:184","Ich werde dich zum Alten Lager teleportieren. Sag mir, wenn du bereit bist.","I will teleport you to the Old Camp. Just tell me when you're ready.","","False","DMC_800_LEAVING_14_02","",""
 "Scripts/Content/Story/Missions/DIA_DMC_800_Xardas.d:185","Aber sei vorsichtig. Es ist sehr gefährlich ausserhalb des Lagers.","But be careful. It is very dangerous outside the camp.","","False","DMC_800_LEAVING_14_03","",""
