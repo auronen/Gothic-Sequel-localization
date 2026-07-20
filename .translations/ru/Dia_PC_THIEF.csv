@@ -128,7 +128,7 @@
 "Scripts/Content/Story/Missions/DIA_PC_Thief.d:931","Xardas gab mir eine Botschaft für dich mit!","У меня послание от Ксардаса!","","False","PC_Thief_XARDASLETTER_15_01","",""
 "Scripts/Content/Story/Missions/DIA_PC_Thief.d:932","Xardas...? Eine Botschaft...? Für mich...?","От Ксардаса...? Мне...?","","False","PC_Thief_XARDASLETTER_11_02","",""
 "Scripts/Content/Story/Missions/DIA_PC_Thief.d:933","Ja hier ist sie!","Да, вот оно.","","False","PC_Thief_XARDASLETTER_15_03","",""
-"Scripts/Content/Story/Missions/DIA_PC_Thief.d:938","Hmmm...","Хмм...","","False","PC_Thief_XARDASLETTER_11_04","",""
+"Scripts/Content/Story/Missions/DIA_PC_Thief.d:938","Hmmm...","Хмм...","","True","PC_Thief_XARDASLETTER_11_04","",""
 "Scripts/Content/Story/Missions/DIA_PC_Thief.d:939","Sieht verdammt übel aus. Hier, lies selbst!","Да, дела плохи... На, прочитай сам.","","False","PC_Thief_XARDASLETTER_11_05","",""
 "Scripts/Content/Story/Missions/DIA_PC_Thief.d:946","Offenbar hast du die Nachricht schon gelesen! Dann weisst du ja Bescheid.","Судя по всему, ты уже успел прочитать письмо. Тогда ты в курсе происходящего.","","False","PC_Thief_XARDASLETTER_11_06","",""
 "Scripts/Content/Story/Missions/DIA_PC_Thief.d:965","Was meint Xardas mit ...wenn ich bereit bin... ?","Когда я ""буду готов""? Что Ксардас имел в виду?","","False","PC_Thief_WHATNOW.description","",""
