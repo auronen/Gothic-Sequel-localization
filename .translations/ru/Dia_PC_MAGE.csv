@@ -7,7 +7,7 @@
 "Scripts/Content/Story/Missions/DIA_PC_Mage.d:48","Du steckst mal wieder mittendrin.","И снова ты в центре событий.","","False","PC_Mage_WELCOME_02_06","",""
 "Scripts/Content/Story/Missions/DIA_PC_Mage.d:49","So sieht's aus. Und jetzt brauche ich deine Hilfe.","Похоже на то. Мне нужна твоя помощь.","","False","PC_Mage_WELCOME_15_07","",""
 "Scripts/Content/Story/Missions/DIA_PC_Mage.d:50","Was kann ich für dich tun?","Что я могу для тебя сделать?","","False","PC_Mage_WELCOME_02_08","",""
-"Scripts/Content/Story/Missions/DIA_PC_Mage.d:62","Was weißt du über die Dämonen? ","Что тебе известно о демонах? ","","False","PC_Mage_DEMONS.description","",""
+"Scripts/Content/Story/Missions/DIA_PC_Mage.d:62","Was weißt du über die Dämonen? ","Что тебе известно о демонах? ","","True","PC_Mage_DEMONS.description","",""
 "Scripts/Content/Story/Missions/DIA_PC_Mage.d:77","Was weißt du über die Dämonen?","Что тебе известно о демонах?","","False","PC_Mage_DEMONS_15_01","",""
 "Scripts/Content/Story/Missions/DIA_PC_Mage.d:78","Nun, sie können sich an jedem Ort im Tal manifestieren.","Лишь то, что они могут появиться где угодно в долине.","","False","PC_Mage_DEMONS_02_02","",""
 "Scripts/Content/Story/Missions/DIA_PC_Mage.d:79","Was noch?","Что еще?","","False","PC_Mage_DEMONS_15_03","",""
