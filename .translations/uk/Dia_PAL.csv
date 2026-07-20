@@ -80,7 +80,7 @@
 "Scripts/Content/Story/Missions/DIA_PAL_1046_Prinzessin.d:95","Zieh dich aus und leg dich hin!","Роздягайся і лягай!","","False","PAL_1046_LOVE_15_01","",""
 "Scripts/Content/Story/Missions/DIA_PAL_1046_Prinzessin.d:96","Nichts würde ich lieber, du Starker, aber das Bett ist nicht gemacht...","Нічого б так не хотіла, силачу, але ліжко не застелене...","","False","PAL_1046_LOVE_16_02","",""
 "Scripts/Content/Story/Missions/DIA_PAL_1046_Prinzessin.d:97","Scheisse!","Курва!","","False","PAL_1046_LOVE_15_03","",""
-"Scripts/Content/Story/Missions/DIA_PAL_1046_Prinzessin.d:109","Du bist über, Bitch! ","Тобі кінець, сучко! ","","False","PAL_1046_Prinzessin_SUICIDE.description","",""
+"Scripts/Content/Story/Missions/DIA_PAL_1046_Prinzessin.d:109","Du bist über, Bitch! ","Тобі кінець, сучко! ","","True","PAL_1046_Prinzessin_SUICIDE.description","",""
 "Scripts/Content/Story/Missions/DIA_PAL_1046_Prinzessin.d:119","Du bist über, Bitch!","Тобі кінець, сучко!","","False","PAL_1046_SUICIDE_15_01","",""
 "Scripts/Content/Story/Missions/DIA_PAL_1046_Prinzessin.d:120","Oh - nein, du liebst mich nicht (dramatisch)","О ні, ти мене не кохаєш (драматично)","","False","PAL_1046_SUICIDE_16_02","",""
 "Scripts/Content/Story/Missions/DIA_PAL_1046_Prinzessin.d:121","Dann stürze ich mich jetzt zu Tode!!","Тоді я зараз кинусь на смерть!!","","False","PAL_1046_SUICIDE_16_03","",""
