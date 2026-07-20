@@ -139,7 +139,7 @@
 "Scripts/Content/Story/Missions/DIA_MIN_306_Grim.d:440","Mit dieser Spitzhacke habe ich jahrelang Erz geschürft, die ist quasi mit meinem Körper verwachsen.","Я столько лет работал этой киркой, что она теперь как часть меня.","","False","Info_Grim_WEAPON_10_02","",""
 "Scripts/Content/Story/Missions/DIA_MIN_306_Grim.d:456","Wieviele Kämpfe hast du gewonnen?","Сколько боёв ты уже выиграл?","","False","Info_Grim_VICTORIES.description","",""
 "Scripts/Content/Story/Missions/DIA_MIN_306_Grim.d:471","Wieviele Kämpfe hast du gewonnen?","Сколько боёв ты уже выиграл?","","False","Info_Grim_VICTORIES_15_01","",""
-"Scripts/Content/Story/Missions/DIA_MIN_306_Grim.d:472","Also... puhhh... wieviel waren es doch gleich...","Так... пфф... сколько ж это было...","","False","Info_Grim_VICTORIES_10_02","",""
+"Scripts/Content/Story/Missions/DIA_MIN_306_Grim.d:472","Also... puhhh... wieviel waren es doch gleich...","Так... пфф... сколько ж это было...","","True","Info_Grim_VICTORIES_10_02","",""
 "Scripts/Content/Story/Missions/DIA_MIN_306_Grim.d:473","Wenn du mich so direkt fragst... ja da waren auf jeden Fall schon mal Siege... bestimmt...","Раз ты так спрашиваешь... Да, победы у меня были... точно...","","False","Info_Grim_VICTORIES_10_03","",""
 "Scripts/Content/Story/Missions/DIA_MIN_306_Grim.d:474","OK, OK, ich denke ich bin im Bilde!","Думаю, я понял.","","False","Info_Grim_VICTORIES_15_04","",""
 "Scripts/Content/Story/Missions/DIA_MIN_306_Grim.d:486","Warum kämpfst du in der Arena?","Почему ты сражаешься на арене?","","False","Info_Grim_WHY.description","",""
