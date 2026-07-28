@@ -473,7 +473,7 @@
 "Scripts/Content/Items/Written.d:276","Ähnlich dem Feuerball wirkt dieser Zauber auf einen Gegner, springt von dort aus jedoch auf weitere Gegner über.","Stejně jako ohnivá koule, toto kouzlo může udeřit jen jednoho protivníka, pak však může přejít na další.","","False","ItWr_Book_Circle_04_6","",""
 "Scripts/Content/Items/Written.d:277","Aufladbarer Zauber","Nabíjecí kouzlo","","False","ItWr_Book_Circle_04_7","",""
 "Scripts/Content/Items/Written.d:278","Blitz","Blesk","","False","ItWr_Book_Circle_04_8","",""
-"Scripts/Content/Items/Written.d:279","Der Zauber springt auf mehrere Opfer über. Die Kraft des Blitzes ist schwer zu kontrollieren"," so das der Magier selbst Opfer werden kann""","Toto kouzlo zasahuje více cílů. Sílu blesků lze obtížně ovládat. Proto se i sám mág může stát jeho obětí.","","False","ItWr_Book_Circle_04_9",""
+"Scripts/Content/Items/Written.d:279","Der Zauber springt auf mehrere Opfer über. Die Kraft des Blitzes ist schwer zu kontrollieren, so das der Magier selbst Opfer werden kann.","Toto kouzlo zasahuje více cílů. Sílu blesků lze obtížně ovládat. Proto se i sám mág může stát jeho obětí.","","False","ItWr_Book_Circle_04_9","",""
 "Scripts/Content/Items/Written.d:280","Untote vernichten","Smrt nemrtvému","","False","ItWr_Book_Circle_04_10","",""
 "Scripts/Content/Items/Written.d:281","Die Geschöpfe der Finsternis werden mit diesem Zauber verbannt.","Toto kouzlo likviduje nemrtvé nestvůry temnot.","","False","ItWr_Book_Circle_04_11","",""
 "Scripts/Content/Items/Written.d:338","Der fünfte Kreis","Pátý kruh","","","ItWr_Book_Circle_05.name","",""

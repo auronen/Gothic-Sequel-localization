@@ -473,7 +473,7 @@
 "Scripts/Content/Items/Written.d:276","Ähnlich dem Feuerball wirkt dieser Zauber auf einen Gegner, springt von dort aus jedoch auf weitere Gegner über.","Quest'incantesimo colpisce un nemico e danneggia anche i suoi compagni.","","False","ItWr_Book_Circle_04_6","",""
 "Scripts/Content/Items/Written.d:277","Aufladbarer Zauber","Incantesimo caricabile","","False","ItWr_Book_Circle_04_7","",""
 "Scripts/Content/Items/Written.d:278","Blitz","Fulmine minore","","False","ItWr_Book_Circle_04_8","",""
-"Scripts/Content/Items/Written.d:279","Der Zauber springt auf mehrere Opfer über. Die Kraft des Blitzes ist schwer zu kontrollieren"," so das der Magier selbst Opfer werden kann""","L'incantesimo ha colpito più vittime. Il potere del fulmine è difficile da controllare, quindi il mago stesso può diventare una vittima.","","True","ItWr_Book_Circle_04_9",""
+"Scripts/Content/Items/Written.d:279","Der Zauber springt auf mehrere Opfer über. Die Kraft des Blitzes ist schwer zu kontrollieren, so das der Magier selbst Opfer werden kann.","L'incantesimo ha colpito più vittime. Il potere del fulmine è difficile da controllare, quindi il mago stesso può diventare una vittima.","","True","ItWr_Book_Circle_04_9","",""
 "Scripts/Content/Items/Written.d:280","Untote vernichten","Distruggi non morti","","False","ItWr_Book_Circle_04_10","",""
 "Scripts/Content/Items/Written.d:281","Die Geschöpfe der Finsternis werden mit diesem Zauber verbannt.","Distrugge le creature oscure non-morte.","","False","ItWr_Book_Circle_04_11","",""
 "Scripts/Content/Items/Written.d:338","Der fünfte Kreis","Il Quinto Cerchio","","False","ItWr_Book_Circle_05.name","",""
