@@ -32,7 +32,7 @@
 "Scripts/Content/Mobsi/MOB_Fletcher.d:426","5 Bolzen herstellen","Изготовить 5 болтов.","","False","MOB_fletcher_5Bolts.description","",""
 "Scripts/Content/Mobsi/MOB_Fletcher.d:449","10 Bolzen herstellen","Изготовить 10 болтов.","","False","MOB_fletcher_10Bolts.description","",""
 "Scripts/Content/Mobsi/MOB_Ore.d:260","ein wenig Erz schürfen","Добыть немного руды.","","False","MOB_Ore_1.description","",""
-"Scripts/Content/Mobsi/MOB_Ore.d:285","etwas mehr Erz schürfen","Добыть немного больше руды.","","False","MOB_Ore_5.description","",""
+"Scripts/Content/Mobsi/MOB_Ore.d:285","etwas mehr Erz schürfen","Добыть больше руды.","","False","MOB_Ore_5.description","",""
 "Scripts/Content/Mobsi/MOB_Ore.d:314","richtig viel Erz schürfen","Добыть много руды.","","False","MOB_Ore_10.description","",""
 "Scripts/Content/Mobsi/MOB_Stomper.d:198","Grünen Novicen rollen","Скрутить Зелёный новичок.","","False","MOB_Stomper.description","",""
 "Scripts/Content/Mobsi/MOB_Stomper.d:218","Schwarzen Weisen rollen","Скрутить Северный тёмный.","","False","MOB_Stomper_BlackWise.description","",""
