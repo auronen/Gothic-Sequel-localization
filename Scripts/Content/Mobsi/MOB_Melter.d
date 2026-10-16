@@ -269,11 +269,7 @@ instance MOB_Melter_RawIron(C_Info)
 	condition		= MOB_Melter_CanProduce_RawIron;
 	information		= MOB_Melter_RawIron_Info;
 	permanent		= TRUE;
-#if !comp_time {
-	description		= B_BuildMelterString(Cost_RawIron, NAME_Nugget, NAME_RawIron);
-} else {
 	description		= B_BuildMelterString!(Cost_RawIron, NAME_Nugget, NAME_RawIron);
-} // !comp_time
 };
 
 func void MOB_Melter_RawIron_Info()
@@ -297,11 +293,7 @@ instance MOB_Melter_RawLongIron(C_Info)
 	condition		= MOB_Melter_CanProduce_RawLongIron;
 	information		= MOB_Melter_RawLongIron_Info;
 	permanent		= TRUE;
-#if !comp_time {
-	description		= B_BuildMelterString(Cost_RawLongIron, NAME_Nugget, NAME_RawLongIron);
-} else {
 	description		= B_BuildMelterString!(Cost_RawLongIron, NAME_Nugget, NAME_RawLongIron);
-} // !comp_time
 };
 
 func void MOB_Melter_RawLongIron_Info()
@@ -325,11 +317,7 @@ instance MOB_Melter_BloodRawLongIron(C_Info)
 	condition		= MOB_Melter_CanProduce_BloodRawLongIron;
 	information		= MOB_Melter_BloodRawLongIron_Info;
 	permanent		= TRUE;
-#if !comp_time {
-	description		= B_BuildMelterString(Cost_RawLongIron, NAME_BloodNugget, NAME_RawLongIron);
-} else {
 	description		= B_BuildMelterString!(Cost_RawLongIron, NAME_BloodNugget, NAME_RawLongIron);
-} // !comp_time
 };
 
 func void MOB_Melter_BloodRawLongIron_Info()
@@ -353,11 +341,7 @@ instance MOB_Melter_DarkRawLongIron(C_Info)
 	condition		= MOB_Melter_CanProduce_DarkRawLongIron;
 	information		= MOB_Melter_DarkRawLongIron_Info;
 	permanent		= TRUE;
-#if !comp_time {
-	description		= B_BuildMelterString(Cost_RawLongIron, NAME_DarkNugget, NAME_RawLongIron);
-} else {
 	description		= B_BuildMelterString!(Cost_RawLongIron, NAME_DarkNugget, NAME_RawLongIron);
-} // !comp_time
 };
 
 func void MOB_Melter_DarkRawLongIron_Info()

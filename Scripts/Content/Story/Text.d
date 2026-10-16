@@ -794,6 +794,7 @@ const string TXT_INV_CAT[INV_CAT_MAX] = {
 	const string NAME_RecipesHerb						= "SUMPFKRAUT-Rezepte: ";
 	const string NAME_RecipesMushroom					= "PILZ-Rezepte: ";
 	const string NAME_RecipesMeat						= "FLEISCH-Rezepte: ";
+	const string NAME_RecipesTalamon					= "Rezeptur für Talamon";
 
 	const string NAME_RecipePotionsHealing				= "Die Herstellung von HEILTRÄNKEN erfordert folgende Reagenzien: ";
 	const string NAME_RecipePotionsMana					= "MANATRÄNKE benötigen für ihre Herstellung: ";

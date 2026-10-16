@@ -512,11 +512,7 @@ instance MOB_Sharp_Shortsword(C_Info)
 	condition		= MOB_Sharp_CanProduce_Shortsword;
 	information		= MOB_Sharp_Shortsword_Info;
 	permanent		= TRUE;
-#if !comp_time {
-	description		= B_BuildSharpString(NAME_Swordblade, NAME_Ore, NAME_Shortsword);
-} else {
 	description		= B_BuildSharpString!(NAME_Swordblade, NAME_Ore, NAME_Shortsword);
-} // !comp_time
 };
 
 func void MOB_Sharp_Shortsword_Info()
@@ -539,11 +535,7 @@ instance MOB_Sharp_Longsword(C_Info)
 	condition		= MOB_Sharp_CanProduce_Longsword;
 	information		= MOB_Sharp_Longsword_Info;
 	permanent		= TRUE;
-#if !comp_time {
-	description		= B_BuildSharpString(NAME_Swordblade, NAME_Ore, NAME_Longsword);
-} else {
 	description		= B_BuildSharpString!(NAME_Swordblade, NAME_Ore, NAME_Longsword);
-} // !comp_time
 };
 
 func void MOB_Sharp_Longsword_Info()
@@ -567,11 +559,7 @@ instance MOB_Sharp_Broadsword(C_Info)
 	condition		= MOB_Sharp_CanProduce_Broadsword;
 	information		= MOB_Sharp_Broadsword_Info;
 	permanent		= TRUE;
-#if !comp_time {
-	description		= B_BuildSharpString(NAME_Swordblade, NAME_Ore, NAME_Broadsword);
-} else {
 	description		= B_BuildSharpString!(NAME_Swordblade, NAME_Ore, NAME_Broadsword);
-} // !comp_time
 };
 
 func void MOB_Sharp_Broadsword_Info()
@@ -594,11 +582,7 @@ instance MOB_Sharp_Bastardsword(C_Info)
 	condition		= MOB_Sharp_CanProduce_Bastardsword;
 	information		= MOB_Sharp_Bastardsword_Info;
 	permanent		= TRUE;
-#if !comp_time {
-	description		= B_BuildSharpString(NAME_Swordblade, NAME_Ore, NAME_Bastardsword);
-} else {
 	description		= B_BuildSharpString!(NAME_Swordblade, NAME_Ore, NAME_Bastardsword);
-} // !comp_time
 };
 
 func void MOB_Sharp_Bastardsword_Info()
@@ -621,11 +605,7 @@ instance MOB_Sharp_2HSword(C_Info)
 	condition		= MOB_Sharp_CanProduce_2HSword;
 	information		= MOB_Sharp_2HSword_Info;
 	permanent		= TRUE;
-#if !comp_time {
-	description		= B_BuildSharpString(NAME_2HSwordblade, NAME_Ore, NAME_2HSword);
-} else {
 	description		= B_BuildSharpString!(NAME_2HSwordblade, NAME_Ore, NAME_2HSword);
-} // !comp_time
 };
 
 func void MOB_Sharp_2HSword_Info()
@@ -648,11 +628,7 @@ instance MOB_Sharp_OrcSword(C_Info)
 	condition		= MOB_Sharp_CanProduce_OrcSword;
 	information		= MOB_Sharp_OrcSword_Info;
 	permanent		= TRUE;
-#if !comp_time {
-	description		= B_BuildSharpString(NAME_2HSwordblade, NAME_BloodOre, NAME_OrcSword);
-} else {
 	description		= B_BuildSharpString!(NAME_2HSwordblade, NAME_BloodOre, NAME_OrcSword);
-} // !comp_time
 };
 
 func void MOB_Sharp_OrcSword_Info()
@@ -675,11 +651,7 @@ instance MOB_Sharp_Hatchet(C_Info)
 	condition		= MOB_Sharp_CanProduce_Hatchet;
 	information		= MOB_Sharp_Hatchet_Info;
 	permanent		= TRUE;
-#if !comp_time {
-	description		= B_BuildSharpString(NAME_Axeblade, NAME_Ore, NAME_Hatchet);
-} else {
 	description		= B_BuildSharpString!(NAME_Axeblade, NAME_Ore, NAME_Hatchet);
-} // !comp_time
 };
 
 func void MOB_Sharp_Hatchet_Info()
@@ -702,11 +674,7 @@ instance MOB_Sharp_Battleaxe(C_Info)
 	condition		= MOB_Sharp_CanProduce_Battleaxe;
 	information		= MOB_Sharp_Battleaxe_Info;
 	permanent		= TRUE;
-#if !comp_time {
-	description		= B_BuildSharpString(NAME_Axeblade, NAME_Ore, NAME_Battleaxe);
-} else {
 	description		= B_BuildSharpString!(NAME_Axeblade, NAME_Ore, NAME_Battleaxe);
-} // !comp_time
 };
 
 func void MOB_Sharp_Battleaxe_Info()
@@ -729,11 +697,7 @@ instance MOB_Sharp_DoublebladedAxe(C_Info)
 	condition		= MOB_Sharp_CanProduce_DoublebladedAxe;
 	information		= MOB_Sharp_DoublebladedAxe_Info;
 	permanent		= TRUE;
-#if !comp_time {
-	description		= B_BuildSharpString(NAME_2HAxeblade, NAME_Ore, NAME_DoublebladedAxe);
-} else {
 	description		= B_BuildSharpString!(NAME_2HAxeblade, NAME_Ore, NAME_DoublebladedAxe);
-} // !comp_time
 };
 
 func void MOB_Sharp_DoublebladedAxe_Info()
@@ -756,11 +720,7 @@ instance MOB_Sharp_Berserkaxe(C_Info)
 	condition		= MOB_Sharp_CanProduce_Berserkaxe;
 	information		= MOB_Sharp_Berserkaxe_Info;
 	permanent		= TRUE;
-#if !comp_time {
-	description		= B_BuildSharpString(NAME_2HAxeblade, NAME_Ore, NAME_BerserkAxe);
-} else {
 	description		= B_BuildSharpString!(NAME_2HAxeblade, NAME_Ore, NAME_BerserkAxe);
-} // !comp_time
 };
 
 func void MOB_Sharp_Berserkaxe_Info()
@@ -783,11 +743,7 @@ instance MOB_Sharp_OrcAxe(C_Info)
 	condition		= MOB_Sharp_CanProduce_OrcAxe;
 	information		= MOB_Sharp_OrcAxe_Info;
 	permanent		= TRUE;
-#if !comp_time {
-	description		= B_BuildSharpString(NAME_2HAxeblade, NAME_BloodOre, NAME_OrcAxe);
-} else {
 	description		= B_BuildSharpString!(NAME_2HAxeblade, NAME_BloodOre, NAME_OrcAxe);
-} // !comp_time
 };
 
 func void MOB_Sharp_OrcAxe_Info()
@@ -810,11 +766,7 @@ instance MOB_Sharp_Ironclub(C_Info)
 	condition		= MOB_Sharp_CanProduce_Ironclub;
 	information		= MOB_Sharp_Ironclub_Info;
 	permanent		= TRUE;
-#if !comp_time {
-	description		= B_BuildSharpString(NAME_Stump, NAME_Ore, NAME_Ironclub);
-} else {
 	description		= B_BuildSharpString!(NAME_Stump, NAME_Ore, NAME_Ironclub);
-} // !comp_time
 };
 
 func void MOB_Sharp_Ironclub_Info()
@@ -837,11 +789,7 @@ instance MOB_Sharp_Mace(C_Info)
 	condition		= MOB_Sharp_CanProduce_Mace;
 	information		= MOB_Sharp_Mace_Info;
 	permanent		= TRUE;
-#if !comp_time {
-	description		= B_BuildSharpString(NAME_Stump, NAME_Ore, NAME_Mace);
-} else {
 	description		= B_BuildSharpString!(NAME_Stump, NAME_Ore, NAME_Mace);
-} // !comp_time
 };
 
 func void MOB_Sharp_Mace_Info()
@@ -864,11 +812,7 @@ instance MOB_Sharp_Morningstar(C_Info)
 	condition		= MOB_Sharp_CanProduce_Morningstar;
 	information		= MOB_Sharp_Morningstar_Info;
 	permanent		= TRUE;
-#if !comp_time {
-	description		= B_BuildSharpString(NAME_Stump, NAME_Ore, NAME_Morningstar);
-} else {
 	description		= B_BuildSharpString!(NAME_Stump, NAME_Ore, NAME_Morningstar);
-} // !comp_time
 };
 
 func void MOB_Sharp_Morningstar_Info()
@@ -891,11 +835,7 @@ instance MOB_Sharp_Warhammer(C_Info)
 	condition		= MOB_Sharp_CanProduce_Warhammer;
 	information		= MOB_Sharp_Warhammer_Info;
 	permanent		= TRUE;
-#if !comp_time {
-	description		= B_BuildSharpString(NAME_2HStump, NAME_Ore, NAME_Warhammer);
-} else {
 	description		= B_BuildSharpString!(NAME_2HStump, NAME_Ore, NAME_Warhammer);
-} // !comp_time
 };
 
 func void MOB_Sharp_Warhammer_Info()
@@ -918,11 +858,7 @@ instance MOB_Sharp_Orchammer(C_Info)
 	condition		= MOB_Sharp_CanProduce_Orchammer;
 	information		= MOB_Sharp_Orchammer_Info;
 	permanent		= TRUE;
-#if !comp_time {
-	description		= B_BuildSharpString(NAME_2HStump, NAME_BloodOre, NAME_Orchammer);
-} else {
 	description		= B_BuildSharpString!(NAME_2HStump, NAME_BloodOre, NAME_Orchammer);
-} // !comp_time
 };
 
 func void MOB_Sharp_Orchammer_Info()

@@ -541,6 +541,7 @@
 "Scripts/Content/Story/Text.d:794","SUMPFKRAUT-Rezepte: ","SUMPFKRAUT-Rezepte: ","","","NAME_RecipesHerb","",""
 "Scripts/Content/Story/Text.d:795","PILZ-Rezepte: ","PILZ-Rezepte: ","","","NAME_RecipesMushroom","",""
 "Scripts/Content/Story/Text.d:796","FLEISCH-Rezepte: ","FLEISCH-Rezepte: ","","","NAME_RecipesMeat","",""
+"Scripts/Content/Story/Text.d:797","Rezeptur für Talamon","Rezeptur für Talamon","","","NAME_RecipesTalamon","",""
 "Scripts/Content/Story/Text.d:798","Die Herstellung von HEILTRÄNKEN erfordert folgende Reagenzien: ","Die Herstellung von HEILTRÄNKEN erfordert folgende Reagenzien: ","","","NAME_RecipePotionsHealing","",""
 "Scripts/Content/Story/Text.d:799","MANATRÄNKE benötigen für ihre Herstellung: ","MANATRÄNKE benötigen für ihre Herstellung: ","","","NAME_RecipePotionsMana","",""
 "Scripts/Content/Story/Text.d:800","Tränke der SCHNELLIGKEIT sind werden aus folgenden Reagenzien hergestellt: ","Tränke der SCHNELLIGKEIT sind werden aus folgenden Reagenzien hergestellt: ","","","NAME_RecipePotionsSpeed","",""

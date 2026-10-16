@@ -267,11 +267,7 @@ instance MOB_RUNEMELTER_Rune(C_Info)
 	condition		= Mob_Runemelter_CanProduceRune;
 	information		= MOB_PRODUCE_RUNE;
 	permanent		= TRUE;
-#if comp_time {
 	description		= B_BuildRunemelterString!(NAME_BlankRune, Amnt_Rune, NAME_Nugget);
-} else {
-	description		= B_BuildRunemelterString(NAME_BlankRune, Amnt_Rune, NAME_Nugget);
-}
 };
 
 func void MOB_PRODUCE_RUNE()
@@ -296,11 +292,7 @@ instance MOB_RUNEMELTER_BloodRune(C_Info)
 	condition		= Mob_Runemelter_CanProduceBloodRune;
 	information		= MOB_PRODUCE_BLOODRUNE;
 	permanent		= TRUE;
-#if comp_time {
 	description		= B_BuildRunemelterString!(NAME_BlankBloodRune, Amnt_BloodRune, NAME_BloodNugget);
-} else {
-	description		= B_BuildRunemelterString(NAME_BlankBloodRune, Amnt_BloodRune, NAME_BloodNugget);
-}
 };
 
 func void MOB_PRODUCE_BLOODRUNE()
@@ -325,11 +317,7 @@ instance MOB_RUNEMELTER_DarkRune(C_Info)
 	condition		= Mob_Runemelter_CanProduceDarkRune;
 	information		= MOB_PRODUCE_DARKRUNE;
 	permanent		= TRUE;
-#if comp_time {
 	description		= B_BuildRunemelterString!(NAME_BlankDarkRune, Amnt_DarkRune, NAME_DarkNugget);
-} else {
-	description		= B_BuildRunemelterString(NAME_BlankDarkRune, Amnt_DarkRune, NAME_DarkNugget);
-}
 };
 
 func void MOB_PRODUCE_DARKRUNE()

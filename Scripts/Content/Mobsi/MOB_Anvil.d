@@ -446,11 +446,7 @@ instance MOB_Anvil_Swordblade(C_Info)
 	condition		= MOB_Anvil_CanProduce_Swordblade;
 	information		= MOB_Anvil_Swordblade_Info;
 	permanent		= TRUE;
-#if !comp_time {
-	description		= B_BuildAnvilString(NAME_HotIron, NAME_Ore, NAME_Swordblade);
-} else {
 	description		= B_BuildAnvilString!(NAME_HotIron, NAME_Ore, NAME_Swordblade);
-} // !comp_time
 };
 
 func void MOB_Anvil_Swordblade_Info()
@@ -473,11 +469,7 @@ instance MOB_Anvil_2HSwordblade(C_Info)
 	condition		= MOB_Anvil_CanProduce_2HSwordblade;
 	information		= MOB_Anvil_2HSwordblade_Info;
 	permanent		= TRUE;
-#if !comp_time {
-	description		= B_BuildAnvilString(NAME_HotLongIron, NAME_Ore, NAME_2HSwordblade);
-} else {
 	description		= B_BuildAnvilString!(NAME_HotLongIron, NAME_Ore, NAME_2HSwordblade);
-} // !comp_time
 };
 
 func void MOB_Anvil_2HSwordblade_Info()
@@ -500,11 +492,7 @@ instance MOB_Anvil_Blood2HSwordblade(C_Info)
 	condition		= MOB_Anvil_CanProduce_Blood2HSwordblade;
 	information		= MOB_Anvil_Blood2HSwordblade_Info;
 	permanent		= TRUE;
-#if !comp_time {
-	description		= B_BuildAnvilString(NAME_HotLongIron, NAME_BloodOre, NAME_2HSwordblade);
-} else {
 	description		= B_BuildAnvilString!(NAME_HotLongIron, NAME_BloodOre, NAME_2HSwordblade);
-} // !comp_time
 };
 
 func void MOB_Anvil_Blood2HSwordblade_Info()
@@ -527,11 +515,7 @@ instance MOB_Anvil_Dark2HSwordblade(C_Info)
 	condition		= MOB_Anvil_CanProduce_Dark2HSwordblade;
 	information		= MOB_Anvil_Dark2HSwordblade_Info;
 	permanent		= TRUE;
-#if !comp_time {
-	description		= B_BuildAnvilString(NAME_HotLongIron, NAME_DarkOre, NAME_2HSwordblade);
-} else {
 	description		= B_BuildAnvilString!(NAME_HotLongIron, NAME_DarkOre, NAME_2HSwordblade);
-} // !comp_time
 };
 
 func void MOB_Anvil_Dark2HSwordblade_Info()
@@ -554,11 +538,7 @@ instance MOB_Anvil_Axeblade(C_Info)
 	condition		= MOB_Anvil_CanProduce_Axeblade;
 	information		= MOB_Anvil_Axeblade_Info;
 	permanent		= TRUE;
-#if !comp_time {
-	description		= B_BuildAnvilString(NAME_HotIron, NAME_Ore, NAME_Axeblade);
-} else {
 	description		= B_BuildAnvilString!(NAME_HotIron, NAME_Ore, NAME_Axeblade);
-} // !comp_time
 };
 
 func void MOB_Anvil_Axeblade_Info()
@@ -581,11 +561,7 @@ instance MOB_Anvil_MOB_Anvil_AutoExit(C_Info)
 	condition		= MOB_Anvil_CanProduce_2HAxeblade;
 	information		= MOB_Anvil_2HAxeblade_Info;
 	permanent		= TRUE;
-#if !comp_time {
-	description		= B_BuildAnvilString(NAME_HotLongIron, NAME_Ore, NAME_2HAxeblade);
-} else {
 	description		= B_BuildAnvilString!(NAME_HotLongIron, NAME_Ore, NAME_2HAxeblade);
-} // !comp_time
 };
 
 func void MOB_Anvil_2HAxeblade_Info()
@@ -608,11 +584,7 @@ instance MOB_Anvil_Blood2HAxeblade(C_Info)
 	condition		= MOB_Anvil_CanProduce_Blood2HAxeblade;
 	information		= MOB_Anvil_Blood2HAxeblade_Info;
 	permanent		= TRUE;
-#if !comp_time {
-	description		= B_BuildAnvilString(NAME_HotLongIron, NAME_BloodOre, NAME_2HAxeblade);
-} else {
 	description		= B_BuildAnvilString!(NAME_HotLongIron, NAME_BloodOre, NAME_2HAxeblade);
-} // !comp_time
 };
 
 func void MOB_Anvil_Blood2HAxeblade_Info()
@@ -635,11 +607,7 @@ instance MOB_Anvil_Dark2HAxeblade(C_Info)
 	condition		= MOB_Anvil_CanProduce_Dark2HAxeblade;
 	information		= MOB_Anvil_Dark2HAxeblade_Info;
 	permanent		= TRUE;
-#if !comp_time {
-	description		= B_BuildAnvilString(NAME_HotLongIron, NAME_DarkOre, NAME_2HAxeblade);
-} else {
 	description		= B_BuildAnvilString!(NAME_HotLongIron, NAME_DarkOre, NAME_2HAxeblade);
-} // !comp_time
 };
 
 func void MOB_Anvil_Dark2HAxeblade_Info()
@@ -662,11 +630,7 @@ instance MOB_Anvil_Stump(C_Info)
 	condition		= MOB_Anvil_CanProduce_Stump;
 	information		= MOB_Anvil_Stump_Info;
 	permanent		= TRUE;
-#if !comp_time {
-	description		= B_BuildAnvilString(NAME_HotIron, NAME_Ore, NAME_Stump);
-} else {
 	description		= B_BuildAnvilString!(NAME_HotIron, NAME_Ore, NAME_Stump);
-} // !comp_time
 };
 
 func void MOB_Anvil_Stump_Info()
@@ -689,11 +653,7 @@ instance MOB_Anvil_2HStump(C_Info)
 	condition		= MOB_Anvil_CanProduce_2HStump;
 	information		= MOB_Anvil_2HStump_Info;
 	permanent		= TRUE;
-#if !comp_time {
-	description		= B_BuildAnvilString(NAME_HotLongIron, NAME_Ore, NAME_2HStump);
-} else {
 	description		= B_BuildAnvilString!(NAME_HotLongIron, NAME_Ore, NAME_2HStump);
-} // !comp_time
 };
 
 func void MOB_Anvil_2HStump_Info()
@@ -716,11 +676,7 @@ instance MOB_Anvil_Blood2HStump(C_Info)
 	condition		= MOB_Anvil_CanProduce_Blood2HStump;
 	information		= MOB_Anvil_Blood2HStump_Info;
 	permanent		= TRUE;
-#if !comp_time {
-	description		= B_BuildAnvilString(NAME_HotLongIron, NAME_BloodOre, NAME_2HStump);
-} else {
 	description		= B_BuildAnvilString!(NAME_HotLongIron, NAME_BloodOre, NAME_2HStump);
-} // !comp_time
 };
 
 func void MOB_Anvil_Blood2HStump_Info()
@@ -743,11 +699,7 @@ instance MOB_Anvil_Dark2HStump(C_Info)
 	condition		= MOB_Anvil_CanProduce_Dark2HStump;
 	information		= MOB_Anvil_Dark2HStump_Info;
 	permanent		= TRUE;
-#if !comp_time {
-	description		= B_BuildAnvilString(NAME_HotLongIron, NAME_DarkOre, NAME_2HStump);
-} else {
 	description		= B_BuildAnvilString!(NAME_HotLongIron, NAME_DarkOre, NAME_2HStump);
-} // !comp_time
 };
 
 func void MOB_Anvil_Dark2HStump_Info()

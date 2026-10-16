@@ -428,11 +428,7 @@ instance MOB_Cool_SWORDBLADE(C_Info)
 	condition		= MOB_Cool_CanProduce_Swordblade;
 	information		= MOB_Cool_Swordblade_Info;
 	permanent		= TRUE;
-#if !comp_time {
-	description		= B_BuildCoolString(NAME_HotSwordblade, NAME_Ore, NAME_Swordblade);
-} else {
 	description		= B_BuildCoolString!(NAME_HotSwordblade, NAME_Ore, NAME_Swordblade);
-} // !comp_time
 };
 
 func void MOB_Cool_Swordblade_Info()
@@ -455,11 +451,7 @@ instance MOB_Cool_2HSwordblade(C_Info)
 	condition		= MOB_Cool_CanProduce_2HSwordblade;
 	information		= MOB_Cool_2HSwordblade_Info;
 	permanent		= TRUE;
-#if !comp_time {
-	description		= B_BuildCoolString(NAME_Hot2HSwordblade, NAME_Ore, NAME_2HSwordblade);
-} else {
 	description		= B_BuildCoolString!(NAME_Hot2HSwordblade, NAME_Ore, NAME_2HSwordblade);
-} // !comp_time
 };
 
 func void MOB_Cool_2HSwordblade_Info()
@@ -482,11 +474,7 @@ instance MOB_Cool_Blood2HSwordblade(C_Info)
 	condition		= MOB_Cool_CanProduce_Blood2HSwordblade;
 	information		= MOB_Cool_Blood2HSwordblade_Info;
 	permanent		= TRUE;
-#if !comp_time {
-	description		= B_BuildCoolString(NAME_Hot2HSwordblade, NAME_BloodOre, NAME_2HSwordblade);
-} else {
 	description		= B_BuildCoolString!(NAME_Hot2HSwordblade, NAME_BloodOre, NAME_2HSwordblade);
-} // !comp_time
 };
 
 func void MOB_Cool_Blood2HSwordblade_Info()
@@ -509,11 +497,7 @@ instance MOB_Cool_Dark2HSwordblade(C_Info)
 	condition		= MOB_Cool_CanProduce_Dark2HSwordblade;
 	information		= MOB_Cool_Dark2HSwordblade_Info;
 	permanent		= TRUE;
-#if !comp_time {
-	description		= B_BuildCoolString(NAME_Hot2HSwordblade, NAME_DarkOre, NAME_2HSwordblade);
-} else {
 	description		= B_BuildCoolString!(NAME_Hot2HSwordblade, NAME_DarkOre, NAME_2HSwordblade);
-} // !comp_time
 };
 
 func void MOB_Cool_Dark2HSwordblade_Info()
@@ -536,11 +520,7 @@ instance MOB_Cool_Axeblade(C_Info)
 	condition		= MOB_Cool_CanProduce_Axeblade;
 	information		= MOB_Cool_Axeblade_Info;
 	permanent		= TRUE;
-#if !comp_time {
-	description		= B_BuildCoolString(NAME_HotAxeblade, NAME_Ore, NAME_Axeblade);
-} else {
 	description		= B_BuildCoolString!(NAME_HotAxeblade, NAME_Ore, NAME_Axeblade);
-} // !comp_time
 };
 
 func void MOB_Cool_Axeblade_Info()
@@ -563,11 +543,7 @@ instance MOB_Cool_2HAxeblade(C_Info)
 	condition		= MOB_Cool_CanProduce_2HAxeblade;
 	information		= MOB_Cool_2HAxeblade_Info;
 	permanent		= TRUE;
-#if !comp_time {
-	description		= B_BuildCoolString(NAME_Hot2HAxeblade, NAME_Ore, NAME_2HAxeblade);
-} else {
 	description		= B_BuildCoolString!(NAME_Hot2HAxeblade, NAME_Ore, NAME_2HAxeblade);
-} // !comp_time
 };
 
 func void MOB_Cool_2HAxeblade_Info()
@@ -590,11 +566,7 @@ instance MOB_Cool_Blood2HAxeblade(C_Info)
 	condition		= MOB_Cool_CanProduce_Blood2HAxeblade;
 	information		= MOB_Cool_Blood2HAxeblade_Info;
 	permanent		= TRUE;
-#if !comp_time {
-	description		= B_BuildCoolString(NAME_Hot2HAxeblade, NAME_BloodOre, NAME_2HAxeblade);
-} else {
 	description		= B_BuildCoolString!(NAME_Hot2HAxeblade, NAME_BloodOre, NAME_2HAxeblade);
-} // !comp_time
 };
 
 func void MOB_Cool_Blood2HAxeblade_Info()
@@ -617,11 +589,7 @@ instance MOB_Cool_Dark2HAxeblade(C_Info)
 	condition		= MOB_Cool_CanProduce_Dark2HAxeblade;
 	information		= MOB_Cool_Dark2HAxeblade_Info;
 	permanent		= TRUE;
-#if !comp_time {
-	description		= B_BuildCoolString(NAME_Hot2HAxeblade, NAME_DarkOre, NAME_2HAxeblade);
-} else {
 	description		= B_BuildCoolString!(NAME_Hot2HAxeblade, NAME_DarkOre, NAME_2HAxeblade);
-} // !comp_time
 };
 
 func void MOB_Cool_Dark2HAxeblade_Info()
@@ -644,11 +612,7 @@ instance MOB_Cool_Stump(C_Info)
 	condition		= MOB_Cool_CanProduce_Stump;
 	information		= MOB_Cool_Stump_Info;
 	permanent		= TRUE;
-#if !comp_time {
-	description		= B_BuildCoolString(NAME_HotStump, NAME_Ore, NAME_Stump);
-} else {
 	description		= B_BuildCoolString!(NAME_HotStump, NAME_Ore, NAME_Stump);
-} // !comp_time
 };
 
 func void MOB_Cool_Stump_Info()
@@ -671,11 +635,7 @@ instance MOB_Cool_2HStump(C_Info)
 	condition		= MOB_Cool_CanProduce_2HStump;
 	information		= MOB_Cool_2HStump_Info;
 	permanent		= TRUE;
-#if !comp_time {
-	description		= B_BuildCoolString(NAME_Hot2HStump, NAME_Ore, NAME_2HStump);
-} else {
 	description		= B_BuildCoolString!(NAME_Hot2HStump, NAME_Ore, NAME_2HStump);
-} // !comp_time
 };
 
 func void MOB_Cool_2HStump_Info()
@@ -698,11 +658,7 @@ instance MOB_Cool_Blood2HStump(C_Info)
 	condition		= MOB_Cool_CanProduce_Blood2HStump;
 	information		= MOB_Cool_Blood2HStump_Info;
 	permanent		= TRUE;
-#if !comp_time {
-	description		= B_BuildCoolString(NAME_Hot2HStump, NAME_BloodOre, NAME_2HStump);
-} else {
 	description		= B_BuildCoolString!(NAME_Hot2HStump, NAME_BloodOre, NAME_2HStump);
-} // !comp_time
 };
 
 func void MOB_Cool_Blood2HStump_Info()
@@ -725,11 +681,7 @@ instance MOB_Cool_Dark2HStump(C_Info)
 	condition		= MOB_Cool_CanProduce_Dark2HStump;
 	information		= MOB_Cool_Dark2HStump_Info;
 	permanent		= TRUE;
-#if !comp_time {
-	description		= B_BuildCoolString(NAME_Hot2HStump, NAME_DarkOre, NAME_2HStump);
-} else {
 	description		= B_BuildCoolString!(NAME_Hot2HStump, NAME_DarkOre, NAME_2HStump);
-} // !comp_time
 };
 
 func void MOB_Cool_Dark2HStump_Info()

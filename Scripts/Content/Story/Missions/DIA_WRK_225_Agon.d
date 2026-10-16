@@ -451,7 +451,7 @@ instance WRK_225_Agon_GIVESILVER(C_Info)
 	condition		= WRK_225_Agon_GIVESILVER_Condition;
 	information		= WRK_225_Agon_GIVESILVER_Info;
 	permanent		= TRUE;
-	description		= B_BuildBuyString!("Rezeptur für Talamon", AGON_FORMULA_PRICE);
+	description		= B_BuildBuyString!(NAME_RecipesTalamon, AGON_FORMULA_PRICE);
 
 };
 

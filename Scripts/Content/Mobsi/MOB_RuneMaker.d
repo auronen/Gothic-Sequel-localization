@@ -676,11 +676,7 @@ instance MOB_Runemaker_Light(C_Info)
 	condition		= MOB_Runemaker_CanProduceRuneLight;
 	information		= MOB_PRODUCE_Light_RUNE;
 	permanent		= TRUE;
-#if comp_time {
 	description		= B_BuildRunemakerString!(NAME_Light, NAME_Rune, ManaPerm_RuneLight);
-} else {
-	description		= B_BuildRunemakerString(NAME_Light, NAME_Rune, ManaPerm_RuneLight);
-}
 };
 
 func void MOB_PRODUCE_Light_RUNE()
@@ -708,11 +704,7 @@ instance MOB_Runemaker_Firebolt(C_Info)
 	condition		= MOB_Runemaker_CanProduceRuneFirebolt;
 	information		= MOB_PRODUCE_Firebolt_RUNE;
 	permanent		= TRUE;
-#if comp_time {
 	description		= B_BuildRunemakerString!(NAME_Firebolt, NAME_Rune, ManaPerm_RuneFirebolt);
-} else {
-	description		= B_BuildRunemakerString(NAME_Firebolt, NAME_Rune, ManaPerm_RuneFirebolt);
-}
 };
 
 func void MOB_PRODUCE_Firebolt_RUNE()
@@ -740,11 +732,7 @@ instance MOB_Runemaker_Heal(C_Info)
 	condition		= MOB_Runemaker_CanProduceRuneHeal;
 	information		= MOB_PRODUCE_Heal_RUNE;
 	permanent		= TRUE;
-#if comp_time {
 	description		= B_BuildRunemakerString!(NAME_Heal, NAME_Rune, ManaPerm_RuneHeal);
-} else {
-	description		= B_BuildRunemakerString(NAME_Heal, NAME_Rune, ManaPerm_RuneHeal);
-}
 };
 
 func void MOB_PRODUCE_Heal_RUNE()
@@ -772,11 +760,7 @@ instance MOB_Runemaker_Thunderbolt(C_Info)
 	condition		= MOB_Runemaker_CanProduceRuneThunderbolt;
 	information		= MOB_PRODUCE_Thunderbolt_RUNE;
 	permanent		= TRUE;
-#if comp_time {
 	description		= B_BuildRunemakerString!(NAME_Thunderbolt, NAME_Rune, ManaPerm_RuneThunderbolt);
-} else {
-	description		= B_BuildRunemakerString(NAME_Thunderbolt, NAME_Rune, ManaPerm_RuneThunderbolt);
-}
 };
 
 func void MOB_PRODUCE_Thunderbolt_RUNE()
@@ -804,11 +788,7 @@ instance MOB_Runemaker_Windfist(C_Info)
 	condition		= MOB_Runemaker_CanProduceRuneWindfist;
 	information		= MOB_PRODUCE_Windfist_RUNE;
 	permanent		= TRUE;
-#if comp_time {
 	description		= B_BuildRunemakerString!(NAME_Windfist, NAME_Rune, ManaPerm_RuneWindfist);
-} else {
-	description		= B_BuildRunemakerString(NAME_Windfist, NAME_Rune, ManaPerm_RuneWindfist);
-}
 };
 
 func void MOB_PRODUCE_Windfist_RUNE()
@@ -836,11 +816,7 @@ instance MOB_Runemaker_Sleep(C_Info)
 	condition		= MOB_Runemaker_CanProduceRuneSleep;
 	information		= MOB_PRODUCE_Sleep_RUNE;
 	permanent		= TRUE;
-#if comp_time {
 	description		= B_BuildRunemakerString!(NAME_Sleep, NAME_Rune, ManaPerm_RuneSleep);
-} else {
-	description		= B_BuildRunemakerString(NAME_Sleep, NAME_Rune, ManaPerm_RuneSleep);
-}
 };
 
 func void MOB_PRODUCE_Sleep_RUNE()
@@ -868,11 +844,7 @@ instance MOB_Runemaker_Charm(C_Info)
 	condition		= MOB_Runemaker_CanProduceRuneCharm;
 	information		= MOB_PRODUCE_Charm_RUNE;
 	permanent		= TRUE;
-#if comp_time {
 	description		= B_BuildRunemakerString!(NAME_Charm, NAME_Rune, ManaPerm_RuneCharm);
-} else {
-	description		= B_BuildRunemakerString(NAME_Charm, NAME_Rune, ManaPerm_RuneCharm);
-}
 };
 
 func void MOB_PRODUCE_Charm_RUNE()
@@ -900,11 +872,7 @@ instance MOB_Runemaker_Thunderball(C_Info)
 	condition		= MOB_Runemaker_CanProduceRuneThunderball;
 	information		= MOB_PRODUCE_Thunderball_RUNE;
 	permanent		= TRUE;
-#if comp_time {
 	description		= B_BuildRunemakerString!(NAME_Thunderball, NAME_Rune, ManaPerm_RuneThunderball);
-} else {
-	description		= B_BuildRunemakerString(NAME_Thunderball, NAME_Rune, ManaPerm_RuneThunderball);
-}
 };
 
 func void MOB_PRODUCE_Thunderball_RUNE()
@@ -932,11 +900,7 @@ instance MOB_Runemaker_Icecube(C_Info)
 	condition		= MOB_Runemaker_CanProduceRuneIcecube;
 	information		= MOB_PRODUCE_Icecube_RUNE;
 	permanent		= TRUE;
-#if comp_time {
 	description		= B_BuildRunemakerString!(NAME_Icecube, NAME_Rune, ManaPerm_RuneIcecube);
-} else {
-	description		= B_BuildRunemakerString(NAME_Icecube, NAME_Rune, ManaPerm_RuneIcecube);
-}
 };
 
 func void MOB_PRODUCE_Icecube_RUNE()
@@ -964,11 +928,7 @@ instance MOB_Runemaker_Pyrokinesis(C_Info)
 	condition		= MOB_Runemaker_CanProduceRunePyrokinesis;
 	information		= MOB_PRODUCE_Pyrokinesis_RUNE;
 	permanent		= TRUE;
-#if comp_time {
 	description		= B_BuildRunemakerString!(NAME_Pyrokinesis, NAME_Rune, ManaPerm_RunePyrokinesis);
-} else {
-	description		= B_BuildRunemakerString(NAME_Pyrokinesis, NAME_Rune, ManaPerm_RunePyrokinesis);
-}
 };
 
 func void MOB_PRODUCE_Pyrokinesis_RUNE()
@@ -996,11 +956,7 @@ instance MOB_Runemaker_DestroyUndead(C_Info)
 	condition		= MOB_Runemaker_CanProduceRuneDestroyUndead;
 	information		= MOB_PRODUCE_DestroyUndead_RUNE;
 	permanent		= TRUE;
-#if comp_time {
 	description		= B_BuildRunemakerString!(NAME_Destroyundead, NAME_Rune, ManaPerm_RuneDestroyUndead);
-} else {
-	description		= B_BuildRunemakerString(NAME_Destroyundead, NAME_Rune, ManaPerm_RuneDestroyUndead);
-}
 };
 
 func void MOB_PRODUCE_DestroyUndead_RUNE()
@@ -1028,11 +984,7 @@ instance MOB_Runemaker_Chainlightning(C_Info)
 	condition		= MOB_Runemaker_CanProduceRuneChainlightning;
 	information		= MOB_PRODUCE_Chainlightning_RUNE;
 	permanent		= TRUE;
-#if comp_time {
 	description		= B_BuildRunemakerString!(NAME_Chainlightning, NAME_Rune, ManaPerm_RuneChainlightning);
-} else {
-	description		= B_BuildRunemakerString(NAME_Chainlightning, NAME_Rune, ManaPerm_RuneChainlightning);
-}
 };
 
 func void MOB_PRODUCE_Chainlightning_RUNE()
@@ -1060,11 +1012,7 @@ instance MOB_Runemaker_Stormfist(C_Info)
 	condition		= MOB_Runemaker_CanProduceRuneStormfist;
 	information		= MOB_PRODUCE_Stormfist_RUNE;
 	permanent		= TRUE;
-#if comp_time {
 	description		= B_BuildRunemakerString!(NAME_Stormfist, NAME_Rune, ManaPerm_RuneStormfist);
-} else {
-	description		= B_BuildRunemakerString(NAME_Stormfist, NAME_Rune, ManaPerm_RuneStormfist);
-}
 };
 
 func void MOB_PRODUCE_Stormfist_RUNE()
@@ -1092,11 +1040,7 @@ instance MOB_Runemaker_Telekinesis(C_Info)
 	condition		= MOB_Runemaker_CanProduceRuneTelekinesis;
 	information		= MOB_PRODUCE_Telekinesis_RUNE;
 	permanent		= TRUE;
-#if comp_time {
 	description		= B_BuildRunemakerString!(NAME_Telekinesis, NAME_Rune, ManaPerm_RuneTelekinesis);
-} else {
-	description		= B_BuildRunemakerString(NAME_Telekinesis, NAME_Rune, ManaPerm_RuneTelekinesis);
-}
 };
 
 func void MOB_PRODUCE_Telekinesis_RUNE()
@@ -1124,11 +1068,7 @@ instance MOB_Runemaker_Fireball(C_Info)
 	condition		= MOB_Runemaker_CanProduceRuneFireball;
 	information		= MOB_PRODUCE_Fireball_RUNE;
 	permanent		= TRUE;
-#if comp_time {
 	description		= B_BuildRunemakerString!(NAME_Fireball, NAME_Rune, ManaPerm_RuneFireball);
-} else {
-	description		= B_BuildRunemakerString(NAME_Fireball, NAME_Rune, ManaPerm_RuneFireball);
-}
 };
 
 func void MOB_PRODUCE_Fireball_RUNE()
@@ -1156,11 +1096,7 @@ instance MOB_Runemaker_FireStorm(C_Info)
 	condition		= MOB_Runemaker_CanProduceRuneFireStorm;
 	information		= MOB_PRODUCE_FireStorm_RUNE;
 	permanent		= TRUE;
-#if comp_time {
 	description		= B_BuildRunemakerString!(NAME_FireStorm, NAME_Rune, ManaPerm_RuneFireStorm);
-} else {
-	description		= B_BuildRunemakerString(NAME_FireStorm, NAME_Rune, ManaPerm_RuneFireStorm);
-}
 };
 
 func void MOB_PRODUCE_FireStorm_RUNE()
@@ -1188,11 +1124,7 @@ instance MOB_Runemaker_Control(C_Info)
 	condition		= MOB_Runemaker_CanProduceRuneControl;
 	information		= MOB_PRODUCE_Control_RUNE;
 	permanent		= TRUE;
-#if comp_time {
 	description		= B_BuildRunemakerString!(NAME_Control, NAME_Rune, ManaPerm_RuneControl);
-} else {
-	description		= B_BuildRunemakerString(NAME_Control, NAME_Rune, ManaPerm_RuneControl);
-}
 };
 
 func void MOB_PRODUCE_Control_RUNE()
@@ -1220,11 +1152,7 @@ instance MOB_Runemaker_BreathOfDeath(C_Info)
 	condition		= MOB_Runemaker_CanProduceRuneBreathOfDeath;
 	information		= MOB_PRODUCE_BreathOfDeath_RUNE;
 	permanent		= TRUE;
-#if comp_time {
 	description		= B_BuildRunemakerString!(NAME_BreathOfDeath, NAME_Rune, ManaPerm_RuneBreathOfDeath);
-} else {
-	description		= B_BuildRunemakerString(NAME_BreathOfDeath, NAME_Rune, ManaPerm_RuneBreathOfDeath);
-}
 };
 
 func void MOB_PRODUCE_BreathOfDeath_RUNE()
@@ -1251,11 +1179,7 @@ instance MOB_Runemaker_Icewave(C_Info)
 	condition		= MOB_Runemaker_CanProduceRuneIcewave;
 	information		= MOB_PRODUCE_Icewave_RUNE;
 	permanent		= TRUE;
-#if comp_time {
 	description		= B_BuildRunemakerString!(NAME_Icewave, NAME_Rune, ManaPerm_RuneIcewave);
-} else {
-	description		= B_BuildRunemakerString(NAME_Icewave, NAME_Rune, ManaPerm_RuneIcewave);
-}
 };
 
 func void MOB_PRODUCE_Icewave_RUNE()
@@ -1282,11 +1206,7 @@ instance MOB_Runemaker_Firerain(C_Info)
 	condition		= MOB_Runemaker_CanProduceRuneFirerain;
 	information		= MOB_PRODUCE_Firerain_RUNE;
 	permanent		= TRUE;
-#if comp_time {
 	description		= B_BuildRunemakerString!(NAME_Firerain, NAME_Rune, ManaPerm_RuneFirerain);
-} else {
-	description		= B_BuildRunemakerString(NAME_Firerain, NAME_Rune, ManaPerm_RuneFirerain);
-}
 };
 
 func void MOB_PRODUCE_Firerain_RUNE()
