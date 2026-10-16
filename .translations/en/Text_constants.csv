@@ -541,7 +541,7 @@
 "Scripts/Content/Story/Text.d:796","SUMPFKRAUT-Rezepte: ","SWAMPWEED recipes: ","","True","NAME_RecipesHerb","",""
 "Scripts/Content/Story/Text.d:798","PILZ-Rezepte: ","MUSHROOM recipes: ","","True","NAME_RecipesMushroom","",""
 "Scripts/Content/Story/Text.d:798","FLEISCH-Rezepte: ","MEAT recipes: ","","True","NAME_RecipesMeat","",""
-"Scripts/Content/Story/Text.d:797","Rezeptur für Talamon","","","","NAME_RecipesTalamon","",""
+"Scripts/Content/Story/Text.d:797","Rezeptur für Talamon","Recipe for Talamon","","False","NAME_RecipesTalamon","",""
 "Scripts/Content/Story/Text.d:799","Die Herstellung von HEILTRÄNKEN erfordert folgende Reagenzien: ","The preparation of HEALTHING DRINKS requires the following reagents: ","","True","NAME_RecipePotionsHealing","",""
 "Scripts/Content/Story/Text.d:800","MANATRÄNKE benötigen für ihre Herstellung: ","MANATRENCES required for their preparation: ","","True","NAME_RecipePotionsMana","",""
 "Scripts/Content/Story/Text.d:802","Tränke der SCHNELLIGKEIT sind werden aus folgenden Reagenzien hergestellt: ","Potions of SPEED are made from the following reagents: ","","True","NAME_RecipePotionsSpeed","",""
