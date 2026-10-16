@@ -541,7 +541,7 @@
 "Scripts/Content/Story/Text.d:796","SUMPFKRAUT-Rezepte: ","Recepty z trávy z bažin: ","","False","NAME_RecipesHerb","",""
 "Scripts/Content/Story/Text.d:798","PILZ-Rezepte: ","Recepty z hub: ","","False","NAME_RecipesMushroom","",""
 "Scripts/Content/Story/Text.d:798","FLEISCH-Rezepte: ","Recepty z masa: ","","False","NAME_RecipesMeat","",""
-"Scripts/Content/Story/Text.d:797","Rezeptur für Talamon","Recepty pro Talmona","","","NAME_RecipesTalamon","",""
+"Scripts/Content/Story/Text.d:797","Rezeptur für Talamon","Recept pro Talamona","","False","NAME_RecipesTalamon","",""
 "Scripts/Content/Story/Text.d:799","Die Herstellung von HEILTRÄNKEN erfordert folgende Reagenzien: ","Příprava LÉČIVÝCH lektvarů vyžaduje následující ingredience: ","","False","NAME_RecipePotionsHealing","",""
 "Scripts/Content/Story/Text.d:800","MANATRÄNKE benötigen für ihre Herstellung: ","Lektvary MANY vyžadují ke své přípravě: ","","False","NAME_RecipePotionsMana","",""
 "Scripts/Content/Story/Text.d:802","Tränke der SCHNELLIGKEIT sind werden aus folgenden Reagenzien hergestellt: ","Lektvary RYCHLOSTI se připravuji z následujících přísad: ","","False","NAME_RecipePotionsSpeed","",""
