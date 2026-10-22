@@ -88,7 +88,7 @@
 "Scripts/Content/Items/Melee_Weapons.d:852","Nagelkeule","Дубина с гвоздями","","False","ItMw_Nailmace.name","",""
 "Scripts/Content/Items/Melee_Weapons.d:883","Verwitterte Axt","Изношенный топор","","False","ItMw_WitheredAxe.name","",""
 "Scripts/Content/Items/Melee_Weapons.d:914","schartiger Streitkolben","Зазубренная булава","","False","ItMw_NotchedMace.name","",""
-"Scripts/Content/Items/Melee_Weapons.d:1014","Nur Milizsoldaten tragen diese Art","Только стражники носят","","False","ItMw_MilitiaSword.text[0]","",""
+"Scripts/Content/Items/Melee_Weapons.d:1014","Nur Milizsoldaten tragen diese Art","Только ополченцы носят","","False","ItMw_MilitiaSword.text[0]","",""
 "Scripts/Content/Items/Melee_Weapons.d:1015","der Langschwerter.","подобные длинные мечи.","","False","ItMw_MilitiaSword.text[1]","",""
 "Scripts/Content/Items/Melee_Weapons.d:1047","Nur die Paladine des Königs tragen","Только паладины короля носят","","False","ItMw_PaladinSword.text[0]","",""
 "Scripts/Content/Items/Melee_Weapons.d:1048","solche zweihändigen Schwerter.","подобные двуручные мечи.","","False","ItMw_PaladinSword.text[1]","",""
